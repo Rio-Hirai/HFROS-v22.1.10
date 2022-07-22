@@ -1,0 +1,224 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_have_no_documents_on_this_transaction.
+do_you_know_anything?
+i_just_tracked_down_steve.
+there_is_a_god.
+go_ahead_and_notify.
+did_we_get_ours_back?
+i_am_not_concerned_with_the_brown_money.
+brian_is_working_this.
+then_we_can_go_to_zainy_brainy.
+who_should_i_contact_regarding_severance?
+------------
+
+
+test_text : input_text
+
+i_have_no_documents_on_this_transaction.
+i_have_no_documents_on_this_transaction.
+input_start = 2021/01/18 16:13:25:801
+input_end = 2021/01/18 16:14:22:250
+Time_Span = 0:00:56.4494993
+
+
+
+do_you_know_anything?
+do_you_know_anything?
+input_start = 2021/01/18 16:14:23:87
+input_end = 2021/01/18 16:14:42:203
+Time_Span = 0:00:19.115904
+
+
+
+i_just_tracked_down_steve.
+i_just_tracked_down_steve.
+input_start = 2021/01/18 16:14:43:573
+input_end = 2021/01/18 16:15:24:848
+Time_Span = 0:00:41.2754999
+
+
+
+there_is_a_god.
+there_is_a_god.
+input_start = 2021/01/18 16:15:25:683
+input_end = 2021/01/18 16:15:40:828
+Time_Span = 0:00:15.1445602
+
+
+
+go_ahead_and_notify.
+go_ahead_and_notify.
+input_start = 2021/01/18 16:15:41:402
+input_end = 2021/01/18 16:16:14:596
+Time_Span = 0:00:33.1935222
+
+
+
+did_we_get_ours_back?
+did_we_get_ours_back?
+input_start = 2021/01/18 16:16:15:448
+input_end = 2021/01/18 16:16:36:377
+Time_Span = 0:00:20.9288839
+
+
+
+i_am_not_concerned_with_the_brown_money.
+i_am_not_concerned_with_the_brown_money.
+input_start = 2021/01/18 16:16:39:148
+input_end = 2021/01/18 16:17:20:805
+Time_Span = 0:00:41.6570222
+
+
+
+brian_is_working_this.
+brian_is_working_this.
+input_start = 2021/01/18 16:17:21:714
+input_end = 2021/01/18 16:17:45:793
+Time_Span = 0:00:24.0789178
+
+
+
+then_we_can_go_to_zainy_brainy.
+then_we_can_go_to_zainy_brainy.
+input_start = 2021/01/18 16:17:46:857
+input_end = 2021/01/18 16:18:25:296
+Time_Span = 0:00:38.4390484
+
+
+
+who_should_i_contact_regarding_severance?
+who_should_i_contact_regarding_severance?
+input_start = 2021/01/18 16:18:26:382
+input_end = 2021/01/18 16:19:38:928
+Time_Span = 0:01:12.54531
+
+
+
+------------
+
+
+input_chara = 389
+
+input_backspace = 102
+
+input_totalstart = 2021/01/18 16:13:25:801
+
+input_totalend = 2021/01/18 16:19:38:933
+
+input_totaltime = 00:06:02.8281679
+
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_have_no_documents_on_this_transaction.
+do_you_know_anything?
+i_just_tracked_down_steve.
+there_is_a_god.
+go_ahead_and_notify.
+did_we_get_ours_back?
+i_am_not_concerned_with_the_brown_money.
+brian_is_working_this.
+then_we_can_go_to_zainy_brainy.
+who_should_i_contact_regarding_severance?
+------------
+
+
+test_text : input_text
+
+i_have_no_documents_on_this_transaction.
+i_have_no_documents_on_this_transaction.
+input_start = 2021/01/18 16:13:25:801
+input_end = 2021/01/18 16:14:22:250
+Time_Span = 0:00:56.4494993
+
+
+
+do_you_know_anything?
+do_you_know_anything?
+input_start = 2021/01/18 16:14:23:87
+input_end = 2021/01/18 16:14:42:203
+Time_Span = 0:00:19.115904
+
+
+
+i_just_tracked_down_steve.
+i_just_tracked_down_steve.
+input_start = 2021/01/18 16:14:43:573
+input_end = 2021/01/18 16:15:24:848
+Time_Span = 0:00:41.2754999
+
+
+
+there_is_a_god.
+there_is_a_god.
+input_start = 2021/01/18 16:15:25:683
+input_end = 2021/01/18 16:15:40:828
+Time_Span = 0:00:15.1445602
+
+
+
+go_ahead_and_notify.
+go_ahead_and_notify.
+input_start = 2021/01/18 16:15:41:402
+input_end = 2021/01/18 16:16:14:596
+Time_Span = 0:00:33.1935222
+
+
+
+did_we_get_ours_back?
+did_we_get_ours_back?
+input_start = 2021/01/18 16:16:15:448
+input_end = 2021/01/18 16:16:36:377
+Time_Span = 0:00:20.9288839
+
+
+
+i_am_not_concerned_with_the_brown_money.
+i_am_not_concerned_with_the_brown_money.
+input_start = 2021/01/18 16:16:39:148
+input_end = 2021/01/18 16:17:20:805
+Time_Span = 0:00:41.6570222
+
+
+
+brian_is_working_this.
+brian_is_working_this.
+input_start = 2021/01/18 16:17:21:714
+input_end = 2021/01/18 16:17:45:793
+Time_Span = 0:00:24.0789178
+
+
+
+then_we_can_go_to_zainy_brainy.
+then_we_can_go_to_zainy_brainy.
+input_start = 2021/01/18 16:17:46:857
+input_end = 2021/01/18 16:18:25:296
+Time_Span = 0:00:38.4390484
+
+
+
+who_should_i_contact_regarding_severance?
+who_should_i_contact_regarding_severance?
+input_start = 2021/01/18 16:18:26:382
+input_end = 2021/01/18 16:19:38:928
+Time_Span = 0:01:12.54531
+
+
+
+------------
+
+
+input_chara = 389
+
+input_backspace = 102
+
+input_totalstart = 2021/01/18 16:13:25:801
+
+input_totalend = 2021/01/18 16:19:40:919
+
+input_totaltime = 00:12:05.6563358
+

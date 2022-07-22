@@ -1,0 +1,224 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_want_to_thank_everyone_involved.
+maybe_you_can_leave_early.
+talk_to_you_later.
+please_send_me_an_email_to_let_me_know.
+what_a_crazy_day.
+that_is_exactly_what_i_would_like_you_to_do.
+i_forgot_one_person_when_we_spoke_on_friday.
+thanks_for_your_concern.
+let_me_know_if_i_can_do_anything.
+fran,_yes_please_update.
+------------
+
+
+test_text : input_text
+
+i_want_to_thank_everyone_involved.
+i_want_to_thank_everyone_involved.
+input_start = 2021/01/18 15:48:13:442
+input_end = 2021/01/18 15:49:36:955
+Time_Span = 0:01:23.5127808
+
+
+
+maybe_you_can_leave_early.
+maybe_you_can_leave_early.
+input_start = 2021/01/18 15:49:38:329
+input_end = 2021/01/18 15:50:30:82
+Time_Span = 0:00:51.7534565
+
+
+
+talk_to_you_later.
+talk_to_you_later.
+input_start = 2021/01/18 15:50:31:107
+input_end = 2021/01/18 15:50:54:969
+Time_Span = 0:00:23.8618879
+
+
+
+please_send_me_an_email_to_let_me_know.
+please_send_me_an_email_to_let_me_know.
+input_start = 2021/01/18 15:50:55:788
+input_end = 2021/01/18 15:51:47:220
+Time_Span = 0:00:51.4319591
+
+
+
+what_a_crazy_day.
+what_a_crazy_day.
+input_start = 2021/01/18 15:51:48:14
+input_end = 2021/01/18 15:52:23:931
+Time_Span = 0:00:35.9165627
+
+
+
+that_is_exactly_what_i_would_like_you_to_do.
+that_is_exactly_what_i_would_like_you_to_do.
+input_start = 2021/01/18 15:52:24:785
+input_end = 2021/01/18 15:53:22:882
+Time_Span = 0:00:58.0969501
+
+
+
+i_forgot_one_person_when_we_spoke_on_friday.
+i_forgot_one_person_when_we_spoke_on_friday.
+input_start = 2021/01/18 15:53:23:681
+input_end = 2021/01/18 15:54:08:732
+Time_Span = 0:00:45.0505254
+
+
+
+thanks_for_your_concern.
+thanks_for_your_concern.
+input_start = 2021/01/18 15:54:09:463
+input_end = 2021/01/18 15:54:35:652
+Time_Span = 0:00:26.1882068
+
+
+
+let_me_know_if_i_can_do_anything.
+let_me_know_if_i_can_do_anything.
+input_start = 2021/01/18 15:54:36:495
+input_end = 2021/01/18 15:55:14:565
+Time_Span = 0:00:38.0707331
+
+
+
+fran,_yes_please_update.
+ran,_yes_please_update.l
+input_start = 2021/01/18 15:55:15:418
+input_end = 2021/01/18 15:55:44:896
+Time_Span = 0:00:29.4780049
+
+
+
+------------
+
+
+input_chara = 372
+
+input_backspace = 59
+
+input_totalstart = 2021/01/18 15:48:13:442
+
+input_totalend = 2021/01/18 15:55:44:902
+
+input_totaltime = 00:07:23.3610673
+
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_want_to_thank_everyone_involved.
+maybe_you_can_leave_early.
+talk_to_you_later.
+please_send_me_an_email_to_let_me_know.
+what_a_crazy_day.
+that_is_exactly_what_i_would_like_you_to_do.
+i_forgot_one_person_when_we_spoke_on_friday.
+thanks_for_your_concern.
+let_me_know_if_i_can_do_anything.
+fran,_yes_please_update.
+------------
+
+
+test_text : input_text
+
+i_want_to_thank_everyone_involved.
+i_want_to_thank_everyone_involved.
+input_start = 2021/01/18 15:48:13:442
+input_end = 2021/01/18 15:49:36:955
+Time_Span = 0:01:23.5127808
+
+
+
+maybe_you_can_leave_early.
+maybe_you_can_leave_early.
+input_start = 2021/01/18 15:49:38:329
+input_end = 2021/01/18 15:50:30:82
+Time_Span = 0:00:51.7534565
+
+
+
+talk_to_you_later.
+talk_to_you_later.
+input_start = 2021/01/18 15:50:31:107
+input_end = 2021/01/18 15:50:54:969
+Time_Span = 0:00:23.8618879
+
+
+
+please_send_me_an_email_to_let_me_know.
+please_send_me_an_email_to_let_me_know.
+input_start = 2021/01/18 15:50:55:788
+input_end = 2021/01/18 15:51:47:220
+Time_Span = 0:00:51.4319591
+
+
+
+what_a_crazy_day.
+what_a_crazy_day.
+input_start = 2021/01/18 15:51:48:14
+input_end = 2021/01/18 15:52:23:931
+Time_Span = 0:00:35.9165627
+
+
+
+that_is_exactly_what_i_would_like_you_to_do.
+that_is_exactly_what_i_would_like_you_to_do.
+input_start = 2021/01/18 15:52:24:785
+input_end = 2021/01/18 15:53:22:882
+Time_Span = 0:00:58.0969501
+
+
+
+i_forgot_one_person_when_we_spoke_on_friday.
+i_forgot_one_person_when_we_spoke_on_friday.
+input_start = 2021/01/18 15:53:23:681
+input_end = 2021/01/18 15:54:08:732
+Time_Span = 0:00:45.0505254
+
+
+
+thanks_for_your_concern.
+thanks_for_your_concern.
+input_start = 2021/01/18 15:54:09:463
+input_end = 2021/01/18 15:54:35:652
+Time_Span = 0:00:26.1882068
+
+
+
+let_me_know_if_i_can_do_anything.
+let_me_know_if_i_can_do_anything.
+input_start = 2021/01/18 15:54:36:495
+input_end = 2021/01/18 15:55:14:565
+Time_Span = 0:00:38.0707331
+
+
+
+fran,_yes_please_update.
+ran,_yes_please_update.l
+input_start = 2021/01/18 15:55:15:418
+input_end = 2021/01/18 15:55:44:896
+Time_Span = 0:00:29.4780049
+
+
+
+------------
+
+
+input_chara = 372
+
+input_backspace = 59
+
+input_totalstart = 2021/01/18 15:48:13:442
+
+input_totalend = 2021/01/18 15:55:47:108
+
+input_totaltime = 00:14:46.7221346
+

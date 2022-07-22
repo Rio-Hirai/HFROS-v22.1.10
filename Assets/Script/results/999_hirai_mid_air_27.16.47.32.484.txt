@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+san_francisco_was_interconnect_meeting.
+i_hope_to_have_before_the_end_of_the_day.
+no_problem_maria,_please_contact_rick.
+------------
+
+
+test_text : input_text
+
+san_francisco_was_interconnect_meeting.
+san_francisco_was_interconnect_meeting.
+san_francisco_was_it[bs]ntercone[bs]nec_t[bs][bs]t_meeting.
+input_start = 2021/01/27 16:47:32:484
+input_end = 2021/01/27 16:48:14:504
+Time_Span = 0:00:42.0202071
+
+
+
+i_hope_to_have_before_the_end_of_the_day.
+i_hope_to_have_before_the_end_of_the_day.
+i_hope_to_have_befr[bs]ore_the_end_of_the,[bs]_day.
+input_start = 2021/01/27 16:48:16:932
+input_end = 2021/01/27 16:48:50:43
+Time_Span = 0:00:33.1101757
+
+
+
+no_problem_maria,_please_contact_rick.
+no_problem_maria,_please_contact_rick.
+np[bs]o_problem_maria,_please_vo[bs][bs]contact_rick.
+input_start = 2021/01/27 16:48:50:789
+input_end = 2021/01/27 16:49:30:682
+Time_Span = 0:00:39.8925072
+
+
+
+------------
+
+
+input_chara = 163
+
+input_backspace = 19
+
+input_totalstart = 2021/01/27 16:47:32:484
+
+input_totalend = 2021/01/27 16:49:30:689
+
+input_totaltime = 00:01:55.0228900
+

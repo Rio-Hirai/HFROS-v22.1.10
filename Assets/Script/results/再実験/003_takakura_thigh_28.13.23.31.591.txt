@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+never_mind,_i_already_deleted_it.
+there_are_several_business_issues_outstanding.
+we_are_having_fun.
+that_is_exactly_what_i_would_like_you_to_do.
+it_should_be_cynthia_barow_instead.
+lisa_now_has_everything.
+we_went_to_palacios_to_fish.
+if_not,_i_can_try_information_in_omaha.
+i_will_if_i_want_to.
+jim_please_confirm_to_vince_you_are_happy.
+------------
+
+
+test_text : input_text
+
+never_mind,_i_already_deleted_it.
+never_mind,_i_already_deleted_it.
+ne_[bs]ver_mind_[bs],_i_already_delea[bs]ted_o[bs]it.
+input_start = 2021/01/28 13:23:31:591
+input_end = 2021/01/28 13:24:21:290
+Time_Span = 0:00:49.6991625
+
+
+
+there_are_several_business_issues_outstanding.
+there_are_several_business_issues_outstanding.
+thr[bs]err[bs]e__[bs]are_several._[bs][bs]_business_issues_outsr[bs]tans[bs]ding.
+input_start = 2021/01/28 13:24:22:347
+input_end = 2021/01/28 13:25:27:439
+Time_Span = 0:01:05.0916227
+
+
+
+we_are_having_fun.
+we_are_having_fun.
+we,_[bs][bs]_are_hs[bs]ab[bs]vinf[bs]g_fun.
+input_start = 2021/01/28 13:25:28:580
+input_end = 2021/01/28 13:26:02:70
+Time_Span = 0:00:33.4905958
+
+
+
+that_is_exactly_what_i_would_like_you_to_do.
+that_is_exactly_what_i_would_like_you_to_do.
+that_is_r[bs]exactly,[bs]_what_i_wouls[bs]d_like_you_to_do.
+input_start = 2021/01/28 13:26:03:56
+input_end = 2021/01/28 13:26:57:516
+Time_Span = 0:00:54.4605561
+
+
+
+it_should_be_cynthia_barow_instead.
+it_should_be_cynthia_barow_instead.
+it_sou[bs][bs]houlf[bs]d_be_x[bs]cy_[bs]nthia_barow_o[bs]instead.
+input_start = 2021/01/28 13:26:58:295
+input_end = 2021/01/28 13:27:49:767
+Time_Span = 0:00:51.4717577
+
+
+
+lisa_now_has_everything.
+lisa_now_has_everything.
+lisa_now_ha,[bs]s_everything.
+input_start = 2021/01/28 13:27:51:88
+input_end = 2021/01/28 13:28:17:363
+Time_Span = 0:00:26.2747436
+
+
+
+we_went_to_palacios_to_fish.
+we_went_to_palacios_to_fish.
+we_went_to_palav[bs]ciou[bs]s_tp[bs]o_fish.
+input_start = 2021/01/28 13:28:19:786
+input_end = 2021/01/28 13:28:55:986
+Time_Span = 0:00:36.2003327
+
+
+
+if_not,_i_can_try_information_in_omaha.
+if_not,_i_can_try_information_in_omaha.
+if_not_[bs],_i_can_try_infor,[bs]matior[bs]n_in_omq[bs]aha.
+input_start = 2021/01/28 13:28:56:628
+input_end = 2021/01/28 13:29:40:833
+Time_Span = 0:00:44.2052368
+
+
+
+i_will_if_i_want_to.
+i_will_if_i_want_to.
+i_will_if_i_want_to.
+input_start = 2021/01/28 13:29:42:297
+input_end = 2021/01/28 13:30:04:657
+Time_Span = 0:00:22.359627
+
+
+
+jim_please_confirm_to_vince_you_are_happy.
+jim_please_confirm_to_vince_you_are_happy.
+jim_please_confirm_to_vince_yoiu[bs][bs]u_are_happy.
+input_start = 2021/01/28 13:30:05:358
+input_end = 2021/01/28 13:30:48:16
+Time_Span = 0:00:42.6585825
+
+
+
+------------
+
+
+input_chara = 388
+
+input_backspace = 35
+
+input_totalstart = 2021/01/28 13:23:31:591
+
+input_totalend = 2021/01/28 13:30:48:22
+
+input_totaltime = 00:07:05.9122174
+

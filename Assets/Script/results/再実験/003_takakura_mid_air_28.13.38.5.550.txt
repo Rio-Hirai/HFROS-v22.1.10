@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+what_is_the_stock_price_doing?
+we_will_get_you_a_copy.
+i_am_almost_speechless.
+i_love_you_too.
+ok_i_thought_it_was_in_washington_state.
+i_knew_things_were_bad_based_on_what_you_said.
+so_the_language_does_have_value.
+can_you_please_review_and_get_back_to_tim?
+i_can_get_them.
+have_a_great_trip.
+------------
+
+
+test_text : input_text
+
+what_is_the_stock_price_doing?
+what_is_the_stock_price_doing?
+what_is_thap[bs]w[bs][bs]e_stock_price_doing?
+input_start = 2021/01/28 13:38:05:550
+input_end = 2021/01/28 13:38:36:988
+Time_Span = 0:00:31.4374442
+
+
+
+we_will_get_you_a_copy.
+we_will_get_you_a_copy.
+we_will_get_you_a_copy?.[bs][bs].
+input_start = 2021/01/28 13:38:38:74
+input_end = 2021/01/28 13:39:04:687
+Time_Span = 0:00:26.6126588
+
+
+
+i_am_almost_speechless.
+i_am_almost_speechless.
+i_am_almost_a[bs]speexp[bs][bs]chless.
+input_start = 2021/01/28 13:39:05:767
+input_end = 2021/01/28 13:39:33:406
+Time_Span = 0:00:27.6389292
+
+
+
+i_love_you_too.
+i_love_you_too.
+im[bs]_love_you_too.
+input_start = 2021/01/28 13:39:34:213
+input_end = 2021/01/28 13:39:54:109
+Time_Span = 0:00:19.8953496
+
+
+
+ok_i_thought_it_was_in_washington_state.
+ok_i_thought_it_was_in_washington_state.
+ok_i_thought_it_was_in_washington_state.
+input_start = 2021/01/28 13:39:55:488
+input_end = 2021/01/28 13:40:33:416
+Time_Span = 0:00:37.9275153
+
+
+
+i_knew_things_were_bad_based_on_what_you_said.
+i_knew_things_were_bad_based_on_what_you_said.
+i_knew_things_were_bad_based_on_what_you_said?[bs].
+input_start = 2021/01/28 13:40:34:391
+input_end = 2021/01/28 13:41:22:900
+Time_Span = 0:00:48.5085838
+
+
+
+so_the_language_does_have_value.
+so_the_language_does_have_value.
+so_the_language_does_have_value.
+input_start = 2021/01/28 13:41:23:806
+input_end = 2021/01/28 13:41:49:284
+Time_Span = 0:00:25.4780628
+
+
+
+can_you_please_review_and_get_back_to_tim?
+can_you_please_review_and_get_back_to_tim?
+can_you_please_review_and_get_back_to_h[bs][bs]t[bs]_tim?
+input_start = 2021/01/28 13:41:50:36
+input_end = 2021/01/28 13:42:31:43
+Time_Span = 0:00:41.0076595
+
+
+
+i_can_get_them.
+i_can_get_them.
+i_can_get_them.
+input_start = 2021/01/28 13:42:31:835
+input_end = 2021/01/28 13:42:44:288
+Time_Span = 0:00:12.4532679
+
+
+
+have_a_great_trip.
+have_a_great_trip.
+have_a_great_trip.
+input_start = 2021/01/28 13:42:44:964
+input_end = 2021/01/28 13:43:03:147
+Time_Span = 0:00:18.1825217
+
+
+
+------------
+
+
+input_chara = 311
+
+input_backspace = 13
+
+input_totalstart = 2021/01/28 13:38:05:550
+
+input_totalend = 2021/01/28 13:43:03:152
+
+input_totaltime = 00:04:49.1419928
+

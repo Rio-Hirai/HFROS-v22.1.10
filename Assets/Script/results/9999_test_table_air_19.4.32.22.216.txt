@@ -1,0 +1,61 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+let_me_know_if_the_plan_is_different.
+board_meeting_running_long.
+so_should_i_drive_tomorrow?
+------------
+
+
+test_text : input_text
+
+let_me_know_if_the_plan_is_different.
+let_me_know_if_the_plan_is_different.
+let_me_know_if_the_plan_is_different.
+input_start = 2022/01/19 4:32:22:216
+input_end = 2022/01/19 4:32:53:225
+Time_Span = 0:00:31.0095476
+
+
+
+board_meeting_running_long.
+board_meeting_running_long.
+board_meeting_running_long.
+input_start = 2022/01/19 4:32:54:130
+input_end = 2022/01/19 4:33:21:519
+Time_Span = 0:00:27.3892186
+
+
+
+so_should_i_drive_tomorrow?
+so_should_i_drive_tomorrow?
+so_should_i_drive_tomm[bs]m[bs]orrr[bs]ow?
+input_start = 2022/01/19 4:33:22:297
+input_end = 2022/01/19 4:33:56:898
+Time_Span = 0:00:34.6011465
+
+
+
+------------
+
+
+input_chara = 98
+
+input_backspace = 3
+
+input_totalstart = 2022/01/19 4:32:22:216
+
+input_totalend = 2022/01/19 4:33:56:901
+
+input_totaltime = 00:01:32.9999127
+
+
+hmpw_right_hand = 7.73859
+
+hmpw_right_finger = 15.33846
+
+hmpw_left_hand = 6.471335
+
+hmpw_left_finger = 9.912921
+

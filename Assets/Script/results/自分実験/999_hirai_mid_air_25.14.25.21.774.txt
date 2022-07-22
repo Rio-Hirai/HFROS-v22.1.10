@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+yes_i_am_here_actually.
+i_changed_that_in_one_prior_draft.
+if_motley_is_in_we_are_out_of_money.
+------------
+
+
+test_text : input_text
+
+yes_i_am_here_actually.
+yes_i_am_here_actually.
+yes__i[bs][bs][bs]_i_am_herr[bs][bs]re_actus[bs]ally.
+input_start = 2021/01/25 14:25:21:774
+input_end = 2021/01/25 14:25:45:212
+Time_Span = 0:00:23.4377138
+
+
+
+i_changed_that_in_one_prior_draft.
+i_changed_that_in_one_prior_draft.
+i_changed_that_in_one_prior_draft.
+input_start = 2021/01/25 14:25:45:307
+input_end = 2021/01/25 14:26:10:928
+Time_Span = 0:00:25.6209427
+
+
+
+if_motley_is_in_we_are_out_of_money.
+if_motley_is_in_we_are_out_of_money.
+if_motley__[bs]is_in_we_arr_[bs][bs][bs]re_out_of_moneuu[bs][bs]yy[bs].
+input_start = 2021/01/25 14:26:11:859
+input_end = 2021/01/25 14:26:46:376
+Time_Span = 0:00:34.5166656
+
+
+
+------------
+
+
+input_chara = 111
+
+input_backspace = 15
+
+input_totalstart = 2021/01/25 14:25:21:774
+
+input_totalend = 2021/01/25 14:26:46:382
+
+input_totaltime = 00:01:23.5753221
+

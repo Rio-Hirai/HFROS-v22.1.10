@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_think_in_this_case_specific_is_better.
+ben_could_tell_him_about_pompano.
+i_think_that_is_the_right_answer.
+------------
+
+
+test_text : input_text
+
+i_think_in_this_case_specific_is_better.
+i_think_in_this_case_specific_is_better.
+i_think_in_this_case_specific_is_better.
+input_start = 2021/01/27 16:16:07:556
+input_end = 2021/01/27 16:16:42:4
+Time_Span = 0:00:34.4483005
+
+
+
+ben_could_tell_him_about_pompano.
+ben_could_tell_him_about_pompano.
+ben_cu[bs]ould_tell_him_about_pompano.
+input_start = 2021/01/27 16:16:42:602
+input_end = 2021/01/27 16:17:15:974
+Time_Span = 0:00:33.3719356
+
+
+
+i_think_that_is_the_right_answer.
+i_think_that_is_the_right_answer.
+i_think_that_s[bs]is_the_rigt[bs]ht_answer.
+input_start = 2021/01/27 16:17:17:174
+input_end = 2021/01/27 16:17:47:208
+Time_Span = 0:00:30.0340735
+
+
+
+------------
+
+
+input_chara = 112
+
+input_backspace = 3
+
+input_totalstart = 2021/01/27 16:16:07:556
+
+input_totalend = 2021/01/27 16:17:47:213
+
+input_totaltime = 00:01:37.8543096
+

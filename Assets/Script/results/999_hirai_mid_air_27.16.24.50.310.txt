@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+will_let_you_know_how_call_goes_in_morning.
+we_will_sign_tomorrow_and_fund_tuesday.
+could_you_email_me_the_new_sentence_on_page_2?
+------------
+
+
+test_text : input_text
+
+will_let_you_know_how_call_goes_in_morning.
+will_let_you_know_how_call_goes_in_morning.
+we[bs]ill__[bs]let_yu[bs]ou_know_how_call_goes_in_morning.
+input_start = 2021/01/27 16:24:50:310
+input_end = 2021/01/27 16:25:42:609
+Time_Span = 0:00:52.2987023
+
+
+
+we_will_sign_tomorrow_and_fund_tuesday.
+we_will_sign_tomorrow_and_fund_tuesday.
+we_will_sign_tomorrow_and_fund_tuesday.
+input_start = 2021/01/27 16:25:43:304
+input_end = 2021/01/27 16:26:17:722
+Time_Span = 0:00:34.4176788
+
+
+
+could_you_email_me_the_new_sentence_on_page_2?
+could_you_email_me_the_new_sentence_on_page_2?
+x[bs]could_you_email.[bs]_me_the_new_sentence_on_page_2?
+input_start = 2021/01/27 16:26:19:238
+input_end = 2021/01/27 16:27:05:744
+Time_Span = 0:00:46.5053906
+
+
+
+------------
+
+
+input_chara = 136
+
+input_backspace = 5
+
+input_totalstart = 2021/01/27 16:24:50:310
+
+input_totalend = 2021/01/27 16:27:05:749
+
+input_totaltime = 00:02:13.2217717
+

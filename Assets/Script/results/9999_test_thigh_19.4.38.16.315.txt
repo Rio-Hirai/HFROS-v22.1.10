@@ -1,0 +1,61 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+no,_but_thank_you_for_offering.
+check_and_find_out_form?
+i_have_a_high_level_in_my_office.
+------------
+
+
+test_text : input_text
+
+no,_but_thank_you_for_offering.
+no,_but_thank_you_for_offering.
+no,_but_thank_you_for_offering.
+input_start = 2022/01/19 4:38:16:315
+input_end = 2022/01/19 4:38:48:242
+Time_Span = 0:00:31.9270462
+
+
+
+check_and_find_out_form?
+check_and_find_out_form?
+checjk[bs][bs]jk[bs][bs]k_and_find_out_form?
+input_start = 2022/01/19 4:38:48:897
+input_end = 2022/01/19 4:39:21:271
+Time_Span = 0:00:32.373442
+
+
+
+i_have_a_high_level_in_my_office.
+i_have_a_high_level_in_my_office.
+i_have_a_high_level_in_my_office.
+input_start = 2022/01/19 4:39:22:174
+input_end = 2022/01/19 4:40:04:266
+Time_Span = 0:00:42.0923415
+
+
+
+------------
+
+
+input_chara = 95
+
+input_backspace = 4
+
+input_totalstart = 2022/01/19 4:38:16:315
+
+input_totalend = 2022/01/19 4:40:04:269
+
+input_totaltime = 00:01:46.3928297
+
+
+hmpw_right_hand = 6.453487
+
+hmpw_right_finger = 13.81425
+
+hmpw_left_hand = 4.927082
+
+hmpw_left_finger = 8.197722
+

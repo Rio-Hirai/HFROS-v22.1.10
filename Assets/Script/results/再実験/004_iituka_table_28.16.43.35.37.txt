@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+let_me_know_if_i_can_do_anything.
+only_as_a_last_resort_should_we_want_to_redo.
+take_what_you_can_get.
+we_will_not_decide_till_next_week_as_you_know.
+we_went_to_palacios_to_fish.
+i_would_like_to_discuss.
+check_and_find_out_form?
+next_week_sounds_fine_for_vacation.
+did_you_set_up_my_corporate_account_for_me?
+through_this_account_cash_flows_to_corporate.
+------------
+
+
+test_text : input_text
+
+let_me_know_if_i_can_do_anything.
+let_me_know_if_i_can_do_anything.
+let_me_know_if_i_can_do_anything.
+input_start = 2021/01/28 16:43:35:37
+input_end = 2021/01/28 16:44:16:989
+Time_Span = 0:00:41.9523406
+
+
+
+only_as_a_last_resort_should_we_want_to_redo.
+only_as_a_last_resort_should_we_want_to_redo.
+only_as_a_last_resort_should_we_want_to_redo.
+input_start = 2021/01/28 16:44:20:748
+input_end = 2021/01/28 16:45:30:352
+Time_Span = 0:01:09.6034011
+
+
+
+take_what_you_can_get.
+take_what_you_can_get.
+take_what_you__c[bs][bs]can_get.
+input_start = 2021/01/28 16:45:31:899
+input_end = 2021/01/28 16:46:01:13
+Time_Span = 0:00:29.1141099
+
+
+
+we_will_not_decide_till_next_week_as_you_know.
+we_will_not_decide_till_next_week_as_you_know.
+we_will_not_decide_till_next_week_as_you_know.
+input_start = 2021/01/28 16:46:01:813
+input_end = 2021/01/28 16:46:55:65
+Time_Span = 0:00:53.2522044
+
+
+
+we_went_to_palacios_to_fish.
+we_went_to_palacios_to_fish.
+we_went_to_palacios_to_fish,[bs];[bs].
+input_start = 2021/01/28 16:46:55:912
+input_end = 2021/01/28 16:47:31:266
+Time_Span = 0:00:35.3541282
+
+
+
+i_would_like_to_discuss.
+i_would_like_to_discuss.
+i_wu[bs]ould_;[bs]li,[bs]ke_to_disci[bs]uss.
+input_start = 2021/01/28 16:47:32:813
+input_end = 2021/01/28 16:48:11:225
+Time_Span = 0:00:38.4122231
+
+
+
+check_and_find_out_form?
+check_and_find_out_form?
+check_and_find_out_form?
+input_start = 2021/01/28 16:48:12:158
+input_end = 2021/01/28 16:48:37:331
+Time_Span = 0:00:25.1736707
+
+
+
+next_week_sounds_fine_for_vacation.
+next_week_sounds_fine_for_vacation.
+next_week_sounds_ff[bs]ine_for_vacatio_[bs]nl[bs].
+input_start = 2021/01/28 16:48:38:180
+input_end = 2021/01/28 16:49:36:311
+Time_Span = 0:00:58.1314257
+
+
+
+did_you_set_up_my_corporate_account_for_me?
+did_you_set_up_my_corporate_account_for_me?
+did_you_set_up_my__[bs]corporate_account_g[bs]for_me?
+input_start = 2021/01/28 16:49:38:93
+input_end = 2021/01/28 16:50:38:953
+Time_Span = 0:01:00.8600016
+
+
+
+through_this_account_cash_flows_to_corporate.
+through_this_account_cash_flows_to_corporate.
+through_thisnm[bs][bs]_account_cash_flows_to_corporate.
+input_start = 2021/01/28 16:50:41:765
+input_end = 2021/01/28 16:51:41:93
+Time_Span = 0:00:59.3283256
+
+
+
+------------
+
+
+input_chara = 392
+
+input_backspace = 17
+
+input_totalstart = 2021/01/28 16:43:35:37
+
+input_totalend = 2021/01/28 16:51:41:99
+
+input_totaltime = 00:07:51.1818309
+

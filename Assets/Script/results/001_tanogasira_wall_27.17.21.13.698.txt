@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+please_leave_it_to_brian.
+not_in_the_near_future.
+anxious_to_hear_how_the_paging_worked_for_you.
+east_coast_should_be_essentially_flat.
+apologize_to_steve_dowd_for_me.
+please_send_tomy_direct_reports.
+i_sent_it_to_her.
+i_spoke_with_lara_robinson_this_morning.
+can_you_help_me_here?
+i_am_on_a_plane,_sorry.
+------------
+
+
+test_text : input_text
+
+please_leave_it_to_brian.
+please_leave_it_to_brian.
+le[bs][bs]please_lea_[bs]ve_it_to__[bs]bra[bs]ian.
+input_start = 2021/01/27 17:21:13:698
+input_end = 2021/01/27 17:21:44:678
+Time_Span = 0:00:30.9797446
+
+
+
+not_in_the_near_future.
+not_in_the_near_future.
+not_in_ht[bs][bs]the_near_ff[bs]uture_[bs].
+input_start = 2021/01/27 17:21:45:263
+input_end = 2021/01/27 17:22:10:912
+Time_Span = 0:00:25.6488368
+
+
+
+anxious_to_hear_how_the_paging_worked_for_you.
+anxious_to_hear_how_the_paging_worked_for_you.
+anc[bs]xious_to_hr[bs]ear_how_ht[bs][bs][bs]th[bs][bs]_the_pagu[bs]ing_worked_for_you.
+input_start = 2021/01/27 17:22:11:483
+input_end = 2021/01/27 17:23:05:937
+Time_Span = 0:00:54.454102
+
+
+
+east_coast_should_be_essentially_flat.
+east_coast_should_be_essentially_flat.
+ra[bs][bs]east_cos[bs]as_[bs]t_should_n[bs]be_essentialluy[bs][bs]y_flay[bs]t.
+input_start = 2021/01/27 17:23:06:452
+input_end = 2021/01/27 17:23:54:656
+Time_Span = 0:00:48.203356
+
+
+
+apologize_to_steve_dowd_for_me.
+apologize_to_steve_dowd_for_me.
+apologix[bs]ze_to_steve_dowd_for_me.
+input_start = 2021/01/27 17:23:55:143
+input_end = 2021/01/27 17:24:21:376
+Time_Span = 0:00:26.2335904
+
+
+
+please_send_tomy_direct_reports.
+please_send_tomy_direct_reports.
+please_d[bs]send_tomy_direc[bs]ct_reportd[bs]s.
+input_start = 2021/01/27 17:24:21:978
+input_end = 2021/01/27 17:24:57:381
+Time_Span = 0:00:35.4035074
+
+
+
+i_sent_it_to_her.
+i_sent_it_to_her.
+u[bs]i_e[bs]sent_it_to_r[bs]her.
+input_start = 2021/01/27 17:24:57:937
+input_end = 2021/01/27 17:25:14:952
+Time_Span = 0:00:17.0155743
+
+
+
+i_spoke_with_lara_robinson_this_morning.
+i_spoke_with_lara_robinson_this_morning.
+_[bs]i_spoke_with_lara_t[bs]robb[bs]inson_this_morning.
+input_start = 2021/01/27 17:25:15:426
+input_end = 2021/01/27 17:25:55:79
+Time_Span = 0:00:39.6533156
+
+
+
+can_you_help_me_here?
+can_you_help_me_here?
+can_you_y[bs]hl[bs]ek[bs]lp_me_here?
+input_start = 2021/01/27 17:25:55:692
+input_end = 2021/01/27 17:26:19:934
+Time_Span = 0:00:24.242197
+
+
+
+i_am_on_a_plane,_sorry.
+i_am_on_a_plane,_sorry.
+i_am_onn_[bs][bs]_a_plane_[bs],_sory[bs]ry.
+input_start = 2021/01/27 17:26:20:407
+input_end = 2021/01/27 17:26:46:443
+Time_Span = 0:00:26.0357531
+
+
+
+------------
+
+
+input_chara = 348
+
+input_backspace = 42
+
+input_totalstart = 2021/01/27 17:21:13:698
+
+input_totalend = 2021/01/27 17:26:46:449
+
+input_totaltime = 00:05:27.8699772
+

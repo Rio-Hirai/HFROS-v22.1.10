@@ -1,0 +1,224 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+did_we_plan_that?
+on_my_way_back.
+i_am_trying_again.
+might_include_proposals_with_respect_to_alaska.
+best_of_luck_and_stay_in_touch.
+and_how_would_i_be_going_for_work?
+he_played_goalie_almost_the_entire_game.
+we_are_on_a_plane_coming_back.
+hope_you_guys_are_doing_fine.
+we_are_on_the_road_to_palacios.
+------------
+
+
+test_text : input_text
+
+did_we_plan_that?
+did_we_plan_that?
+input_start = 2021/01/18 16:00:23:817
+input_end = 2021/01/18 16:00:45:321
+Time_Span = 0:00:21.5035824
+
+
+
+on_my_way_back.
+on_my_way_back.
+input_start = 2021/01/18 16:00:45:970
+input_end = 2021/01/18 16:01:08:776
+Time_Span = 0:00:22.8056532
+
+
+
+i_am_trying_again.
+i_am_trying_again.
+input_start = 2021/01/18 16:01:09:357
+input_end = 2021/01/18 16:01:50:854
+Time_Span = 0:00:41.4972368
+
+
+
+might_include_proposals_with_respect_to_alaska.
+might_include_proposals_with_respect_to_alaska.
+input_start = 2021/01/18 16:01:51:564
+input_end = 2021/01/18 16:02:30:588
+Time_Span = 0:00:39.0238182
+
+
+
+best_of_luck_and_stay_in_touch.
+best_of_luck_and_stay_in_touch.
+input_start = 2021/01/18 16:02:31:263
+input_end = 2021/01/18 16:03:11:800
+Time_Span = 0:00:40.5370918
+
+
+
+and_how_would_i_be_going_for_work?
+and_how_would_i_be_going_for_work?
+input_start = 2021/01/18 16:03:12:444
+input_end = 2021/01/18 16:04:00:740
+Time_Span = 0:00:48.2962153
+
+
+
+he_played_goalie_almost_the_entire_game.
+he_played_goalie_almost_the_entire_game.
+input_start = 2021/01/18 16:04:01:466
+input_end = 2021/01/18 16:04:37:22
+Time_Span = 0:00:35.5552714
+
+
+
+we_are_on_a_plane_coming_back.
+we_are_on_a_plane_coming_back.
+input_start = 2021/01/18 16:04:37:636
+input_end = 2021/01/18 16:05:18:35
+Time_Span = 0:00:40.399387
+
+
+
+hope_you_guys_are_doing_fine.
+hope_you_guys_are_doing_fine.
+input_start = 2021/01/18 16:05:18:981
+input_end = 2021/01/18 16:06:01:617
+Time_Span = 0:00:42.6354026
+
+
+
+we_are_on_the_road_to_palacios.
+we_are_on_the_road_to_palacios.
+input_start = 2021/01/18 16:06:03:215
+input_end = 2021/01/18 16:06:35:450
+Time_Span = 0:00:32.2342638
+
+
+
+------------
+
+
+input_chara = 390
+
+input_backspace = 88
+
+input_totalstart = 2021/01/18 16:00:23:817
+
+input_totalend = 2021/01/18 16:06:35:455
+
+input_totaltime = 00:06:04.4879225
+
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+did_we_plan_that?
+on_my_way_back.
+i_am_trying_again.
+might_include_proposals_with_respect_to_alaska.
+best_of_luck_and_stay_in_touch.
+and_how_would_i_be_going_for_work?
+he_played_goalie_almost_the_entire_game.
+we_are_on_a_plane_coming_back.
+hope_you_guys_are_doing_fine.
+we_are_on_the_road_to_palacios.
+------------
+
+
+test_text : input_text
+
+did_we_plan_that?
+did_we_plan_that?
+input_start = 2021/01/18 16:00:23:817
+input_end = 2021/01/18 16:00:45:321
+Time_Span = 0:00:21.5035824
+
+
+
+on_my_way_back.
+on_my_way_back.
+input_start = 2021/01/18 16:00:45:970
+input_end = 2021/01/18 16:01:08:776
+Time_Span = 0:00:22.8056532
+
+
+
+i_am_trying_again.
+i_am_trying_again.
+input_start = 2021/01/18 16:01:09:357
+input_end = 2021/01/18 16:01:50:854
+Time_Span = 0:00:41.4972368
+
+
+
+might_include_proposals_with_respect_to_alaska.
+might_include_proposals_with_respect_to_alaska.
+input_start = 2021/01/18 16:01:51:564
+input_end = 2021/01/18 16:02:30:588
+Time_Span = 0:00:39.0238182
+
+
+
+best_of_luck_and_stay_in_touch.
+best_of_luck_and_stay_in_touch.
+input_start = 2021/01/18 16:02:31:263
+input_end = 2021/01/18 16:03:11:800
+Time_Span = 0:00:40.5370918
+
+
+
+and_how_would_i_be_going_for_work?
+and_how_would_i_be_going_for_work?
+input_start = 2021/01/18 16:03:12:444
+input_end = 2021/01/18 16:04:00:740
+Time_Span = 0:00:48.2962153
+
+
+
+he_played_goalie_almost_the_entire_game.
+he_played_goalie_almost_the_entire_game.
+input_start = 2021/01/18 16:04:01:466
+input_end = 2021/01/18 16:04:37:22
+Time_Span = 0:00:35.5552714
+
+
+
+we_are_on_a_plane_coming_back.
+we_are_on_a_plane_coming_back.
+input_start = 2021/01/18 16:04:37:636
+input_end = 2021/01/18 16:05:18:35
+Time_Span = 0:00:40.399387
+
+
+
+hope_you_guys_are_doing_fine.
+hope_you_guys_are_doing_fine.
+input_start = 2021/01/18 16:05:18:981
+input_end = 2021/01/18 16:06:01:617
+Time_Span = 0:00:42.6354026
+
+
+
+we_are_on_the_road_to_palacios.
+we_are_on_the_road_to_palacios.
+input_start = 2021/01/18 16:06:03:215
+input_end = 2021/01/18 16:06:35:450
+Time_Span = 0:00:32.2342638
+
+
+
+------------
+
+
+input_chara = 390
+
+input_backspace = 88
+
+input_totalstart = 2021/01/18 16:00:23:817
+
+input_totalend = 2021/01/18 16:06:36:426
+
+input_totaltime = 00:12:08.9758450
+

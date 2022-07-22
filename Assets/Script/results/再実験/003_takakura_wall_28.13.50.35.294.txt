@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+this_will_make_my_week.
+does_the_state_have_copies_of_all_programs?
+we_just_pulled_schedules_from_the_web.
+interesting,_are_you_around_for_a_late_lunch?
+get_with_david_lund.
+have_a_happy_thanksgiving.
+i_enjoyed_our_discussion_very_much.
+joel_will_handle_this.
+we_think_it_may_be_payable_as_a_past_expense.
+thanks_for_your_leadership_on_this_issue.
+------------
+
+
+test_text : input_text
+
+this_will_make_my_week.
+this_will_make_my_week.
+this_will_make_my_week.
+input_start = 2021/01/28 13:50:35:294
+input_end = 2021/01/28 13:50:57:519
+Time_Span = 0:00:22.224275
+
+
+
+does_the_state_have_copies_of_all_programs?
+does_the_state_have_copies_of_all_programs?
+dow[bs]es_the_state_have_copies_of_all_prob[bs]grams?
+input_start = 2021/01/28 13:50:58:438
+input_end = 2021/01/28 13:51:48:88
+Time_Span = 0:00:49.6502612
+
+
+
+we_just_pulled_schedules_from_the_web.
+we_just_pulled_schedules_from_the_web.
+we_just_pulled_schedules_from_the_e[bs]web.
+input_start = 2021/01/28 13:51:49:273
+input_end = 2021/01/28 13:52:28:690
+Time_Span = 0:00:39.4167416
+
+
+
+interesting,_are_you_around_for_a_late_lunch?
+interesting,_are_you_around_for_a_late_lunch?
+interesting,_are_you_around_for_a_late_lunch?
+input_start = 2021/01/28 13:52:29:833
+input_end = 2021/01/28 13:53:13:941
+Time_Span = 0:00:44.1076488
+
+
+
+get_with_david_lund.
+get_with_david_lund.
+get_with_david_lund.
+input_start = 2021/01/28 13:53:14:859
+input_end = 2021/01/28 13:53:37:945
+Time_Span = 0:00:23.0856837
+
+
+
+have_a_happy_thanksgiving.
+have_a_happy_thanksgiving.
+hab[bs]ve_a_happy_thanksgiving.
+input_start = 2021/01/28 13:53:38:920
+input_end = 2021/01/28 13:54:05:457
+Time_Span = 0:00:26.5370355
+
+
+
+i_enjoyed_our_discussion_very_much.
+i_enjoyed_our_discussion_very_much.
+i_enjoyed_our_discussion_very_much.
+input_start = 2021/01/28 13:54:06:419
+input_end = 2021/01/28 13:54:42:953
+Time_Span = 0:00:36.5343452
+
+
+
+joel_will_handle_this.
+joel_will_handle_this.
+joel_wil_[bs]lh[bs]_handle_thid[bs]s.
+input_start = 2021/01/28 13:54:43:887
+input_end = 2021/01/28 13:55:15:311
+Time_Span = 0:00:31.4241776
+
+
+
+we_think_it_may_be_payable_as_a_past_expense.
+we_think_it_may_be_payable_as_a_past_expense.
+we_thim[bs]nk__[bs]it_may_be_pz[bs]ayable_s[bs]as_a_past_expw[bs]ense.
+input_start = 2021/01/28 13:55:16:148
+input_end = 2021/01/28 13:56:13:776
+Time_Span = 0:00:57.6282606
+
+
+
+thanks_for_your_leadership_on_this_issue.
+thanks_for_your_leadership_on_this_issue.
+thanks_for_your_e[bs]lr[bs]eadw[bs]ership_on_this_issuee[bs].
+input_start = 2021/01/28 13:56:19:137
+input_end = 2021/01/28 13:57:03:106
+Time_Span = 0:00:43.9691915
+
+
+
+------------
+
+
+input_chara = 392
+
+input_backspace = 18
+
+input_totalstart = 2021/01/28 13:50:35:294
+
+input_totalend = 2021/01/28 13:57:03:111
+
+input_totaltime = 00:06:14.5776207
+

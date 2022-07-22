@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+is_derrick_ok_with_it?
+i_think_tim_wants_to_move_quickly.
+do_we_need_to_discuss?
+what_is_the_stock_price_doing?
+thursday_works_better_for_me.
+i_told_gary_you_could_make_the_call.
+yes_i_like_perfume.
+also,_regarding_the_cash_flow_from_canada.
+steve_gilbert_is_working_on_this.
+the_socal_meeting_was_very_beneficial.
+------------
+
+
+test_text : input_text
+
+is_derrick_ok_with_it?
+is_derrick_ok_with_it?
+is_derrick_ok_with_it?
+input_start = 2021/02/05 16:48:48:835
+input_end = 2021/02/05 16:49:01:516
+Time_Span = 0:00:12.6812254
+
+
+
+i_think_tim_wants_to_move_quickly.
+i_think_tim_wants_to_move_quickly.
+ith[bs][bs]_ti[bs]hink_tim_wants_to_,o[bs][bs]move_qau[bs][bs]uickly.
+input_start = 2021/02/05 16:49:02:253
+input_end = 2021/02/05 16:49:34:113
+Time_Span = 0:00:31.8603941
+
+
+
+do_we_need_to_discuss?
+do_we_need_to_discuss?
+s[bs]do_wen[bs]_need_to_discuss?
+input_start = 2021/02/05 16:49:34:628
+input_end = 2021/02/05 16:49:50:30
+Time_Span = 0:00:15.4026803
+
+
+
+what_is_the_stock_price_doing?
+what_is_the_stock_price_doing?
+what_is_the_stock_price_doing?
+input_start = 2021/02/05 16:49:50:447
+input_end = 2021/02/05 16:50:07:154
+Time_Span = 0:00:16.7076124
+
+
+
+thursday_works_better_for_me.
+thursday_works_better_for_me.
+thursday_worksb_[bs][bs]_better_o[bs]of[bs][bs]for_me_[bs].
+input_start = 2021/02/05 16:50:07:725
+input_end = 2021/02/05 16:50:35:31
+Time_Span = 0:00:27.3053412
+
+
+
+i_told_gary_you_could_make_the_call.
+i_told_gary_you_could_make_the_call.
+i_tokd[bs][bs]k[bs]ld_gary_you_could_make_the_call.
+input_start = 2021/02/05 16:50:36:433
+input_end = 2021/02/05 16:51:03:555
+Time_Span = 0:00:27.1222712
+
+
+
+yes_i_like_perfume.
+yes_i_like_perfume.
+yes_i_like_perr[bs]fume.
+input_start = 2021/02/05 16:52:13:886
+input_end = 2021/02/05 16:52:28:780
+Time_Span = 0:00:14.8940371
+
+
+
+also,_regarding_the_cash_flow_from_canada.
+also,_regarding_the_cash_flow_from_canada.
+ald[bs]so,_re_[bs]garding_the_cash_fo[bs]low_from_canada.
+input_start = 2021/02/05 16:52:29:254
+input_end = 2021/02/05 16:52:58:459
+Time_Span = 0:00:29.2056566
+
+
+
+steve_gilbert_is_working_on_this.
+steve_gilbert_is_working_on_this.
+steve_ga[bs]ilbert_is_working_on_this.
+input_start = 2021/02/05 16:52:59:71
+input_end = 2021/02/05 16:53:25:209
+Time_Span = 0:00:26.1386418
+
+
+
+the_socal_meeting_was_very_beneficial.
+the_socal_meeting_was_very_beneficial.
+the_socal_meeting_was_very_benefivi[bs][bs]ca[bs]ial.
+input_start = 2021/02/05 16:53:26:154
+input_end = 2021/02/05 16:53:54:792
+Time_Span = 0:00:28.6389237
+
+
+
+------------
+
+
+input_chara = 348
+
+input_backspace = 33
+
+input_totalstart = 2021/02/05 16:48:48:835
+
+input_totalend = 2021/02/05 16:53:54:798
+
+input_totaltime = 00:03:49.9567838
+

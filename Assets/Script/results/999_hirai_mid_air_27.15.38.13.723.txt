@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+perhaps_there_was_a_glitch.
+i_can_call_jan_at_home_so_i_can_get_access.
+go_for_the_dollars.
+------------
+
+
+test_text : input_text
+
+perhaps_there_was_a_glitch.
+perhaps_there_was_a_glitch.
+perr[bs]haa[bs]s[bs]ps_thh[bs]ee[bs]re_was_a_glio[bs]tch.
+input_start = 2021/01/27 15:38:13:723
+input_end = 2021/01/27 15:38:52:919
+Time_Span = 0:00:39.1962093
+
+
+
+i_can_call_jan_at_home_so_i_can_get_access.
+i_can_call_jan_at_home_so_i_can_get_access.
+i_v[bs]can_cc[bs]aa[bs]ll_jan_at_homee_[bs][bs]_so_i,[bs]_can_gee[bs]t_access.
+input_start = 2021/01/27 15:38:54:422
+input_end = 2021/01/27 15:40:00:476
+Time_Span = 0:01:06.053729
+
+
+
+go_for_the_dollars.
+go_for_the_dollars.
+gg[bs]g[bs]o_for_the_dollars..[bs]
+input_start = 2021/01/27 15:40:01:839
+input_end = 2021/01/27 15:40:29:186
+Time_Span = 0:00:27.3466624
+
+
+
+------------
+
+
+input_chara = 108
+
+input_backspace = 16
+
+input_totalstart = 2021/01/27 15:38:13:723
+
+input_totalend = 2021/01/27 15:40:29:191
+
+input_totaltime = 00:02:12.5966007
+

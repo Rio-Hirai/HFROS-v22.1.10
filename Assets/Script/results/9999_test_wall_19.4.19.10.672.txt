@@ -1,0 +1,61 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_can_get_them.
+message_is_getting_through.
+john,_please_send_this_to_shelly.
+------------
+
+
+test_text : input_text
+
+i_can_get_them.
+i_can_get_them.
+i_can_get_them.
+input_start = 2022/01/19 4:19:10:672
+input_end = 2022/01/19 4:19:21:354
+Time_Span = 0:00:10.6824068
+
+
+
+message_is_getting_through.
+message_is_getting_through.
+mw[bs]essage_is_getting_through.
+input_start = 2022/01/19 4:19:22:882
+input_end = 2022/01/19 4:19:47:388
+Time_Span = 0:00:24.5054416
+
+
+
+john,_please_send_this_to_shelly.
+john,_please_send_this_to_shelly.
+john_[bs],_pld[bs]ease_send_this_to_shelly.
+input_start = 2022/01/19 4:19:48:420
+input_end = 2022/01/19 4:20:19:51
+Time_Span = 0:00:30.6311863
+
+
+
+------------
+
+
+input_chara = 81
+
+input_backspace = 3
+
+input_totalstart = 2022/01/19 4:19:10:672
+
+input_totalend = 2022/01/19 4:20:19:56
+
+input_totaltime = 00:01:05.8190347
+
+
+hmpw_right_hand = 5.041034
+
+hmpw_right_finger = 9.58472
+
+hmpw_left_hand = 3.251374
+
+hmpw_left_finger = 6.168781
+

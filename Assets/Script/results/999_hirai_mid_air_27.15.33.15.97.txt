@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+perhaps_there_was_a_glitch.
+i_am_trying_again.
+no,_at_least_not_to_my_knowledge.
+------------
+
+
+test_text : input_text
+
+perhaps_there_was_a_glitch.
+perhaps_there_was_a_glitch.
+perhaps_there_was_a_glitt[bs]ch.
+input_start = 2021/01/27 15:33:15:97
+input_end = 2021/01/27 15:33:44:631
+Time_Span = 0:00:29.5341824
+
+
+
+i_am_trying_again.
+i_am_trying_again.
+i_am_ttr[bs][bs]rying_again.
+input_start = 2021/01/27 15:33:45:690
+input_end = 2021/01/27 15:34:02:258
+Time_Span = 0:00:16.5684968
+
+
+
+no,_at_least_not_to_my_knowledge.
+no,_at_least_not_to_my_knowledge.
+no,_at_least_not_to_my_knowlr[bs]edge.
+input_start = 2021/01/27 15:34:02:829
+input_end = 2021/01/27 15:34:35:383
+Time_Span = 0:00:32.5540166
+
+
+
+------------
+
+
+input_chara = 85
+
+input_backspace = 4
+
+input_totalstart = 2021/01/27 15:33:15:97
+
+input_totalend = 2021/01/27 15:34:35:388
+
+input_totaltime = 00:01:18.6566958
+

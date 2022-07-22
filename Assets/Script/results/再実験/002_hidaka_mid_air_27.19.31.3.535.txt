@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+thanks_so_much_for_the_message.
+conference_call_with_partners_on_tuesday.
+we_are_all_fragile.
+yes,_i_will_do_so.
+thanks_for_your_concern.
+i_will_call_when_i_can.
+what_does_hunter_think?
+november_14_works_for_me.
+if_not_can_i_call_you?
+thank_you,_ricki.
+------------
+
+
+test_text : input_text
+
+thanks_so_much_for_the_message.
+thanks_so_much_for_the_message.
+thanks_so_muv[bs]cn[bs]h_g[bs]for_the_mesa0s[bs][bs][bs]sage_[bs]l[bs]l[bs]l[bs].
+input_start = 2021/01/27 19:31:03:535
+input_end = 2021/01/27 19:31:43:695
+Time_Span = 0:00:40.1596786
+
+
+
+conference_call_with_partners_on_tuesday.
+conference_call_with_partners_on_tuesday.
+d[bs]cond[bs]ference_csl[bs][bs]all_with_partt[bs]ners_om0[bs][bs]k[bs]n_tuesday,[bs].
+input_start = 2021/01/27 19:31:44:712
+input_end = 2021/01/27 19:32:40:447
+Time_Span = 0:00:55.735695
+
+
+
+we_are_all_fragile.
+we_are_all_fragile.
+we_are_all_fragile._[bs]
+input_start = 2021/01/27 19:32:41:340
+input_end = 2021/01/27 19:32:59:634
+Time_Span = 0:00:18.2946039
+
+
+
+yes,_i_will_do_so.
+yes,_i_will_do_so.
+yes_x[bs][bs],_i_s[bs]will_a[bs]do_so.
+input_start = 2021/01/27 19:33:00:734
+input_end = 2021/01/27 19:33:26:383
+Time_Span = 0:00:25.6487593
+
+
+
+thanks_for_your_concern.
+thanks_for_your_concern.
+thanks_for_your_cvo[bs][bs]oncern.
+input_start = 2021/01/27 19:33:27:620
+input_end = 2021/01/27 19:33:52:446
+Time_Span = 0:00:24.8256645
+
+
+
+i_will_call_when_i_can.
+i_will_call_when_i_can.
+i_wk[bs]ill_call_when_i_can.
+input_start = 2021/01/27 19:33:53:530
+input_end = 2021/01/27 19:34:18:497
+Time_Span = 0:00:24.9663202
+
+
+
+what_does_hunter_think?
+what_does_hunter_think?
+what_does_hunter_think.[bs].[bs]?
+input_start = 2021/01/27 19:34:19:389
+input_end = 2021/01/27 19:34:42:585
+Time_Span = 0:00:23.1967628
+
+
+
+november_14_works_for_me.
+november_14_works_for_me.
+november_14_wp[bs]orks_oo[bs][bs]for_me.
+input_start = 2021/01/27 19:34:45:424
+input_end = 2021/01/27 19:35:11:601
+Time_Span = 0:00:26.1776497
+
+
+
+if_not_can_i_call_you?
+if_not_can_i_call_you?
+if_ni[bs]p[bs]ot_can_i_calk[bs]l_you?
+input_start = 2021/01/27 19:35:12:424
+input_end = 2021/01/27 19:35:36:871
+Time_Span = 0:00:24.4472405
+
+
+
+thank_you,_ricki.
+thank_you,_ricki.
+tah[bs][bs]j[bs]j[bs]hank_you,_tr[bs][bs]ri_[bs]cj[bs]ki.
+input_start = 2021/01/27 19:35:39:616
+input_end = 2021/01/27 19:36:07:518
+Time_Span = 0:00:27.9021725
+
+
+
+------------
+
+
+input_chara = 319
+
+input_backspace = 54
+
+input_totalstart = 2021/01/27 19:31:03:535
+
+input_totalend = 2021/01/27 19:36:07:524
+
+input_totaltime = 00:04:51.3545470
+

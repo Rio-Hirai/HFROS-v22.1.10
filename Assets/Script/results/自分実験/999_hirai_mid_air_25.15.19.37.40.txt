@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+we_should_be_in_a_good_negotiating_position.
+please_pass_along_my_thanks,_though.
+more_bad_enron_news?
+------------
+
+
+test_text : input_text
+
+we_should_be_in_a_good_negotiating_position.
+we_should_be_in_a_good_negotiating_position.
+se[bs][bs]we_x[bs]d[bs]sn[bs]hh[bs]oui[bs]ld_be_o[bs]k[bs]in_a_good_negotiati_[bs]ngg[bs]_posoi[bs][bs]ig[bs]tion.
+input_start = 2021/01/25 15:19:37:40
+input_end = 2021/01/25 15:20:57:967
+Time_Span = 0:01:20.9266746
+
+
+
+please_pass_along_my_thanks,_though.
+please_pass_along_my_thanks,_though.
+plela[bs][bs]asd[bs]e_pass___[bs][bs]alonb[bs]g_my_thjs[bs][bs][bs]hanm[bs][bs]m[bs]m[bs][bs]mj[bs][bs]anks,_g[bs][bs]g[bs]thoug[bs][bs][bs][bs][bs]_thp[bs]oou[bs][bs]ugh.?[bs][bs]..[bs],[bs][bs][bs]n[bs]h.[bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs]kz[bs][bs]kx[bs]s,_though.
+input_start = 2021/01/25 15:21:02:896
+input_end = 2021/01/25 15:23:28:856
+Time_Span = 0:02:25.9600958
+
+
+
+more_bad_enron_news?
+more_bad_enron_news?
+more_bad_enro_[bs]n_news??[bs]
+input_start = 2021/01/25 15:23:28:953
+input_end = 2021/01/25 15:23:54:196
+Time_Span = 0:00:25.242739
+
+
+
+------------
+
+
+input_chara = 169
+
+input_backspace = 66
+
+input_totalstart = 2021/01/25 15:19:37:40
+
+input_totalend = 2021/01/25 15:23:54:202
+
+input_totaltime = 00:04:12.1295094
+

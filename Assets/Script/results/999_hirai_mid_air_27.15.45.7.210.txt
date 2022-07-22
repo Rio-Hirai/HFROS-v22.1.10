@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_will_not_be_available.
+i_am_fine_with_this.
+thanks_for_checking_with_me.
+------------
+
+
+test_text : input_text
+
+i_will_not_be_available.
+i_will_not_be_available.
+i_will_not_bb[bs]e_avaa[bs]ilablee[bs]?[bs].
+input_start = 2021/01/27 15:45:07:210
+input_end = 2021/01/27 15:45:42:296
+Time_Span = 0:00:35.0860066
+
+
+
+i_am_fine_with_this.
+i_am_fine_with_this.
+i_aa[bs]m_fine_with_this_[bs].
+input_start = 2021/01/27 15:45:43:77
+input_end = 2021/01/27 15:46:11:410
+Time_Span = 0:00:28.3328703
+
+
+
+thanks_for_checking_with_me.
+thanks_for_checking_with_me.
+thanks_for_checking_ww[bs]ith_me.
+input_start = 2021/01/27 15:46:12:149
+input_end = 2021/01/27 15:46:50:926
+Time_Span = 0:00:38.777101
+
+
+
+------------
+
+
+input_chara = 82
+
+input_backspace = 7
+
+input_totalstart = 2021/01/27 15:45:07:210
+
+input_totalend = 2021/01/27 15:46:50:931
+
+input_totaltime = 00:01:42.1959779
+

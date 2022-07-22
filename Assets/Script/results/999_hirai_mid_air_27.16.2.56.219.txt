@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+thanks_for_your_offer.
+geez,_i_sound_pathetic.
+i_will_be_back_friday.
+------------
+
+
+test_text : input_text
+
+thanks_for_your_offer.
+thanks_for_your_offer.
+thanks_for_you_[bs]_[bs]r_offer.
+input_start = 2021/01/27 16:02:56:219
+input_end = 2021/01/27 16:03:19:460
+Time_Span = 0:00:23.2404592
+
+
+
+geez,_i_sound_pathetic.
+geez,_i_sound_pathetic.
+geez,_i_sound_pathetic.
+input_start = 2021/01/27 16:03:20:183
+input_end = 2021/01/27 16:03:38:76
+Time_Span = 0:00:17.8936023
+
+
+
+i_will_be_back_friday.
+i_will_be_back_friday.
+i_wil_[bs]l_be_back_frien[bs][bs]e[bs]day.
+input_start = 2021/01/27 16:03:38:771
+input_end = 2021/01/27 16:04:04:655
+Time_Span = 0:00:25.8838021
+
+
+
+------------
+
+
+input_chara = 78
+
+input_backspace = 8
+
+input_totalstart = 2021/01/27 16:02:56:219
+
+input_totalend = 2021/01/27 16:04:04:663
+
+input_totaltime = 00:01:07.0178636
+

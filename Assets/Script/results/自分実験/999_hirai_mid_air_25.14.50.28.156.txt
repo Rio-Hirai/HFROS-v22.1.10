@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+will_you_call_me_or_should_i_call_you?
+it_was_very_nice.
+you_hang_in_there_too.
+------------
+
+
+test_text : input_text
+
+will_you_call_me_or_should_i_call_you?
+will_you_call_me_or_should_i_call_you?
+will_yuoo[bs][bs][bs]ou_calll[bs]_me_or_xh[bs][bs]shoulf[bs]d_i_call_you?
+input_start = 2021/01/25 14:50:28:156
+input_end = 2021/01/25 14:54:26:429
+Time_Span = 0:03:58.2727536
+
+
+
+it_was_very_nice.
+it_was_very_nice.
+it_e[bs]e[bs]wad_[bs][bs]s_very_mi[bs][bs]nin[bs]ce.
+input_start = 2021/01/25 14:54:27:348
+input_end = 2021/01/25 14:54:48:441
+Time_Span = 0:00:21.0929921
+
+
+
+you_hang_in_there_too.
+you_hang_in_there_too.
+yh[bs]oi[bs]u_hang_in_tt[bs]herr[bs]e_too.
+input_start = 2021/01/25 14:54:49:306
+input_end = 2021/01/25 14:55:09:744
+Time_Span = 0:00:20.4386511
+
+
+
+------------
+
+
+input_chara = 263
+
+input_backspace = 28
+
+input_totalstart = 2021/01/25 14:50:28:156
+
+input_totalend = 2021/01/25 14:55:09:750
+
+input_totaltime = 00:04:39.8043968
+

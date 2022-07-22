@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_am_working_with_mary_joyce_on_that_right_now.
+this_is_all_so_unreal.
+next_time_ask_jim_to_call_me.
+------------
+
+
+test_text : input_text
+
+i_am_working_with_mary_joyce_on_that_right_now.
+i_am_working_with_mary_joyce_on_that_right_now.
+i_am_working_with_na[bs][bs]man[bs]n[bs]ry_joyce_on[bs]ha[bs][bs][bs]t[bs]i[bs]on_that_n[bs]right_now.
+input_start = 2021/01/27 15:12:39:388
+input_end = 2021/01/27 15:13:33:524
+Time_Span = 0:00:54.1357832
+
+
+
+this_is_all_so_unreal.
+this_is_all_so_unreal.
+this_us[bs]s[bs][bs]u[bs]is_al_[bs]l_so_7[bs]unreal.
+input_start = 2021/01/27 15:13:34:332
+input_end = 2021/01/27 15:14:01:858
+Time_Span = 0:00:27.5262803
+
+
+
+next_time_ask_jim_to_call_me.
+next_time_ask_jim_to_call_me.
+next_time_ask_jim_5o[bs][bs]ti[bs]o_call_me.
+input_start = 2021/01/27 15:14:02:541
+input_end = 2021/01/27 15:14:27:648
+Time_Span = 0:00:25.1065339
+
+
+
+------------
+
+
+input_chara = 122
+
+input_backspace = 21
+
+input_totalstart = 2021/01/27 15:12:39:388
+
+input_totalend = 2021/01/27 15:14:27:653
+
+input_totaltime = 00:01:46.7685974
+

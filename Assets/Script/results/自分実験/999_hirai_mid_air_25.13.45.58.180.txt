@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+the contract is a bit complicated.
+what is the purpose of this?
+we need to talk about this month.
+------------
+
+
+test_text : input_text
+
+the contract is a bit complicated.
+the_contract_is_a_bit_complicated.
+(input_Log)tt[bs][bs]the_contract_is_aa_[bs][bs]_bit_vo[bs][bs]complication[bs][bs][bs][bs]ted.
+input_start = 2021/01/25 13:45:58:180
+input_end = 2021/01/25 13:46:40:896
+Time_Span = 0:00:42.7162445
+
+
+
+what is the purpose of this?
+what_is_the_purpose_of_this?
+what_is_the_purpose_od[bs]f_thidd[bs][bs]s?
+input_start = 2021/01/25 13:46:41:795
+input_end = 2021/01/25 13:47:05:682
+Time_Span = 0:00:23.8874694
+
+
+
+we need to talk about this month.
+we_need_to_talk_about_this_month.
+we__need[bs][bs][bs][bs][bs][bs]__[bs]need_to_tzl[bs][bs]ai[bs]lk_aboutt[bs]_this_month.
+input_start = 2021/01/25 13:47:07:228
+input_end = 2021/01/25 13:47:47:719
+Time_Span = 0:00:40.4901812
+
+
+
+------------
+
+
+input_chara = 122
+
+input_backspace = 24
+
+input_totalstart = 2021/01/25 13:45:58:180
+
+input_totalend = 2021/01/25 13:47:47:725
+
+input_totaltime = 00:01:47.0938951
+

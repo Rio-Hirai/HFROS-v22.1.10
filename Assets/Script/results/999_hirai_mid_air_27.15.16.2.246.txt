@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+presumably_so_do_you.
+would_you_please_send_runner_to_get_this?
+we_are_in_a_loop.
+------------
+
+
+test_text : input_text
+
+presumably_so_do_you.
+presumably_so_do_you.
+pt[bs]resums[bs]avb0[bs][bs][bs]bl6[bs]y_soo[bs]_do_you.
+input_start = 2021/01/27 15:16:02:246
+input_end = 2021/01/27 15:16:36:959
+Time_Span = 0:00:34.7132608
+
+
+
+would_you_please_send_runner_to_get_this?
+would_you_please_send_runner_to_get_this?
+would_you_plr[bs]ease_send_n[bs]runnr[bs]er_to_get_this.[bs]?
+input_start = 2021/01/27 15:16:37:598
+input_end = 2021/01/27 15:17:32:973
+Time_Span = 0:00:55.3754914
+
+
+
+we_are_in_a_loop.
+we_are_in_a_loop.
+we_at[bs]re_,[bs][bs]_in_a_looop[bs][bs]p.
+input_start = 2021/01/27 15:17:33:751
+input_end = 2021/01/27 15:17:55:544
+Time_Span = 0:00:21.7922633
+
+
+
+------------
+
+
+input_chara = 98
+
+input_backspace = 16
+
+input_totalstart = 2021/01/27 15:16:02:246
+
+input_totalend = 2021/01/27 15:17:55:549
+
+input_totaltime = 00:01:51.8810155
+

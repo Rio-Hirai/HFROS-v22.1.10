@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_am_getting_home_early.
+i_appreciate_you_moving_so_quickly_on_this.
+if_so_he_probably_will_have_to_pay_back.
+------------
+
+
+test_text : input_text
+
+i_am_getting_home_early.
+i_am_getting_home_early.
+i_am_gettingg_[bs][bs]_home_r[bs]r[bs]early.
+input_start = 2021/01/27 14:53:14:953
+input_end = 2021/01/27 14:53:48:259
+Time_Span = 0:00:33.3055717
+
+
+
+i_appreciate_you_moving_so_quickly_on_this.
+i_appreciate_you_moving_so_quickly_on_this.
+i_appreciate_yoou[bs][bs]u_moving_so_quik[bs]ck;[bs]ly_on_this.
+input_start = 2021/01/27 14:53:49:263
+input_end = 2021/01/27 14:54:36:976
+Time_Span = 0:00:47.7129874
+
+
+
+if_so_he_probably_will_have_to_pay_back.
+if_so_he_probably_will_have_to_pay_back.
+if_so_he_probaa[bs]by[bs]lly[bs][bs]y_will_have_to_[bs]_paa[bs]y_baaxc[bs][bs][bs]k[bs]ck.
+input_start = 2021/01/27 14:54:37:646
+input_end = 2021/01/27 14:55:28:800
+Time_Span = 0:00:51.1539807
+
+
+
+------------
+
+
+input_chara = 128
+
+input_backspace = 18
+
+input_totalstart = 2021/01/27 14:53:14:953
+
+input_totalend = 2021/01/27 14:55:28:804
+
+input_totaltime = 00:02:12.1725398
+

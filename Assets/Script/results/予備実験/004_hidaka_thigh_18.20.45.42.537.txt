@@ -1,0 +1,111 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_think_i_get_this_everyday_now.
+i_meant_to_try_and_explain,_not_to_redo.
+we_plan_on_reviewing_with_stan_on_monday.
+can_we_have_them_until_we_move?
+i_just_tracked_down_steve.
+no,_at_least_not_to_my_knowledge.
+treasa_knows_the_details.
+this_is_a_problem_for_timing_of_restart.
+lisa_now_has_everything.
+i_would_expect_an_answer_asap.
+------------
+
+
+test_text : input_text
+
+i_think_i_get_this_everyday_now.
+i_think_i_get_this_everyday_now.
+input_start = 2021/01/18 20:45:42:537
+input_end = 2021/01/18 20:47:36:817
+Time_Span = 0:01:54.2798882
+
+
+
+i_meant_to_try_and_explain,_not_to_redo.
+i_meant_to_try_and_explain,_not_to_redo.
+input_start = 2021/01/18 20:48:01:290
+input_end = 2021/01/18 20:50:05:649
+Time_Span = 0:02:04.3589824
+
+
+
+we_plan_on_reviewing_with_stan_on_monday.
+we_plan_on_reviewing_with_stan_on_monday.
+input_start = 2021/01/18 20:50:58:952
+input_end = 2021/01/18 20:52:11:309
+Time_Span = 0:01:12.3576353
+
+
+
+can_we_have_them_until_we_move?
+can_we_have_them_until_we_move?
+input_start = 2021/01/18 20:52:11:413
+input_end = 2021/01/18 20:52:57:858
+Time_Span = 0:00:46.4447682
+
+
+
+i_just_tracked_down_steve.
+i_just_tracked_down_steve.
+input_start = 2021/01/18 20:52:59:629
+input_end = 2021/01/18 20:53:32:615
+Time_Span = 0:00:32.9851191
+
+
+
+no,_at_least_not_to_my_knowledge.
+no,_at_least_not_to_my_knowledge.
+input_start = 2021/01/18 20:53:34:39
+input_end = 2021/01/18 20:54:54:512
+Time_Span = 0:01:20.4727419
+
+
+
+treasa_knows_the_details.
+treasa_knows_the_details.
+input_start = 2021/01/18 20:54:54:633
+input_end = 2021/01/18 20:55:40:176
+Time_Span = 0:00:45.5426889
+
+
+
+this_is_a_problem_for_timing_of_restart.
+this_is_a_problem_for_timing_of_restart.
+input_start = 2021/01/18 20:55:46:684
+input_end = 2021/01/18 20:57:02:305
+Time_Span = 0:01:15.621162
+
+
+
+lisa_now_has_everything.
+lisa_now_has_everything.
+input_start = 2021/01/18 20:57:04:541
+input_end = 2021/01/18 20:57:40:927
+Time_Span = 0:00:36.3865749
+
+
+
+i_would_expect_an_answer_asap.
+i_would_expect_an_answer_asap.
+input_start = 2021/01/18 20:57:42:615
+input_end = 2021/01/18 20:58:22:282
+Time_Span = 0:00:39.6670404
+
+
+
+------------
+
+
+input_chara = 549
+
+input_backspace = 217
+
+input_totalstart = 2021/01/18 20:45:42:537
+
+input_totalend = 2021/01/18 20:58:22:287
+
+input_totaltime = 00:11:08.1166013

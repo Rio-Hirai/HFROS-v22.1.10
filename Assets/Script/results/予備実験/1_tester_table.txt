@@ -1,0 +1,164 @@
+test_text_30: 
+
+Thanks, I will look at it tonight.
+Are you going to join us for lunch?
+Let me know if I can do anything.
+Will follow up today.
+Sorry I'm losing it.
+I can't find it on my Blackberry.
+Sounds good to me.
+How about 9 in my office on 3825?
+I hoped you did.
+This will be hard.
+Thanks for the surprise.
+Yes I am coming twice.
+Early to my appointment, so I'm working some.
+Davis had not yet updated the model for this.
+OK to make changes, change out original.
+Let's start with this and add more later.
+And how would I be going for work?
+We'll let you know.
+Yes I am here actually.
+Thank you, dear.
+I heard it was at 5?
+Thanks, I think we have taken care of this.
+Thanks so much for the message.
+We are working on this as we speak.
+Interesting, are you around for a late lunch?
+If not, he's gone on Tuesday.
+Hopefully it cheered you up a bit.
+Tonight is my anniversary.
+Have a good evening.
+That's a lot of dollars.
+------------
+
+
+test_text : input_text
+
+Thanks, I will look at it tonight.
+
+
+
+Are you going to join us for lunch?
+
+
+
+Let me know if I can do anything.
+
+
+
+Will follow up today.
+
+
+
+Sorry I'm losing it.
+
+
+
+I can't find it on my Blackberry.
+
+
+
+Sounds good to me.
+
+
+
+How about 9 in my office on 3825?
+
+
+
+I hoped you did.
+
+
+
+This will be hard.
+
+
+
+Thanks for the surprise.
+
+
+
+Yes I am coming twice.
+
+
+
+Early to my appointment, so I'm working some.
+
+
+
+Davis had not yet updated the model for this.
+
+
+
+OK to make changes, change out original.
+
+
+
+Let's start with this and add more later.
+
+
+
+And how would I be going for work?
+
+
+
+We'll let you know.
+
+
+
+Yes I am here actually.
+
+
+
+Thank you, dear.
+
+
+
+I heard it was at 5?
+
+
+
+Thanks, I think we have taken care of this.
+
+
+
+Thanks so much for the message.
+
+
+
+We are working on this as we speak.
+
+
+
+Interesting, are you around for a late lunch?
+
+
+
+If not, he's gone on Tuesday.
+
+
+
+Hopefully it cheered you up a bit.
+
+
+
+Tonight is my anniversary.
+
+
+
+Have a good evening.
+
+
+
+That's a lot of dollars.
+
+
+
+------------
+
+
+input_chara = 1000
+
+input_backspace = 50
+

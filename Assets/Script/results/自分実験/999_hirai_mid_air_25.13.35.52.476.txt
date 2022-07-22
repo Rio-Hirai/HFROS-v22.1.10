@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+what did you and ava decide to do?
+i am really not wanting to come back.
+how soon do you need it?
+------------
+
+
+test_text : input_text
+
+what did you and ava decide to do?
+what_did_you_and_ava_decide_to_do?
+(input_Log)8ttt5ttgttt5grt5rt[bs]tttt[bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs]whatr[bs]_did_yy[bs]ou_snd[bs][bs][bs]asd[bs][bs]nd_ava_ddi[bs][bs]e_i[bs]vi[bs][bs][bs][bs]ei[bs]cidde[bs][bs][bs]de_to_do?
+input_start = 2021/01/25 13:35:52:476
+input_end = 2021/01/25 13:36:41:4
+Time_Span = 0:00:48.5276647
+
+
+
+i am really not wanting to come back.
+i_am_really_not_wanting_to_come_back.
+(input_Log)8ttt5ttgttt5grt5rt[bs]tttt[bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs]whatr[bs]_did_yy[bs]ou_snd[bs][bs][bs]asd[bs][bs]nd_ava_ddi[bs][bs]e_i[bs]vi[bs][bs][bs][bs]ei[bs]cidde[bs][bs][bs]de_to_do?io[bs]_am_really_not_e[bs]ws[bs]anting_to_vo[bs][bs]come_back.
+input_start = 2021/01/25 13:36:42:631
+input_end = 2021/01/25 13:37:20:77
+Time_Span = 0:00:37.4459141
+
+
+
+how soon do you need it?
+how_soon_do_you_need_it?
+(input_Log)8ttt5ttgttt5grt5rt[bs]tttt[bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs][bs]whatr[bs]_did_yy[bs]ou_snd[bs][bs][bs]asd[bs][bs]nd_ava_ddi[bs][bs]e_i[bs]vi[bs][bs][bs][bs]ei[bs]cidde[bs][bs][bs]de_to_do?io[bs]_am_really_not_e[bs]ws[bs]anting_to_vo[bs][bs]come_back.how_soon_do_you_neee[bs]d_it?
+input_start = 2021/01/25 13:37:23:541
+input_end = 2021/01/25 13:37:42:528
+Time_Span = 0:00:18.9878698
+
+
+
+------------
+
+
+input_chara = 144
+
+input_backspace = 46
+
+input_totalstart = 2021/01/25 13:35:52:476
+
+input_totalend = 2021/01/25 13:37:42:534
+
+input_totaltime = 00:01:44.9614486
+

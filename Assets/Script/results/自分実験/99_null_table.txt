@@ -1,0 +1,164 @@
+test_text_30: 
+
+Thanks, I will look at it tonight.
+Davis had not yet updated the model for this.
+Yes I am coming twice.
+Let's start with this and add more later.
+Yes I am here actually.
+Are you going to join us for lunch?
+I can't find it on my Blackberry.
+Thank you, dear.
+Sounds good to me.
+How about 9 in my office on 3825?
+Sorry I'm losing it.
+That's a lot of dollars.
+We'll let you know.
+OK to make changes, change out original.
+I hoped you did.
+Do you want to eat lunch somewhere before?
+And how would I be going for work?
+Thanks for the surprise.
+I heard it was at 5?
+Let me know if I can do anything.
+If not, he's gone on Tuesday.
+Hopefully it cheered you up a bit.
+Thanks so much for the message.
+Tonight is my anniversary.
+Interesting, are you around for a late lunch?
+Thanks, I think we have taken care of this.
+Have a good evening.
+Early to my appointment, so I'm working some.
+We are working on this as we speak.
+Will follow up today.
+------------
+
+
+test_text : input_text
+
+Thanks, I will look at it tonight.
+
+
+
+Davis had not yet updated the model for this.
+
+
+
+Yes I am coming twice.
+
+
+
+Let's start with this and add more later.
+
+
+
+Yes I am here actually.
+
+
+
+Are you going to join us for lunch?
+
+
+
+I can't find it on my Blackberry.
+
+
+
+Thank you, dear.
+
+
+
+Sounds good to me.
+
+
+
+How about 9 in my office on 3825?
+
+
+
+Sorry I'm losing it.
+
+
+
+That's a lot of dollars.
+
+
+
+We'll let you know.
+
+
+
+OK to make changes, change out original.
+
+
+
+I hoped you did.
+
+
+
+Do you want to eat lunch somewhere before?
+
+
+
+And how would I be going for work?
+
+
+
+Thanks for the surprise.
+
+
+
+I heard it was at 5?
+
+
+
+Let me know if I can do anything.
+
+
+
+If not, he's gone on Tuesday.
+
+
+
+Hopefully it cheered you up a bit.
+
+
+
+Thanks so much for the message.
+
+
+
+Tonight is my anniversary.
+
+
+
+Interesting, are you around for a late lunch?
+
+
+
+Thanks, I think we have taken care of this.
+
+
+
+Have a good evening.
+
+
+
+Early to my appointment, so I'm working some.
+
+
+
+We are working on this as we speak.
+
+
+
+Will follow up today.
+
+
+
+------------
+
+
+input_chara = 1000
+
+input_backspace = 5
+

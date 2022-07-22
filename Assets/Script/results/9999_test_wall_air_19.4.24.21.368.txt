@@ -1,0 +1,61 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_am_getting_home_early.
+please_call_tomorrow_if_possible.
+she_was_going_to_leave_at_8_or_9.
+------------
+
+
+test_text : input_text
+
+i_am_getting_home_early.
+i_am_getting_home_early.
+i_am_getting_home_early.
+input_start = 2022/01/19 4:24:21:368
+input_end = 2022/01/19 4:24:42:337
+Time_Span = 0:00:20.9687038
+
+
+
+please_call_tomorrow_if_possible.
+please_call_tomorrow_if_possible.
+please_call_tomorrow_if_possible?[bs].
+input_start = 2022/01/19 4:24:45:498
+input_end = 2022/01/19 4:25:20:237
+Time_Span = 0:00:34.7391621
+
+
+
+she_was_going_to_leave_at_8_or_9.
+she_was_going_to_leave_at_8_or_9.
+she_was_going_to_leave_at_8_or_9?[bs]?[bs].
+input_start = 2022/01/19 4:25:21:365
+input_end = 2022/01/19 4:25:49:811
+Time_Span = 0:00:28.4459377
+
+
+
+------------
+
+
+input_chara = 98
+
+input_backspace = 5
+
+input_totalstart = 2022/01/19 4:24:21:368
+
+input_totalend = 2022/01/19 4:25:49:814
+
+input_totaltime = 00:01:24.1538036
+
+
+hmpw_right_hand = 9.564829
+
+hmpw_right_finger = 15.88602
+
+hmpw_left_hand = 6.278154
+
+hmpw_left_finger = 8.93819
+

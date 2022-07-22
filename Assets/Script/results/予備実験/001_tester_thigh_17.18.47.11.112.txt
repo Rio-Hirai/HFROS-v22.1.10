@@ -1,0 +1,47 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+thanks,_i_will_look_at_it_tonight.
+we_are_working_on_this_as_we_speak.
+this_will_be_hard.
+------------
+
+
+test_text : input_text
+
+thanks,_i_will_look_at_it_tonight.
+ki
+input_start = 2021/01/17 18:47:11:112
+input_end = 2021/01/17 18:47:12:880
+time_Span = 0:00:01.7674235
+
+
+
+we_are_working_on_this_as_we_speak.
+lop
+input_start = 2021/01/17 18:47:14:299
+input_end = 2021/01/17 18:47:16:784
+time_Span = 0:00:02.4846273
+
+
+
+this_will_be_hard.
+;po
+input_start = 2021/01/17 18:47:17:683
+input_end = 2021/01/17 18:47:20:328
+time_Span = 0:00:02.6451134
+
+
+
+------------
+
+
+input_chara = 11
+
+input_backspace = 0
+
+input_totalstart = 2021/01/17 18:47:11:112
+
+input_totalend = 2021/01/17 18:47:20:332
+

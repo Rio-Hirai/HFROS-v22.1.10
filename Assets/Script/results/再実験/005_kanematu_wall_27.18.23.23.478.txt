@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+davis_had_not_yet_updated_the_model_for_this.
+stop_working_weekends_again.
+yes_i_am_coming_twice.
+this_will_be_hard.
+maybe_stuff_we_do_more_of_next_year.
+it_will_be_very_quiet_all_week.
+how_do_you_like_the_blackberry?
+are_you_going_to_call?
+if_he_wants_it.
+thus_have_nothing_to_destroy.
+------------
+
+
+test_text : input_text
+
+davis_had_not_yet_updated_the_model_for_this.
+davis_had_not_yet_updated_the_model_for_this.
+dab[bs]vu[bs]is_had_not_yet_updated_the_model_for_this.
+input_start = 2021/01/27 18:23:23:478
+input_end = 2021/01/27 18:24:00:166
+Time_Span = 0:00:36.6878051
+
+
+
+stop_working_weekends_again.
+stop_working_weekends_again.
+stop_working.[bs]_weekends_again.
+input_start = 2021/01/27 18:24:00:875
+input_end = 2021/01/27 18:24:20:563
+Time_Span = 0:00:19.688372
+
+
+
+yes_i_am_coming_twice.
+yes_i_am_coming_twice.
+yes_i_am_coming_twice.
+input_start = 2021/01/27 18:24:21:94
+input_end = 2021/01/27 18:24:39:389
+Time_Span = 0:00:18.2946838
+
+
+
+this_will_be_hard.
+this_will_be_hard.
+this_will_be_hard.
+input_start = 2021/01/27 18:24:39:973
+input_end = 2021/01/27 18:24:53:924
+Time_Span = 0:00:13.951259
+
+
+
+maybe_stuff_we_do_more_of_next_year.
+maybe_stuff_we_do_more_of_next_year.
+mab[bs]ybe_stuff,[bs],[bs]_we_do_more_of_nextt[bs]_year.
+input_start = 2021/01/27 18:24:54:605
+input_end = 2021/01/27 18:25:27:46
+Time_Span = 0:00:32.4408061
+
+
+
+it_will_be_very_quiet_all_week.
+it_will_be_very_quiet_all_week.
+it_will_be_very_quiet_all_weel[bs]k?[bs].
+input_start = 2021/01/27 18:25:27:897
+input_end = 2021/01/27 18:25:53:364
+Time_Span = 0:00:25.4668552
+
+
+
+how_do_you_like_the_blackberry?
+how_do_you_like_the_blackberry?
+how_do_you_like_the_blackberry.[bs]?
+input_start = 2021/01/27 18:25:53:991
+input_end = 2021/01/27 18:26:22:700
+Time_Span = 0:00:28.7089927
+
+
+
+are_you_going_to_call?
+are_you_going_to_call?
+are_you_goin_g[bs][bs]g_to_call?
+input_start = 2021/01/27 18:26:23:330
+input_end = 2021/01/27 18:26:45:674
+Time_Span = 0:00:22.3444244
+
+
+
+if_he_wants_it.
+if_he_wants_it.
+if_he_wants_it.
+input_start = 2021/01/27 18:26:46:386
+input_end = 2021/01/27 18:26:57:915
+Time_Span = 0:00:11.5292068
+
+
+
+thus_have_nothing_to_destroy.
+thus_have_nothing_to_destroy.
+thus_have_nothing_to_destroy.
+input_start = 2021/01/27 18:26:58:652
+input_end = 2021/01/27 18:27:22:935
+Time_Span = 0:00:24.2828665
+
+
+
+------------
+
+
+input_chara = 299
+
+input_backspace = 12
+
+input_totalstart = 2021/01/27 18:23:23:478
+
+input_totalend = 2021/01/27 18:27:22:945
+
+input_totaltime = 00:03:53.3952716
+

@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_will_submit_that_that_may_be_the_case_today.
+i_am_going_to_be_available_in_a_few_minutes.
+michael_said_his_day_was_rotten.
+get_with_david_lund.
+did_you_get_this?
+have_a_good_weekend.
+they_have_capacity_now.
+if_he_wants_it.
+let_me_know_when_you_get_this.
+i_hoped_you_did.
+------------
+
+
+test_text : input_text
+
+i_will_submit_that_that_may_be_the_case_today.
+i_will_submit_that_that_may_be_the_case_today.
+iw[bs]wo[bs][bs]_will_si[bs]ub,[bs]mit_that_that_may_be_tj[bs]he_case_today.
+input_start = 2021/01/28 15:53:50:912
+input_end = 2021/01/28 15:55:07:714
+Time_Span = 0:01:16.8018488
+
+
+
+i_am_going_to_be_available_in_a_few_minutes.
+i_am_going_to_be_available_in_a_few_minutes.
+i_am_going_to_be_availablr[bs]r[bs]e_in_a_few_minn[bs]utes.
+input_start = 2021/01/28 15:55:09:609
+input_end = 2021/01/28 15:56:19:741
+Time_Span = 0:01:10.1319002
+
+
+
+michael_said_his_day_was_rotten.
+michael_said_his_day_was_rotten.
+mica[bs]hael_said_his_day_was_rotten.
+input_start = 2021/01/28 15:56:21:452
+input_end = 2021/01/28 15:57:08:513
+Time_Span = 0:00:47.0608527
+
+
+
+get_with_david_lund.
+get_with_david_lund.
+get_with_da_[bs]vis[bs]f[bs]f[bs]d_lund?[bs].
+input_start = 2021/01/28 15:57:10:197
+input_end = 2021/01/28 15:57:48:252
+Time_Span = 0:00:38.0543453
+
+
+
+did_you_get_this?
+did_you_get_this?
+difd[bs][bs]f[bs]d_you_get_this?
+input_start = 2021/01/28 15:57:49:352
+input_end = 2021/01/28 15:58:22:713
+Time_Span = 0:00:33.3610734
+
+
+
+have_a_good_weekend.
+have_a_good_weekend.
+h_[bs]v[bs]ave_a_gol[bs]od_weekem[bs]nd.
+input_start = 2021/01/28 15:58:23:896
+input_end = 2021/01/28 15:59:00:749
+Time_Span = 0:00:36.8534069
+
+
+
+they_have_capacity_now.
+they_have_capacity_now.
+thw[bs][bs]hey_hv[bs]ave_capax[bs]v[bs]city_now.
+input_start = 2021/01/28 15:59:02:45
+input_end = 2021/01/28 15:59:37:591
+Time_Span = 0:00:35.5455394
+
+
+
+if_he_wants_it.
+if_he_wants_it.
+if_he_wamn[bs][bs]nts_it.
+input_start = 2021/01/28 15:59:38:692
+input_end = 2021/01/28 16:00:01:749
+Time_Span = 0:00:23.0570203
+
+
+
+let_me_know_when_you_get_this.
+let_me_know_when_you_get_this.
+let_me_know_when_you_gw[bs]et_tho[bs]is.
+input_start = 2021/01/28 16:00:02:931
+input_end = 2021/01/28 16:00:44:940
+Time_Span = 0:00:42.0081088
+
+
+
+i_hoped_you_did.
+i_hoped_you_did.
+i_hp[bs]oped_you_did.
+input_start = 2021/01/28 16:00:46:207
+input_end = 2021/01/28 16:01:11:742
+Time_Span = 0:00:25.5348756
+
+
+
+------------
+
+
+input_chara = 315
+
+input_backspace = 33
+
+input_totalstart = 2021/01/28 15:53:50:912
+
+input_totalend = 2021/01/28 16:01:11:747
+
+input_totaltime = 00:07:08.4089714
+

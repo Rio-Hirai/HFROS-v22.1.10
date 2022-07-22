@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_think_we_should_consider_this_request.
+if_so_what_was_it?
+conference_call_with_partners_on_tuesday.
+------------
+
+
+test_text : input_text
+
+i_think_we_should_consider_this_request.
+i_think_we_should_consider_this_request.
+i_[bs]h[bs]_think_ee[bs][bs]we_dh[bs][bs]shoukd[bs][bs]kd[bs][bs]ld_consider_this_request.
+input_start = 2021/01/25 14:32:56:338
+input_end = 2021/01/25 14:33:33:185
+Time_Span = 0:00:36.8467048
+
+
+
+if_so_what_was_it?
+if_so_what_was_it?
+if_so_ws[bs]hat_was,[bs]_it?
+input_start = 2021/01/25 14:33:33:840
+input_end = 2021/01/25 14:33:47:678
+Time_Span = 0:00:13.8380108
+
+
+
+conference_call_with_partners_on_tuesday.
+conference_call_with_partners_on_tuesday.
+ci[bs]onfere_[bs]c[bs]nce_cakl[bs][bs]ll_ei[bs][bs]ei[bs][bs]with_parthn[bs][bs]ned[bs]s[bs]rd[bs]s_on_tued[bs]s_[bs]day.
+input_start = 2021/01/25 14:33:48:743
+input_end = 2021/01/25 14:34:40:783
+Time_Span = 0:00:52.0399358
+
+
+
+------------
+
+
+input_chara = 160
+
+input_backspace = 58
+
+input_totalstart = 2021/01/25 14:32:56:338
+
+input_totalend = 2021/01/25 14:34:40:789
+
+input_totaltime = 00:01:42.7246514
+

@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+she_has_the_game_tomorrow.
+she_has_a_web_address.
+i_received_word_that_the_switch_deal_is_off.
+------------
+
+
+test_text : input_text
+
+she_has_the_game_tomorrow.
+she_has_the_game_tomorrow.
+shh[bs]e_has_the_gamee_[bs][bs]_tomk[bs]orrow.
+input_start = 2021/01/27 14:49:05:472
+input_end = 2021/01/27 14:49:34:614
+Time_Span = 0:00:29.1420039
+
+
+
+she_has_a_web_address.
+she_has_a_web_address.
+she_has_a_web_aad[bs][bs]ddress.
+input_start = 2021/01/27 14:49:35:449
+input_end = 2021/01/27 14:49:54:664
+Time_Span = 0:00:19.2150592
+
+
+
+i_received_word_that_the_switch_deal_is_off.
+i_received_word_that_the_switch_deal_is_off.
+i_reco[bs]eived_word_thaat[bs][bs]t_the_switch_deea[bs][bs]al_is_off.
+input_start = 2021/01/27 14:49:55:318
+input_end = 2021/01/27 14:50:35:916
+Time_Span = 0:00:40.5978455
+
+
+
+------------
+
+
+input_chara = 138
+
+input_backspace = 19
+
+input_totalstart = 2021/01/27 14:49:05:472
+
+input_totalend = 2021/01/27 14:50:35:922
+
+input_totaltime = 00:01:28.9549086
+

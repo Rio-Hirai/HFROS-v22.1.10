@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+are_you_going_to_join_us_for_lunch?
+it_will_probably_be_tomorrow.
+we_can_have_wine_and_catch_up.
+------------
+
+
+test_text : input_text
+
+are_you_going_to_join_us_for_lunch?
+are_you_going_to_join_us_for_lunch?
+are_you_going_to_join_u[bs]us_for_lunch?
+input_start = 2021/01/27 16:18:53:135
+input_end = 2021/01/27 16:19:27:638
+Time_Span = 0:00:34.5025879
+
+
+
+it_will_probably_be_tomorrow.
+it_will_probably_be_tomorrow.
+it_will_probably_be_tomorrow.
+input_start = 2021/01/27 16:19:28:262
+input_end = 2021/01/27 16:20:00:706
+Time_Span = 0:00:32.4438507
+
+
+
+we_can_have_wine_and_catch_up.
+we_can_have_wine_and_catch_up.
+we_can_have_wine_and_catch_up.
+input_start = 2021/01/27 16:20:01:527
+input_end = 2021/01/27 16:20:30:84
+Time_Span = 0:00:28.5574451
+
+
+
+------------
+
+
+input_chara = 98
+
+input_backspace = 1
+
+input_totalstart = 2021/01/27 16:18:53:135
+
+input_totalend = 2021/01/27 16:20:30:90
+
+input_totaltime = 00:01:35.5038837
+

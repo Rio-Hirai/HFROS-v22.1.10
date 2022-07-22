@@ -1,0 +1,64 @@
+test_text_10: 
+
+Thanks, I will look at it tonight.
+We are working on this as we speak.
+Yes I am here actually.
+Tonight is my anniversary.
+Hopefully it cheered you up a bit.
+How about 9 in my office on 3825?
+Interesting, are you around for a late lunch?
+Have a good evening.
+Thanks, I think we have taken care of this.
+Sounds good to me.
+------------
+
+
+test_text : input_text
+
+Thanks, I will look at it tonight.
+
+
+
+We are working on this as we speak.
+
+
+
+Yes I am here actually.
+
+
+
+Tonight is my anniversary.
+
+
+
+Hopefully it cheered you up a bit.
+
+
+
+How about 9 in my office on 3825?
+
+
+
+Interesting, are you around for a late lunch?
+
+
+
+Have a good evening.
+
+
+
+Thanks, I think we have taken care of this.
+
+
+
+Sounds good to me.
+
+
+
+------------
+
+
+input_chara = 500
+
+input_backspace = 50
+

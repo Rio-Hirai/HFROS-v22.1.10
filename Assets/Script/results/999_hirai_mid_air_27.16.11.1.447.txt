@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_think_you_need_to_push_wasaff.
+i_am_trying_again.
+forward_it_in_to_steve_for_approval.
+------------
+
+
+test_text : input_text
+
+i_think_you_need_to_push_wasaff.
+i_think_you_need_to_push_wasaff.
+i_think_you_need_to_push_wasaff.
+input_start = 2021/01/27 16:11:01:447
+input_end = 2021/01/27 16:11:34:989
+Time_Span = 0:00:33.5419611
+
+
+
+i_am_trying_again.
+i_am_trying_again.
+i_am_trying_again.
+input_start = 2021/01/27 16:11:35:741
+input_end = 2021/01/27 16:11:55:806
+Time_Span = 0:00:20.0650021
+
+
+
+forward_it_in_to_steve_for_approval.
+forward_it_in_to_steve_for_approval.
+forward_it_in_to_steve_for_approbv[bs][bs]val.
+input_start = 2021/01/27 16:11:56:572
+input_end = 2021/01/27 16:12:48:786
+Time_Span = 0:00:52.2140184
+
+
+
+------------
+
+
+input_chara = 91
+
+input_backspace = 2
+
+input_totalstart = 2021/01/27 16:11:01:447
+
+input_totalend = 2021/01/27 16:12:48:791
+
+input_totaltime = 00:01:45.8209816
+

@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+i_have_a_high_level_in_my_office.
+ben_could_tell_him_about_pompano.
+thanks_for_the_quick_turnaround.
+------------
+
+
+test_text : input_text
+
+i_have_a_high_level_in_my_office.
+i_have_a_high_level_in_my_office.
+i_have_a_high_level_in_my_offe[bs]ice.
+input_start = 2021/01/27 16:07:47:2
+input_end = 2021/01/27 16:08:26:507
+Time_Span = 0:00:39.5047082
+
+
+
+ben_could_tell_him_about_pompano.
+ben_could_tell_him_about_pompano.
+ben_could_tell_him_about_pompano.
+input_start = 2021/01/27 16:08:27:146
+input_end = 2021/01/27 16:09:03:139
+Time_Span = 0:00:35.9928953
+
+
+
+thanks_for_the_quick_turnaround.
+thanks_for_the_quick_turnaround.
+thanks_fot[bs]r_the_quick_turnaround.
+input_start = 2021/01/27 16:09:03:822
+input_end = 2021/01/27 16:09:46:482
+Time_Span = 0:00:42.6594212
+
+
+
+------------
+
+
+input_chara = 103
+
+input_backspace = 2
+
+input_totalstart = 2021/01/27 16:07:47:2
+
+input_totalend = 2021/01/27 16:09:46:488
+
+input_totaltime = 00:01:58.1570247
+

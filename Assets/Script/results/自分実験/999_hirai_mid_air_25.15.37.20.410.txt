@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+need_you_or_john_to_step_out.
+if_he_wants_it.
+are_linde_and_kim_available_to_assist_rod?
+------------
+
+
+test_text : input_text
+
+need_you_or_john_to_step_out.
+need_you_or_john_to_step_out?
+nre[bs][bs]eed_you_ot[bs][bs]r[bs]olr[bs][bs]r_joi[bs]in[bs][bs]hn_tk[bs]o__[bs]dt[bs][bs]step_out?
+input_start = 2021/01/25 15:37:20:410
+input_end = 2021/01/25 15:37:54:501
+Time_Span = 0:00:34.0902926
+
+
+
+if_he_wants_it.
+if_he_wants_it.
+iff__[bs][bs][bs]_he_ea[bs][bs][bs]__[bs]ww[bs]ar[bs]nts_it.
+input_start = 2021/01/25 15:37:55:503
+input_end = 2021/01/25 15:38:14:787
+Time_Span = 0:00:19.2834945
+
+
+
+are_linde_and_kim_available_to_assist_rod?
+are_linde_and_kim_available_to_assist_rod?
+are_linf[bs]de_and_kim__[bs][bs]_availabb[bs]le_to_asi[bs]sist_rod?
+input_start = 2021/01/25 15:38:14:801
+input_end = 2021/01/25 15:38:50:848
+Time_Span = 0:00:36.0470891
+
+
+
+------------
+
+
+input_chara = 341
+
+input_backspace = 252
+
+input_totalstart = 2021/01/25 15:37:20:410
+
+input_totalend = 2021/01/25 15:38:50:854
+
+input_totaltime = 00:01:29.4208762
+

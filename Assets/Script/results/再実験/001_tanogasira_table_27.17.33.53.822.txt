@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10:
+
+what_a_nice_note.
+all_the_kids_were_cute.
+can_talk_about_1_more_if_needed.
+it_has_been_very_rough_this_week.
+i_will_be_checking_up_with_lisa.
+maybe_i_should_just_stay_there_for_good.
+i_guess_we_are_almost_there_right?
+is_this_the_only_time_available?
+how_did_you_make_sure_it_was_the_right_set?
+when_do_we_review_with_el_paso?
+------------
+
+
+test_text : input_text
+
+what_a_nice_note.
+what_a_nice_note.
+what_a_nic_[bs]e_note?[bs].
+input_start = 2021/01/27 17:33:53:822
+input_end = 2021/01/27 17:34:07:496
+Time_Span = 0:00:13.6746429
+
+
+
+all_the_kids_were_cute.
+all_the_kids_were_cute.
+all_the_kis[bs]ds_werw[bs]w[bs]e_cute.
+input_start = 2021/01/27 17:34:07:957
+input_end = 2021/01/27 17:34:34:227
+Time_Span = 0:00:26.2705174
+
+
+
+can_talk_about_1_more_if_needed.
+can_talk_about_1_more_if_needed.
+can_talk_a_[bs]bout__1[bs][bs]1_moe[bs]e[bs]re_if_needed.
+input_start = 2021/01/27 17:34:34:674
+input_end = 2021/01/27 17:35:10:57
+Time_Span = 0:00:35.383066
+
+
+
+it_has_been_very_rough_this_week.
+it_has_been_very_rough_this_week.
+it_has_nb[bs]b[bs][bs]been_very_rough_this_week.
+input_start = 2021/01/27 17:35:10:516
+input_end = 2021/01/27 17:35:46:564
+Time_Span = 0:00:36.0480054
+
+
+
+i_will_be_checking_up_with_lisa.
+i_will_be_checking_up_with_lisa.
+i_wil_[bs]l_be_checkin_[bs]g_up_with_lisa.
+input_start = 2021/01/27 17:35:48:109
+input_end = 2021/01/27 17:36:19:658
+Time_Span = 0:00:31.548867
+
+
+
+maybe_i_should_just_stay_there_for_good.
+maybe_i_should_just_stay_there_for_good.
+maybe_i_should_u[bs]just_stay_tn[bs]here_g[bs]for_og[bs][bs]good.
+input_start = 2021/01/27 17:36:20:176
+input_end = 2021/01/27 17:37:03:309
+Time_Span = 0:00:43.1328176
+
+
+
+i_guess_we_are_almost_there_right?
+i_guess_we_are_almost_there_right?
+i_gus[bs]ess_we_are_almos_t[bs]t[bs][bs]t_there_rib[bs]ght?
+input_start = 2021/01/27 17:37:03:824
+input_end = 2021/01/27 17:37:41:279
+Time_Span = 0:00:37.4553282
+
+
+
+is_this_the_only_time_available?
+is_this_the_only_time_available?
+is_ts[bs]his_o[bs]the_only_i[bs]time_ab[bs]vailan[bs]ble?
+input_start = 2021/01/27 17:37:41:752
+input_end = 2021/01/27 17:38:16:532
+Time_Span = 0:00:34.779878
+
+
+
+how_did_you_make_sure_it_was_the_right_set?
+how_did_you_make_sure_it_was_the_right_set?
+how_dd[bs]id_h[bs]you_make_sure_i_[bs]t_was_thh[bs]e_right_set?
+input_start = 2021/01/27 17:38:17:21
+input_end = 2021/01/27 17:39:06:741
+Time_Span = 0:00:49.7204358
+
+
+
+when_do_we_review_with_el_paso?
+when_do_we_review_with_el_paso?
+when_do_we_review_with_el_paso?
+input_start = 2021/01/27 17:39:07:341
+input_end = 2021/01/27 17:39:38:283
+Time_Span = 0:00:30.9417555
+
+
+
+------------
+
+
+input_chara = 393
+
+input_backspace = 37
+
+input_totalstart = 2021/01/27 17:33:53:822
+
+input_totalend = 2021/01/27 17:39:38:287
+
+input_totaltime = 00:05:38.9553138
+

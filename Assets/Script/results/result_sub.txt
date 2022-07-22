@@ -1,0 +1,51 @@
+<-read.table("WPM_sub.txt", header=TRUE) 
+> anova(aov(WPM ~ pattern + ID, data = WPM_sub))
+Analysis of Variance Table
+
+Response: WPM
+          Df Sum Sq Mean Sq F value Pr(>F)
+pattern    1  2.899  2.8988   0.611 0.4484
+ID         1  1.139  1.1387   0.240 0.6323
+Residuals 13 61.672  4.7440
+
+
+
+> TER_sub <-read.table("TER_sub.txt", header=TRUE) 
+> anova(aov(TER ~ pattern + ID, data = TER_sub))
+Analysis of Variance Table
+
+Response: TER
+          Df   Sum Sq  Mean Sq F value   Pr(>F)   
+pattern    1 0.021829 0.021829  8.8653 0.010692 * 
+ID         1 0.037108 0.037108 15.0710 0.001889 **
+Residuals 13 0.032009 0.002462                    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+
+> NASA_sub <-read.table("NASA_sub.txt", header=TRUE) 
+> anova(aov(NASA ~ pattern + ID, data = NASA_sub))
+Analysis of Variance Table
+
+Response: NASA
+          Df Sum Sq Mean Sq F value  Pr(>F)  
+pattern    1   61.3   61.25  0.1875 0.67210  
+ID         1 2135.6 2135.56  6.5376 0.02388 *
+Residuals 13 4246.5  326.66                  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+
+> SUS_sub <-read.table("SUS_sub.txt", header=TRUE) 
+> anova(aov(SUS ~ pattern + ID, data = SUS_sub))
+Analysis of Variance Table
+
+Response: SUS
+          Df Sum Sq Mean Sq F value Pr(>F)
+pattern    1    2.0   1.953  0.0064 0.9373
+ID         1  219.5 219.453  0.7234 0.4104
+Residuals 13 3943.8 303.371     
+
+

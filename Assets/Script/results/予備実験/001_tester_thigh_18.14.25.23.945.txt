@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+check_with_vince_strohmeyer.
+what_is_the_purpose_of_this?
+they_played_dirty,_michael_hung_tough.
+i_know_several_who_work_there.
+you_can_reply_via_email.
+ok_i_thought_it_was_in_washington_state.
+i_spoke_with_lara_robinson_this_morning.
+maybe_you_can_leave_early.
+she_has_absolutely_everything.
+mikey_is_invited_also.
+------------
+
+
+test_text : input_text
+
+check_with_vince_strohmeyer.
+check_with_vince_strohmeyer.
+input_start = 2021/01/18 14:25:23:945
+input_end = 2021/01/18 14:26:08:291
+Time_Span = 0:00:44.3459654
+
+
+
+what_is_the_purpose_of_this?
+what_is_the_purpose_of_this?
+input_start = 2021/01/18 14:26:09:948
+input_end = 2021/01/18 14:26:43:981
+Time_Span = 0:00:34.0331661
+
+
+
+they_played_dirty,_michael_hung_tough.
+they_played_dirty,_michael_hung_tough.
+input_start = 2021/01/18 14:26:44:808
+input_end = 2021/01/18 14:27:37:556
+Time_Span = 0:00:52.7480847
+
+
+
+i_know_several_who_work_there.
+i_know_several_who_work_there.
+input_start = 2021/01/18 14:27:38:641
+input_end = 2021/01/18 14:28:19:608
+Time_Span = 0:00:40.9667505
+
+
+
+you_can_reply_via_email.
+you_can_reply_via_email.
+input_start = 2021/01/18 14:28:20:709
+input_end = 2021/01/18 14:29:01:364
+Time_Span = 0:00:40.6547559
+
+
+
+ok_i_thought_it_was_in_washington_state.
+ok_i_thought_it_was_in_washington_state.
+input_start = 2021/01/18 14:29:01:424
+input_end = 2021/01/18 14:29:51:641
+Time_Span = 0:00:50.2164331
+
+
+
+i_spoke_with_lara_robinson_this_morning.
+i_spoke_with_lara_robinson_this_morning.
+input_start = 2021/01/18 14:29:52:668
+input_end = 2021/01/18 14:30:53:253
+Time_Span = 0:01:00.5853213
+
+
+
+maybe_you_can_leave_early.
+maybe_you_can_leave_early.
+input_start = 2021/01/18 14:30:54:209
+input_end = 2021/01/18 14:31:24:803
+Time_Span = 0:00:30.5937858
+
+
+
+she_has_absolutely_everything.
+she_has_absolutely_everything.
+input_start = 2021/01/18 14:31:25:814
+input_end = 2021/01/18 14:31:54:772
+Time_Span = 0:00:28.9581241
+
+
+
+mikey_is_invited_also.
+mikey_is_invited_also.
+input_start = 2021/01/18 14:31:54:798
+input_end = 2021/01/18 14:32:26:887
+Time_Span = 0:00:32.0882583
+
+
+
+------------
+
+
+input_chara = 378
+
+input_backspace = 62
+
+input_totalstart = 2021/01/18 14:25:23:945
+
+input_totalend = 2021/01/18 14:32:26:891
+
+input_totaltime = 00:06:55.1906452
+

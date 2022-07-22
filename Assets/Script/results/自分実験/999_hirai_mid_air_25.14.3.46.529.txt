@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+please_coordinate_with_him.
+i_will_not_be_available.
+can_you_rough_out_a_slide_on_rating_agencies?
+------------
+
+
+test_text : input_text
+
+please_coordinate_with_him.
+please_coordinate_with_him.
+(input_Log)8[bs]5t[bs][bs]please_o[bs]coordinate_with_him.
+input_start = 2021/01/25 14:03:46:529
+input_end = 2021/01/25 14:04:09:963
+Time_Span = 0:00:23.4338543
+
+
+
+i_will_not_be_available.
+i_will_not_be_available.
+i_will_not_be_available.
+input_start = 2021/01/25 14:04:11:133
+input_end = 2021/01/25 14:04:28:175
+Time_Span = 0:00:17.0419115
+
+
+
+can_you_rough_out_a_slide_on_rating_agencies?
+can_you_rough_out_a_slide_on_rating_agencies?
+can_you_rougj[bs]h_out_a_slide_on_ran[bs]tingf[bs]_agent[bs]cied.[bs][bs]d[bs]s?
+input_start = 2021/01/25 14:04:28:926
+input_end = 2021/01/25 14:05:15:780
+Time_Span = 0:00:46.8537873
+
+
+
+------------
+
+
+input_chara = 110
+
+input_backspace = 11
+
+input_totalstart = 2021/01/25 14:03:46:529
+
+input_totalend = 2021/01/25 14:05:15:787
+
+input_totaltime = 00:01:27.3295531
+

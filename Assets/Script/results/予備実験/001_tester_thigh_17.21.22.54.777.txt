@@ -1,0 +1,49 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+test
+test2
+test3
+------------
+
+
+test_text : input_text
+
+test
+opop
+input_start = 2021/01/17 21:22:54:777
+input_end = 2021/01/17 21:22:56:921
+Time_Span = 0:00:02.144141
+
+
+
+test2
+poik;
+input_start = 2021/01/17 21:22:57:729
+input_end = 2021/01/17 21:23:03:762
+Time_Span = 0:00:06.0324574
+
+
+
+test3
+lopok
+input_start = 2021/01/17 21:23:12:628
+input_end = 2021/01/17 21:23:19:4
+Time_Span = 0:00:06.3766668
+
+
+
+------------
+
+
+input_chara = 17
+
+input_backspace = 0
+
+input_totalstart = 2021/01/17 21:22:54:777
+
+input_totalend = 2021/01/17 21:23:19:8
+
+input_totaltime = 00:00:14.5532652
+

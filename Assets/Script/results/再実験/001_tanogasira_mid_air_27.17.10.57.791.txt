@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+we_can_discuss_options_early_next_week.
+i_think_in_this_case_specific_is_better.
+once_you_do,_you_can_never_go_back.
+we_need_to_talk_about_this_month.
+this_financing_shows_up_as_minority_interest.
+going_home_to_pack_and_then_headed_to_dallas.
+thanks_for_the_quick_turnaround.
+i_am_walking_in_now.
+i_have_a_favor_to_ask.
+wonder_what_next_week_will_bring.
+------------
+
+
+test_text : input_text
+
+we_can_discuss_options_early_next_week.
+we_can_discuss_options_early_next_week.
+we_cand[bs]_discs[bs]us_[bs]s_options_earll[bs]y_nr[bs]ec[bs]xt_week.
+input_start = 2021/01/27 17:10:57:791
+input_end = 2021/01/27 17:11:53:815
+Time_Span = 0:00:56.0243366
+
+
+
+i_think_in_this_case_specific_is_better.
+i_think_in_this_case_specific_is_better.
+i_think_in_this_case_spq[bs]ecific_is_better.
+input_start = 2021/01/27 17:11:54:611
+input_end = 2021/01/27 17:12:37:788
+Time_Span = 0:00:43.1777034
+
+
+
+once_you_do,_you_can_never_go_back.
+once_you_do,_you_can_never_go_back.
+once_yi[bs]ou_do,_you_can_never_go_baa[bs]ck.
+input_start = 2021/01/27 17:12:38:429
+input_end = 2021/01/27 17:13:14:279
+Time_Span = 0:00:35.8508623
+
+
+
+we_need_to_talk_about_this_month.
+we_need_to_talk_about_this_month.
+we_need_to_talk_about_this_month.
+input_start = 2021/01/27 17:13:14:935
+input_end = 2021/01/27 17:13:48:310
+Time_Span = 0:00:33.375829
+
+
+
+this_financing_shows_up_as_minority_interest.
+this_financing_shows_up_as_minority_interest.
+this_finanv[bs]cing_d[bs]shows_up_as_minority_interest.
+input_start = 2021/01/27 17:13:49:35
+input_end = 2021/01/27 17:14:45:230
+Time_Span = 0:00:56.1955359
+
+
+
+going_home_to_pack_and_then_headed_to_dallas.
+going_home_to_pack_and_then_headed_to_dallas.
+goii[bs]ng_home_to_pack_and_then_han[bs][bs]eaded_y[bs]to_dak[bs]llas.
+input_start = 2021/01/27 17:14:45:926
+input_end = 2021/01/27 17:15:34:74
+Time_Span = 0:00:48.1477903
+
+
+
+thanks_for_the_quick_turnaround.
+thanks_for_the_quick_turnaround.
+thanks_for_the_quick_turm[bs]naround.
+input_start = 2021/01/27 17:15:34:771
+input_end = 2021/01/27 17:16:04:567
+Time_Span = 0:00:29.7960131
+
+
+
+i_am_walking_in_now.
+i_am_walking_in_now.
+i_am_walking_in_now.
+input_start = 2021/01/27 17:16:05:291
+input_end = 2021/01/27 17:16:20:328
+Time_Span = 0:00:15.0366199
+
+
+
+i_have_a_favor_to_ask.
+i_have_a_favor_to_ask.
+i_have_a_fs[bs]avor_to_ashj[bs]k[bs][bs]k.
+input_start = 2021/01/27 17:16:21:24
+input_end = 2021/01/27 17:16:46:435
+Time_Span = 0:00:25.4108873
+
+
+
+wonder_what_next_week_will_bring.
+wonder_what_next_week_will_bring.
+wonder__[bs]what_next_week_will_r[bs]bring.
+input_start = 2021/01/27 17:16:47:215
+input_end = 2021/01/27 17:17:19:627
+Time_Span = 0:00:32.412014
+
+
+
+------------
+
+
+input_chara = 377
+
+input_backspace = 23
+
+input_totalstart = 2021/01/27 17:10:57:791
+
+input_totalend = 2021/01/27 17:17:19:633
+
+input_totaltime = 00:06:15.4275918
+

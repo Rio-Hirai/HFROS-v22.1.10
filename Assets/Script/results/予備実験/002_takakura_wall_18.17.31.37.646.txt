@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+please_send_me_an_email.
+we_can_work_around_these_plans_if_you_prefer.
+might_include_proposals_with_respect_to_alaska.
+there_is_an_article_about_the_legal_department.
+get_with_david_lund.
+we_must_be_consistent.
+i_have_some_more_data_coming.
+i_already_deleted_it.
+what_a_crazy_day.
+marisa_sent_the_invoices.
+------------
+
+
+test_text : input_text
+
+please_send_me_an_email.
+please_send_me_an_email.
+input_start = 2021/01/18 17:31:37:646
+input_end = 2021/01/18 17:32:45:538
+Time_Span = 0:01:07.8912977
+
+
+
+we_can_work_around_these_plans_if_you_prefer.
+we_can_work_around_these_plans_if_you_prefer.
+input_start = 2021/01/18 17:32:47:557
+input_end = 2021/01/18 17:34:13:648
+Time_Span = 0:01:26.0902146
+
+
+
+might_include_proposals_with_respect_to_alaska.
+might_include_proposals_with_respect_to_alaska.
+input_start = 2021/01/18 17:34:15:5
+input_end = 2021/01/18 17:35:33:683
+Time_Span = 0:01:18.6774158
+
+
+
+there_is_an_article_about_the_legal_department.
+there_is_an_article_about_the_legal_department.
+input_start = 2021/01/18 17:35:36:22
+input_end = 2021/01/18 17:37:04:984
+Time_Span = 0:01:28.9617708
+
+
+
+get_with_david_lund.
+get_with_david_lund.
+input_start = 2021/01/18 17:37:05:65
+input_end = 2021/01/18 17:37:50:30
+Time_Span = 0:00:44.9645106
+
+
+
+we_must_be_consistent.
+we_must_be_consistent.
+input_start = 2021/01/18 17:37:51:253
+input_end = 2021/01/18 17:38:31:960
+Time_Span = 0:00:40.7062896
+
+
+
+i_have_some_more_data_coming.
+i_have_some_more_data_coming.
+input_start = 2021/01/18 17:38:36:133
+input_end = 2021/01/18 17:39:28:467
+Time_Span = 0:00:52.3345316
+
+
+
+i_already_deleted_it.
+i_already_deleted_it.
+input_start = 2021/01/18 17:39:29:354
+input_end = 2021/01/18 17:40:12:535
+Time_Span = 0:00:43.1809823
+
+
+
+what_a_crazy_day.
+what_a_crazy_day.
+input_start = 2021/01/18 17:40:14:300
+input_end = 2021/01/18 17:40:42:741
+Time_Span = 0:00:28.4409581
+
+
+
+marisa_sent_the_invoices.
+marisa_sent_the_invoices.
+input_start = 2021/01/18 17:40:44:306
+input_end = 2021/01/18 17:41:23:209
+Time_Span = 0:00:38.9030325
+
+
+
+------------
+
+
+input_chara = 413
+
+input_backspace = 106
+
+input_totalstart = 2021/01/18 17:31:37:646
+
+input_totalend = 2021/01/18 17:41:23:214
+
+input_totaltime = 00:09:30.1510036
+

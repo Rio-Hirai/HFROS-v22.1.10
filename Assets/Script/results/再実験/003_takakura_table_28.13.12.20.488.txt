@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+my_mobile_number_is_7134080929.
+chip_schneider_makes_that_call.
+i_worked_on_the_grade_level_promotion.
+fran,_yes_please_update.
+what_information,_if_any,_do_we_owe_him?
+red_rock_capacity_is_107,000.
+does_friday_at_10_work_for_you?
+i_am_not_aware_of_any.
+we_must_be_consistent.
+please_send_to_hartsoe_for_comment.
+------------
+
+
+test_text : input_text
+
+my_mobile_number_is_7134080929.
+my_mobile_number_is_7134080929.
+my_mov[bs]bile_number_is_7135[bs]4080929.
+input_start = 2021/01/28 13:12:20:488
+input_end = 2021/01/28 13:13:15:793
+Time_Span = 0:00:55.3048072
+
+
+
+chip_schneider_makes_that_call.
+chip_schneider_makes_that_call.
+chip_schneider_mal[bs]kes_that_call.
+input_start = 2021/01/28 13:13:20:320
+input_end = 2021/01/28 13:14:12:112
+Time_Span = 0:00:51.7915279
+
+
+
+i_worked_on_the_grade_level_promotion.
+i_worked_on_the_grade_level_promotion.
+i_workes[bs]d_on_the_grade_level_pt[bs]romotion.
+input_start = 2021/01/28 13:14:13:299
+input_end = 2021/01/28 13:15:08:616
+Time_Span = 0:00:55.3162927
+
+
+
+fran,_yes_please_update.
+fran,_yes_please_update.
+fran,_yes_please_update.
+input_start = 2021/01/28 13:15:09:394
+input_end = 2021/01/28 13:15:33:943
+Time_Span = 0:00:24.5490027
+
+
+
+what_information,_if_any,_do_we_owe_him?
+what_information,_if_any,_do_we_owe_him?
+what_information,_if_any,_f[bs]do_we_owe_him?
+input_start = 2021/01/28 13:15:34:850
+input_end = 2021/01/28 13:16:14:891
+Time_Span = 0:00:40.0410305
+
+
+
+red_rock_capacity_is_107,000.
+red_rock_capacity_is_107,000.
+red_rock_capacity_is_107,000.
+input_start = 2021/01/28 13:16:15:843
+input_end = 2021/01/28 13:16:46:193
+Time_Span = 0:00:30.3509335
+
+
+
+does_friday_at_10_work_for_you?
+does_friday_at_10_work_for_you?
+does_friday_at_10[bs]_[bs]0_work_for_you?
+input_start = 2021/01/28 13:16:47:109
+input_end = 2021/01/28 13:17:19:885
+Time_Span = 0:00:32.7759249
+
+
+
+i_am_not_aware_of_any.
+i_am_not_aware_of_any.
+i_an[bs]m_not_aware_of_anu[bs]y.
+input_start = 2021/01/28 13:17:20:526
+input_end = 2021/01/28 13:17:45:324
+Time_Span = 0:00:24.7978806
+
+
+
+we_must_be_consistent.
+we_must_be_consistent.
+we_mus_[bs]t_be_ci[bs]i[bs]onsistent.
+input_start = 2021/01/28 13:17:48:500
+input_end = 2021/01/28 13:18:14:714
+Time_Span = 0:00:26.2141027
+
+
+
+please_send_to_hartsoe_for_comment.
+please_send_to_hartsoe_for_comment.
+please_see[bs]nd_to_hartsoe_for_comment.
+input_start = 2021/01/28 13:18:15:495
+input_end = 2021/01/28 13:18:57:684
+Time_Span = 0:00:42.1885999
+
+
+
+------------
+
+
+input_chara = 327
+
+input_backspace = 14
+
+input_totalstart = 2021/01/28 13:12:20:488
+
+input_totalend = 2021/01/28 13:18:57:689
+
+input_totaltime = 00:06:23.3301026
+

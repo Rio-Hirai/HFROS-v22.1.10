@@ -1,0 +1,188 @@
+-----------------------------------------------------------------------------------------
+
+test_text_12: 
+
+thanks,_i_will_look_at_it_tonight.
+how_about_9_in_my_office_on_3825?
+this_will_be_hard.
+are_you_going_to_join_us_for_lunch?
+hopefully_it_cheered_you_up_a_bit.
+sounds_good_to_me.
+have_a_good_evening.
+thanks,_i_think_we_have_taken_care_of_this.
+interesting,_are_you_around_for_a_late_lunch?
+we_are_working_on_this_as_we_speak.
+will_follow_up_today.
+yes_i_am_here_actually.
+------------
+
+
+test_text : input_text
+
+thanks,_i_will_look_at_it_tonight.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+how_about_9_in_my_office_on_3825?
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+this_will_be_hard.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+are_you_going_to_join_us_for_lunch?
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+hopefully_it_cheered_you_up_a_bit.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+sounds_good_to_me.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+have_a_good_evening.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+thanks,_i_think_we_have_taken_care_of_this.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+interesting,_are_you_around_for_a_late_lunch?
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+we_are_working_on_this_as_we_speak.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+will_follow_up_today.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+yes_i_am_here_actually.
+
+input_start = 0001/01/01 0:00:00:0
+
+input_end = 0001/01/01 0:00:00:0
+
+
+
+------------
+
+
+input_chara = 0
+
+input_backspace = 0
+
+input_totalstart = 0001/01/01 0:00:00:0
+
+input_totalend = 2021/01/17 17:59:34:30
+
+-----------------------------------------------------------------------------------------
+
+test_text_5: 
+
+thanks,_i_will_look_at_it_tonight.
+this_will_be_hard.
+hopefully_it_cheered_you_up_a_bit.
+how_about_9_in_my_office_on_3825?
+we_are_working_on_this_as_we_speak.
+------------
+
+
+test_text : input_text
+
+thanks,_i_will_look_at_it_tonight.
+
+input_start = 0001/01/01 0:00:00:0
+input_end = 0001/01/01 0:00:00:0
+
+
+
+this_will_be_hard.
+
+input_start = 0001/01/01 0:00:00:0
+input_end = 0001/01/01 0:00:00:0
+
+
+
+hopefully_it_cheered_you_up_a_bit.
+
+input_start = 0001/01/01 0:00:00:0
+input_end = 0001/01/01 0:00:00:0
+
+
+
+how_about_9_in_my_office_on_3825?
+
+input_start = 0001/01/01 0:00:00:0
+input_end = 0001/01/01 0:00:00:0
+
+
+
+we_are_working_on_this_as_we_speak.
+
+input_start = 0001/01/01 0:00:00:0
+input_end = 0001/01/01 0:00:00:0
+
+
+
+------------
+
+
+input_chara = 0
+
+input_backspace = 0
+
+input_totalstart = 0001/01/01 0:00:00:0
+
+input_totalend = 2021/01/17 18:15:38:784
+

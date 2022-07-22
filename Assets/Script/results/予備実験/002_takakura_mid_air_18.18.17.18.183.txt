@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+thank_you_for_your_prompt_reply.
+are_we_ready_for_this_on_monday?
+thanks_for_the_surprise.
+november_14_works_for_me.
+let_me_know_if_i_can_do_anything.
+let_me_know_if_it_goes_any_lower.
+anxious_to_hear_how_the_paging_worked_for_you.
+that_is_so_sad.
+tried_reaching_you_earlier.
+what_are_the_units?
+------------
+
+
+test_text : input_text
+
+thank_you_for_your_prompt_reply.
+thank_you_for_your_prompt_reply.
+input_start = 2021/01/18 18:17:18:183
+input_end = 2021/01/18 18:18:10:470
+Time_Span = 0:00:52.2860651
+
+
+
+are_we_ready_for_this_on_monday?
+are_we_ready_for_this_on_monday?
+input_start = 2021/01/18 18:18:14:148
+input_end = 2021/01/18 18:18:52:473
+Time_Span = 0:00:38.3242199
+
+
+
+thanks_for_the_surprise.
+thanks_for_the_surprise.
+input_start = 2021/01/18 18:18:53:667
+input_end = 2021/01/18 18:19:25:348
+Time_Span = 0:00:31.6812313
+
+
+
+november_14_works_for_me.
+november_14_works_for_me.
+input_start = 2021/01/18 18:19:26:113
+input_end = 2021/01/18 18:20:13:887
+Time_Span = 0:00:47.7733503
+
+
+
+let_me_know_if_i_can_do_anything.
+let_me_know_if_i_can_do_anything.
+input_start = 2021/01/18 18:20:19:737
+input_end = 2021/01/18 18:21:09:454
+Time_Span = 0:00:49.7170831
+
+
+
+let_me_know_if_it_goes_any_lower.
+let_me_know_if_it_goes_any_lower.
+input_start = 2021/01/18 18:21:10:320
+input_end = 2021/01/18 18:21:52:79
+Time_Span = 0:00:41.7595699
+
+
+
+anxious_to_hear_how_the_paging_worked_for_you.
+anxious_to_hear_how_the_paging_worked_for_you.
+input_start = 2021/01/18 18:21:52:970
+input_end = 2021/01/18 18:22:58:448
+Time_Span = 0:01:05.4777042
+
+
+
+that_is_so_sad.
+that_is_so_sad.
+input_start = 2021/01/18 18:23:00:891
+input_end = 2021/01/18 18:23:14:514
+Time_Span = 0:00:13.6228078
+
+
+
+tried_reaching_you_earlier.
+tried_reaching_you_earlier.
+input_start = 2021/01/18 18:23:15:928
+input_end = 2021/01/18 18:23:54:439
+Time_Span = 0:00:38.5112077
+
+
+
+what_are_the_units?
+what_are_the_units?
+input_start = 2021/01/18 18:23:55:380
+input_end = 2021/01/18 18:24:17:246
+Time_Span = 0:00:21.866103
+
+
+
+------------
+
+
+input_chara = 362
+
+input_backspace = 66
+
+input_totalstart = 2021/01/18 18:17:18:183
+
+input_totalend = 2021/01/18 18:24:17:251
+
+input_totaltime = 00:06:41.0193423
+

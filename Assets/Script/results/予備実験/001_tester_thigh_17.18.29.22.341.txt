@@ -1,0 +1,44 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+thanks,_i_will_look_at_it_tonight.
+this_will_be_hard.
+hopefully_it_cheered_you_up_a_bit.
+------------
+
+
+test_text : input_text
+
+thanks,_i_will_look_at_it_tonight.
+l,
+input_start = 0001/01/01 0:00:00:0
+input_end = 0001/01/01 0:00:00:0
+
+
+
+this_will_be_hard.
+kjj
+input_start = 0001/01/01 0:00:00:0
+input_end = 0001/01/01 0:00:00:0
+
+
+
+hopefully_it_cheered_you_up_a_bit.
+
+input_start = 0001/01/01 0:00:00:0
+input_end = 2021/01/17 18:29:37:405
+
+
+
+------------
+
+
+input_chara = 8
+
+input_backspace = 0
+
+input_totalstart = 2021/01/17 18:29:22:341
+
+input_totalend = 2021/01/17 18:29:37:408
+

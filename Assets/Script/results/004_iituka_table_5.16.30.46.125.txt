@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+hope_all_is_well.
+i_told_you_silly.
+can_mark_ellenberg_participate?
+nothing_but_good_news_everyday.
+that_is_so_sad.
+thanks,_i_think_we_have_taken_care_of_this.
+have_you_done_any_deals_yet?
+what_is_happening_to_the_stock_price?
+we_have_lots_of_paper_stuff.
+in_a_meeting_with_your_guys_now.
+------------
+
+
+test_text : input_text
+
+hope_all_is_well.
+hope_all_is_well.
+hope_all_is_well.
+input_start = 2021/02/05 16:30:46:125
+input_end = 2021/02/05 16:30:57:363
+Time_Span = 0:00:11.2377159
+
+
+
+i_told_you_silly.
+i_told_you_silly.
+i_told_you_silly.
+input_start = 2021/02/05 16:30:58:363
+input_end = 2021/02/05 16:31:10:181
+Time_Span = 0:00:11.8187313
+
+
+
+can_mark_ellenberg_participate?
+can_mark_ellenberg_participate?
+can_make[bs][bs]rk_ellenbeng[bs][bs]rn[bs]g_pae[bs]rticipate?
+input_start = 2021/02/05 16:31:10:876
+input_end = 2021/02/05 16:31:37:668
+Time_Span = 0:00:26.7920368
+
+
+
+nothing_but_good_news_everyday.
+nothing_but_good_news_everyday.
+no5h[bs][bs]thingf_[bs][bs]_but_goods_[bs][bs]_news_everydsay[bs][bs][bs]ay.
+input_start = 2021/02/05 16:31:38:323
+input_end = 2021/02/05 16:32:03:501
+Time_Span = 0:00:25.1781489
+
+
+
+that_is_so_sad.
+that_is_so_sad.
+that_is_so_sad.
+input_start = 2021/02/05 16:32:04:251
+input_end = 2021/02/05 16:32:14:197
+Time_Span = 0:00:09.9462358
+
+
+
+thanks,_i_think_we_have_taken_care_of_this.
+thanks,_i_think_we_have_taken_care_of_this.
+thanks_[bs],_i_think_we_hac[bs][bs]ave_taken_care_of_this?.[bs][bs].
+input_start = 2021/02/05 16:32:14:696
+input_end = 2021/02/05 16:32:44:751
+Time_Span = 0:00:30.0548668
+
+
+
+have_you_done_any_deals_yet?
+have_you_done_any_deals_yet?
+have_you_ds[bs]one_any_deals_yet?
+input_start = 2021/02/05 16:32:45:378
+input_end = 2021/02/05 16:33:01:946
+Time_Span = 0:00:16.5681217
+
+
+
+what_is_happening_to_the_stock_price?
+what_is_happening_to_the_stock_price.
+what_is_happening_to_tfhe[bs][bs][bs]he_stock_pricce[bs][bs]e.
+input_start = 2021/02/05 16:33:02:544
+input_end = 2021/02/05 16:33:28:822
+Time_Span = 0:00:26.2786723
+
+
+
+we_have_lots_of_paper_stuff.
+we_have_lots_of_paper_stuff.
+we_havfe_[bs][bs][bs]e_lots_of_a[bs]paer[bs][bs]per_stuff.
+input_start = 2021/02/05 16:33:29:948
+input_end = 2021/02/05 16:33:51:793
+Time_Span = 0:00:21.8446136
+
+
+
+in_a_meeting_with_your_guys_now.
+in_a_meeting_with_your_guys_now.
+in_a_meeting_with_your_guys_now.
+input_start = 2021/02/05 16:33:52:334
+input_end = 2021/02/05 16:34:11:445
+Time_Span = 0:00:19.1111021
+
+
+
+------------
+
+
+input_chara = 337
+
+input_backspace = 33
+
+input_totalstart = 2021/02/05 16:30:46:125
+
+input_totalend = 2021/02/05 16:34:11:450
+
+input_totaltime = 00:03:18.8302452
+

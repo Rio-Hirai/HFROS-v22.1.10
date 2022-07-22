@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_think_we_should_put_a_number_on_the_table.
+i_am_monitoring_email.
+thanks_for_your_concern.
+talk_to_you_later.
+do_we_have_new_york_sorted_out?
+it_is_no_problem.
+wish_me_luck_with_linda.
+that_is_exactly_what_i_would_like_you_to_do.
+never_mind,_i_already_deleted_it.
+do_you_have_a_number_for_him?
+------------
+
+
+test_text : input_text
+
+i_think_we_should_put_a_number_on_the_table.
+i_think_we_should_put_a_number_on_the_table.
+input_start = 2021/01/18 21:03:22:857
+input_end = 2021/01/18 21:04:32:541
+Time_Span = 0:01:09.6842841
+
+
+
+i_am_monitoring_email.
+i_am_monitoring_email.
+input_start = 2021/01/18 21:04:33:876
+input_end = 2021/01/18 21:05:10:83
+Time_Span = 0:00:36.2071594
+
+
+
+thanks_for_your_concern.
+thanks_for_your_concern.
+input_start = 2021/01/18 21:05:11:407
+input_end = 2021/01/18 21:05:41:367
+Time_Span = 0:00:29.9595151
+
+
+
+talk_to_you_later.
+talk_to_you_later.
+input_start = 2021/01/18 21:05:42:483
+input_end = 2021/01/18 21:06:15:213
+Time_Span = 0:00:32.7293612
+
+
+
+do_we_have_new_york_sorted_out?
+do_we_have_new_york_sorted_out?
+input_start = 2021/01/18 21:06:19:386
+input_end = 2021/01/18 21:06:56:442
+Time_Span = 0:00:37.0560173
+
+
+
+it_is_no_problem.
+it_is_no_problem.
+input_start = 2021/01/18 21:06:57:702
+input_end = 2021/01/18 21:07:22:609
+Time_Span = 0:00:24.9069581
+
+
+
+wish_me_luck_with_linda.
+wish_me_luck_with_linda.
+input_start = 2021/01/18 21:07:23:899
+input_end = 2021/01/18 21:08:17:296
+Time_Span = 0:00:53.3970239
+
+
+
+that_is_exactly_what_i_would_like_you_to_do.
+that_is_exactly_what_i_would_like_you_to_do.
+input_start = 2021/01/18 21:08:18:565
+input_end = 2021/01/18 21:09:12:223
+Time_Span = 0:00:53.6583432
+
+
+
+never_mind,_i_already_deleted_it.
+never_mind,_i_already_deleted_it.
+input_start = 2021/01/18 21:09:14:608
+input_end = 2021/01/18 21:10:14:274
+Time_Span = 0:00:59.6657468
+
+
+
+do_you_have_a_number_for_him?
+do_you_have_a_number_for_him?
+input_start = 2021/01/18 21:10:15:879
+input_end = 2021/01/18 21:10:42:991
+Time_Span = 0:00:27.1123074
+
+
+
+------------
+
+
+input_chara = 383
+
+input_backspace = 87
+
+input_totalstart = 2021/01/18 21:03:22:857
+
+input_totalend = 2021/01/18 21:10:42:997
+
+input_totaltime = 00:07:04.3767165
+

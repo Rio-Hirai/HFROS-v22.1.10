@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+sheila_please_talk_to_avashe.
+we_have_beans,_plus_i_will_be_cooking_trash.
+it_reads_like_she_is_in.
+------------
+
+
+test_text : input_text
+
+sheila_please_talk_to_avashe.
+sheila_please_talk_to_avashe.
+shel[bs]ila_pll[bs]easr[bs]e_tta[bs][bs]alk_[bs]o[bs]_to_avashe.
+input_start = 2021/01/27 15:07:31:524
+input_end = 2021/01/27 15:08:07:463
+Time_Span = 0:00:35.9391401
+
+
+
+we_have_beans,_plus_i_will_be_cooking_trash.
+we_have_beans,_plus_i_will_be_cooking_trash.
+we_have_bw[bs]wa[bs][bs]eamn[bs][bs][bs]aa[bs]ns_[bs].,_[bs][bs][bs],,_[bs][bs]_pu[bs]luss[bs]_i_ei[bs][bs]will_be_vo[bs][bs]v[bs]ci[bs]ooking_trash.
+input_start = 2021/01/27 15:08:08:367
+input_end = 2021/01/27 15:09:15:494
+Time_Span = 0:01:07.1265222
+
+
+
+it_reads_like_she_is_in.
+it_reads_like_she_is_in.
+it_reads_like_she_is_in.
+input_start = 2021/01/27 15:09:16:302
+input_end = 2021/01/27 15:09:34:973
+Time_Span = 0:00:18.671029
+
+
+
+------------
+
+
+input_chara = 128
+
+input_backspace = 28
+
+input_totalstart = 2021/01/27 15:07:31:524
+
+input_totalend = 2021/01/27 15:09:34:978
+
+input_totaltime = 00:02:01.7366913
+

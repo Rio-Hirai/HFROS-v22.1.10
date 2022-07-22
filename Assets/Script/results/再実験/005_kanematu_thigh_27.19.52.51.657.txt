@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+how_are_things_with_you?
+also,_regarding_the_cash_flow_from_canada.
+no_problem_maria,_please_contact_rick.
+i_might_have_something_at_the_office.
+i_will_try_to_reach_you_on_wednesday.
+please_send_to_hartsoe_for_comment.
+what_is_happening_to_the_stock_price?
+this_is_very_sensitive.
+kay_mann_is_going_to_take_the_lead_on_this.
+this_is_a_most_unfortunate_news_release.
+------------
+
+
+test_text : input_text
+
+how_are_things_with_you?
+how_are_things_with_you?
+how_are_things_with_you?
+input_start = 2021/01/27 19:52:51:657
+input_end = 2021/01/27 19:53:15:968
+Time_Span = 0:00:24.3116894
+
+
+
+also,_regarding_the_cash_flow_from_canada.
+also,_regarding_the_cash_flow_from_canada.
+also,_regardd[bs]ing_thw[bs]e_v[bs]cash_ff[bs]low_from_canada.
+input_start = 2021/01/27 19:53:17:557
+input_end = 2021/01/27 19:54:16:508
+Time_Span = 0:00:58.9503999
+
+
+
+no_problem_maria,_please_contact_rick.
+no_problem_maria,_please_contact_rick.
+no_problem_marisa[bs][bs]a,_pleasr[bs]e_cc[bs]ontact_rick.
+input_start = 2021/01/27 19:54:17:134
+input_end = 2021/01/27 19:55:07:189
+Time_Span = 0:00:50.0544875
+
+
+
+i_might_have_something_at_the_office.
+i_might_have_something_at_the_office.
+i_might_have_something_at_the_office.
+input_start = 2021/01/27 19:55:07:899
+input_end = 2021/01/27 19:55:44:141
+Time_Span = 0:00:36.2416923
+
+
+
+i_will_try_to_reach_you_on_wednesday.
+i_will_try_to_reach_you_on_wednesday.
+i_wil_[bs]l_try_to_reacc[bs]h_yi[bs]ou_on_wednesday.
+input_start = 2021/01/27 19:55:44:893
+input_end = 2021/01/27 19:56:28:225
+Time_Span = 0:00:43.3317715
+
+
+
+please_send_to_hartsoe_for_comment.
+please_send_to_hartsoe_for_comment.
+please_sr[bs]end_to_hartd[bs]soe_for_comment.
+input_start = 2021/01/27 19:56:28:810
+input_end = 2021/01/27 19:57:10:342
+Time_Span = 0:00:41.531965
+
+
+
+what_is_happening_to_the_stock_price?
+what_is_happening_to_the_stock_price?
+what_is_happening_to_the_stov[bs]ck_pt[bs]rice?
+input_start = 2021/01/27 19:57:10:983
+input_end = 2021/01/27 19:57:51:139
+Time_Span = 0:00:40.156298
+
+
+
+this_is_very_sensitive.
+this_is_very_sensitive.
+this_is_very_sr[bs]ensitii[bs]ve.
+input_start = 2021/01/27 19:57:55:204
+input_end = 2021/01/27 19:58:22:675
+Time_Span = 0:00:27.4715781
+
+
+
+kay_mann_is_going_to_take_the_lead_on_this.
+kay_mann_is_going_to_take_the_lead_on_this.
+key[bs][bs]ay_mann_is_going_to_take_the_k[bs];[bs]lead_on_this.
+input_start = 2021/01/27 19:58:23:524
+input_end = 2021/01/27 19:59:11:394
+Time_Span = 0:00:47.8697274
+
+
+
+this_is_a_most_unfortunate_news_release.
+this_is_a_most_unfortunate_news_release.
+this_is_a_most_unfortunate_news_release.
+input_start = 2021/01/27 19:59:12:134
+input_end = 2021/01/27 19:59:52:621
+Time_Span = 0:00:40.4870164
+
+
+
+------------
+
+
+input_chara = 391
+
+input_backspace = 25
+
+input_totalstart = 2021/01/27 19:52:51:657
+
+input_totalend = 2021/01/27 19:59:52:627
+
+input_totaltime = 00:06:50.4066255
+

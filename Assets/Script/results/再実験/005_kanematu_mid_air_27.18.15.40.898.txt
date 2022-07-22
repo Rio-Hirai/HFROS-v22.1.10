@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+see_you_next_week.
+please_send_to_gary_smith.
+happy_holidays_to_you_and_your_staff.
+selling_wessex_is_the_right_move_for_everyone.
+will_be_a_while.
+are_you_in_a_good_mood?
+are_you_back_in_town?
+is_the_system_running_ok_this_morning?
+i_might_have_something_at_the_office.
+can_mark_ellenberg_participate?
+------------
+
+
+test_text : input_text
+
+see_you_next_week.
+see_you_next_week.
+see_you_next_week.
+input_start = 2021/01/27 18:15:40:898
+input_end = 2021/01/27 18:15:58:401
+Time_Span = 0:00:17.5023794
+
+
+
+please_send_to_gary_smith.
+please_send_to_gary_smith.
+please_send_to_gary_si[bs]mith.
+input_start = 2021/01/27 18:15:59:543
+input_end = 2021/01/27 18:16:19:495
+Time_Span = 0:00:19.9525347
+
+
+
+happy_holidays_to_you_and_your_staff.
+happy_holidays_to_you_and_your_staff.
+hapy[bs]py_holidays_to_yo_[bs][bs]ou_and_your_staff.
+input_start = 2021/01/27 18:16:20:163
+input_end = 2021/01/27 18:16:55:167
+Time_Span = 0:00:35.0037746
+
+
+
+selling_wessex_is_the_right_move_for_everyone.
+selling_wessex_is_the_right_move_for_everyone.
+selling_wessex_is_the_right_move_for,[bs]_everyone.
+input_start = 2021/01/27 18:16:55:833
+input_end = 2021/01/27 18:17:29:222
+Time_Span = 0:00:33.3895633
+
+
+
+will_be_a_while.
+will_be_a_while.
+will_be_a_while.
+input_start = 2021/01/27 18:17:30:30
+input_end = 2021/01/27 18:17:41:783
+Time_Span = 0:00:11.7521484
+
+
+
+are_you_in_a_good_mood?
+are_you_in_a_good_mood?
+are_you_in_a_good_mood?
+input_start = 2021/01/27 18:17:42:644
+input_end = 2021/01/27 18:18:01:678
+Time_Span = 0:00:19.0338586
+
+
+
+are_you_back_in_town?
+are_you_back_in_town?
+are_you_back_in_town?
+input_start = 2021/01/27 18:18:02:305
+input_end = 2021/01/27 18:18:19:278
+Time_Span = 0:00:16.9730424
+
+
+
+is_the_system_running_ok_this_morning?
+is_the_system_running_ok_this_morning?
+is_th,e[bs][bs]e_system_running_ok_this_morning?
+input_start = 2021/01/27 18:18:20:2
+input_end = 2021/01/27 18:18:50:799
+Time_Span = 0:00:30.7976328
+
+
+
+i_might_have_something_at_the_office.
+i_might_have_something_at_the_office.
+i_might_have_something_at_the_office.
+input_start = 2021/01/27 18:18:51:664
+input_end = 2021/01/27 18:19:20:958
+Time_Span = 0:00:29.2947666
+
+
+
+can_mark_ellenberg_participate?
+can_mark_ellenberg_participate.
+can_make[bs][bs]rk_ellenba[bs]erg_participate.
+input_start = 2021/01/27 18:19:22:294
+input_end = 2021/01/27 18:19:50:755
+Time_Span = 0:00:28.4608997
+
+
+
+------------
+
+
+input_chara = 313
+
+input_backspace = 10
+
+input_totalstart = 2021/01/27 18:15:40:898
+
+input_totalend = 2021/01/27 18:19:50:760
+
+input_totaltime = 00:04:02.1606005
+

@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+do_you_need_it_today?
+ok_to_make_changes,_change_out_original.
+i_changed_that_in_one_prior_draft.
+------------
+
+
+test_text : input_text
+
+do_you_need_it_today?
+do_you_need_it_today?
+do_you_nn4[bs][bs]eed_it_today?
+input_start = 2021/01/27 15:21:48:21
+input_end = 2021/01/27 15:22:10:815
+Time_Span = 0:00:22.7939152
+
+
+
+ok_to_make_changes,_change_out_original.
+ok_to_make_changes,_change_out_original.
+oj[bs]k_to_make_changes_,[bs][bs],_change_out_oo[bs]riginal.
+input_start = 2021/01/27 15:22:11:498
+input_end = 2021/01/27 15:23:10:159
+Time_Span = 0:00:58.6610561
+
+
+
+i_changed_that_in_one_prior_draft.
+i_changed_that_in_one_prior_draft.
+i_changed_that_n[bs]in_one_prior_draft.
+input_start = 2021/01/27 15:23:10:925
+input_end = 2021/01/27 15:23:47:181
+Time_Span = 0:00:36.2565452
+
+
+
+------------
+
+
+input_chara = 105
+
+input_backspace = 7
+
+input_totalstart = 2021/01/27 15:21:48:21
+
+input_totalend = 2021/01/27 15:23:47:191
+
+input_totaltime = 00:01:57.7115165
+

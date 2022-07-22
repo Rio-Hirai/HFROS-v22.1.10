@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+thanks,_i_think_we_have_taken_care_of_this.
+bound_to_be_some_media_flack_on_this.
+thanks_so_much_for_the_message.
+------------
+
+
+test_text : input_text
+
+thanks,_i_think_we_have_taken_care_of_this.
+thanks,_i_think_we_have_taken_care_of_this.
+thanks,_i_think_we_hae[bs]ve_th[bs]ae[bs]ken_care_of_this,[bs].
+input_start = 2021/01/27 15:52:41:324
+input_end = 2021/01/27 15:53:26:562
+Time_Span = 0:00:45.2382736
+
+
+
+bound_to_be_some_media_flack_on_this.
+bound_to_be_some_media_flack_on_this.
+bound_to_be_some_media_flack_on_this.
+input_start = 2021/01/27 15:53:27:216
+input_end = 2021/01/27 15:54:00:6
+Time_Span = 0:00:32.7893342
+
+
+
+thanks_so_much_for_the_message.
+thanks_so_much_for_the_message.
+thanks_so_much_for_the_message.
+input_start = 2021/01/27 15:54:00:520
+input_end = 2021/01/27 15:54:27:240
+Time_Span = 0:00:26.7192807
+
+
+
+------------
+
+
+input_chara = 118
+
+input_backspace = 4
+
+input_totalstart = 2021/01/27 15:52:41:324
+
+input_totalend = 2021/01/27 15:54:27:246
+
+input_totaltime = 00:01:44.7468885
+

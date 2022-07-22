@@ -1,0 +1,61 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+it_is_not_surprising.
+seems_unusual_to_me.
+has_it_been_mentioned_yet?
+------------
+
+
+test_text : input_text
+
+it_is_not_surprising.
+it_is_not_surprising.
+it_is_not_surprs[bs]ising.
+input_start = 2022/01/19 4:29:01:431
+input_end = 2022/01/19 4:29:25:202
+Time_Span = 0:00:23.7711191
+
+
+
+seems_unusual_to_me.
+seems_unusual_to_me.
+seems_unusus[bs]al_to_me.
+input_start = 2022/01/19 4:29:25:868
+input_end = 2022/01/19 4:29:45:655
+Time_Span = 0:00:19.7862531
+
+
+
+has_it_been_mentioned_yet?
+has_it_been_mentioned_yet?
+has_it_been_mentioned_yet?
+input_start = 2022/01/19 4:29:46:351
+input_end = 2022/01/19 4:30:10:133
+Time_Span = 0:00:23.7815702
+
+
+
+------------
+
+
+input_chara = 72
+
+input_backspace = 2
+
+input_totalstart = 2022/01/19 4:29:01:431
+
+input_totalend = 2022/01/19 4:30:10:137
+
+input_totaltime = 00:01:07.3389424
+
+
+hmpw_right_hand = 4.483027
+
+hmpw_right_finger = 9.420681
+
+hmpw_left_hand = 3.496619
+
+hmpw_left_finger = 5.554562
+

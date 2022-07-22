@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+we_are_on_a_plane_coming_back.
+not_just_1_to_2.
+let_me_know_how_i_can_help.
+was_it_a_car_wreck?
+does_friday_at_10_work_for_you?
+832-274-6528.
+if_not,_i_can_try_information_in_omaha.
+confirmed_with_mark_taylor.
+did_you_hear_alice_quit?
+no_obligation_to_pay.
+------------
+
+
+test_text : input_text
+
+we_are_on_a_plane_coming_back.
+we_are_on_a_plane_coming_back.
+input_start = 2021/01/18 19:16:26:304
+input_end = 2021/01/18 19:17:55:380
+Time_Span = 0:01:29.0756645
+
+
+
+not_just_1_to_2.
+not_just_1_to_2.
+input_start = 2021/01/18 19:17:56:770
+input_end = 2021/01/18 19:18:59:730
+Time_Span = 0:01:02.9599939
+
+
+
+let_me_know_how_i_can_help.
+let_me_know_how_i_can_help.
+input_start = 2021/01/18 19:18:59:861
+input_end = 2021/01/18 19:19:51:849
+Time_Span = 0:00:51.9876438
+
+
+
+was_it_a_car_wreck?
+was_it_a_car_wreck?
+input_start = 2021/01/18 19:19:59:576
+input_end = 2021/01/18 19:20:47:417
+Time_Span = 0:00:47.8413094
+
+
+
+does_friday_at_10_work_for_you?
+does_friday_at_10_work_for_you?
+input_start = 2021/01/18 19:20:49:980
+input_end = 2021/01/18 19:22:26:971
+Time_Span = 0:01:36.9910095
+
+
+
+832-274-6528.
+832.274.6528.
+input_start = 2021/01/18 19:22:28:175
+input_end = 2021/01/18 19:23:09:269
+Time_Span = 0:00:41.0938873
+
+
+
+if_not,_i_can_try_information_in_omaha.
+if_not,_i_can_try_information_in_omaha.
+input_start = 2021/01/18 19:23:10:709
+input_end = 2021/01/18 19:24:39:437
+Time_Span = 0:01:28.7283793
+
+
+
+confirmed_with_mark_taylor.
+confirmed_with_mark_taylor.
+input_start = 2021/01/18 19:24:44:223
+input_end = 2021/01/18 19:25:59:954
+Time_Span = 0:01:15.7310188
+
+
+
+did_you_hear_alice_quit?
+did_you_hear_alice_quit?
+input_start = 2021/01/18 19:26:04:421
+input_end = 2021/01/18 19:26:50:763
+Time_Span = 0:00:46.341604
+
+
+
+no_obligation_to_pay.
+no_obligation_to_pay.
+input_start = 2021/01/18 19:26:52:713
+input_end = 2021/01/18 19:27:28:442
+Time_Span = 0:00:35.7292528
+
+
+
+------------
+
+
+input_chara = 400
+
+input_backspace = 143
+
+input_totalstart = 2021/01/18 19:16:26:304
+
+input_totalend = 2021/01/18 19:27:28:448
+
+input_totaltime = 00:10:36.4797633
+

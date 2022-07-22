@@ -1,0 +1,224 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+why_do_you_ask?
+this_financing_shows_up_as_minority_interest.
+where_do_i_go_for_lunch?
+treasa_knows_the_details.
+no_obligation_to_pay.
+thanks_for_your_concern.
+only_as_a_last_resort_should_we_want_to_redo.
+what_is_the_purpose_of_this?
+do_we_have_new_york_sorted_out?
+what_is_the_stock_price_doing?
+------------
+
+
+test_text : input_text
+
+why_do_you_ask?
+why_do_you_ask?
+input_start = 2021/01/18 14:35:05:185
+input_end = 2021/01/18 14:35:28:728
+Time_Span = 0:00:23.5425861
+
+
+
+this_financing_shows_up_as_minority_interest.
+this_financing_shows_up_as_minority_interest.
+input_start = 2021/01/18 14:35:30:779
+input_end = 2021/01/18 14:37:03:574
+Time_Span = 0:01:32.7951943
+
+
+
+where_do_i_go_for_lunch?
+where_do_i_go_for_lunch?
+input_start = 2021/01/18 14:37:04:627
+input_end = 2021/01/18 14:37:35:361
+Time_Span = 0:00:30.7347139
+
+
+
+treasa_knows_the_details.
+treasa_knows_the_details.
+input_start = 2021/01/18 14:37:36:310
+input_end = 2021/01/18 14:38:15:483
+Time_Span = 0:00:39.1725528
+
+
+
+no_obligation_to_pay.
+no_obligation_to_pay.
+input_start = 2021/01/18 14:38:16:573
+input_end = 2021/01/18 14:38:44:744
+Time_Span = 0:00:28.1711361
+
+
+
+thanks_for_your_concern.
+thanks_for_your_concern.
+input_start = 2021/01/18 14:38:46:762
+input_end = 2021/01/18 14:39:31:403
+Time_Span = 0:00:44.6407549
+
+
+
+only_as_a_last_resort_should_we_want_to_redo.
+only_as_a_last_resort_should_we_want_to_redo.
+input_start = 2021/01/18 14:39:34:890
+input_end = 2021/01/18 14:40:40:863
+Time_Span = 0:01:05.9721829
+
+
+
+what_is_the_purpose_of_this?
+what_is_the_purpose_of_this?
+input_start = 2021/01/18 14:41:16:221
+input_end = 2021/01/18 14:41:43:901
+Time_Span = 0:00:27.6797731
+
+
+
+do_we_have_new_york_sorted_out?
+do_we_have_new_york_sorted_out?
+input_start = 2021/01/18 14:41:45:129
+input_end = 2021/01/18 14:42:46:667
+Time_Span = 0:01:01.5373812
+
+
+
+what_is_the_stock_price_doing?
+what_is_the_stock_price_doing?
+input_start = 2021/01/18 14:42:48:178
+input_end = 2021/01/18 14:43:46:683
+Time_Span = 0:00:58.5049437
+
+
+
+------------
+
+
+input_chara = 387
+
+input_backspace = 89
+
+input_totalstart = 2021/01/18 14:35:05:185
+
+input_totalend = 2021/01/18 14:43:46:689
+
+input_totaltime = 00:07:52.7512190
+
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+why_do_you_ask?
+this_financing_shows_up_as_minority_interest.
+where_do_i_go_for_lunch?
+treasa_knows_the_details.
+no_obligation_to_pay.
+thanks_for_your_concern.
+only_as_a_last_resort_should_we_want_to_redo.
+what_is_the_purpose_of_this?
+do_we_have_new_york_sorted_out?
+what_is_the_stock_price_doing?
+------------
+
+
+test_text : input_text
+
+why_do_you_ask?
+why_do_you_ask?
+input_start = 2021/01/18 14:35:05:185
+input_end = 2021/01/18 14:35:28:728
+Time_Span = 0:00:23.5425861
+
+
+
+this_financing_shows_up_as_minority_interest.
+this_financing_shows_up_as_minority_interest.
+input_start = 2021/01/18 14:35:30:779
+input_end = 2021/01/18 14:37:03:574
+Time_Span = 0:01:32.7951943
+
+
+
+where_do_i_go_for_lunch?
+where_do_i_go_for_lunch?
+input_start = 2021/01/18 14:37:04:627
+input_end = 2021/01/18 14:37:35:361
+Time_Span = 0:00:30.7347139
+
+
+
+treasa_knows_the_details.
+treasa_knows_the_details.
+input_start = 2021/01/18 14:37:36:310
+input_end = 2021/01/18 14:38:15:483
+Time_Span = 0:00:39.1725528
+
+
+
+no_obligation_to_pay.
+no_obligation_to_pay.
+input_start = 2021/01/18 14:38:16:573
+input_end = 2021/01/18 14:38:44:744
+Time_Span = 0:00:28.1711361
+
+
+
+thanks_for_your_concern.
+thanks_for_your_concern.
+input_start = 2021/01/18 14:38:46:762
+input_end = 2021/01/18 14:39:31:403
+Time_Span = 0:00:44.6407549
+
+
+
+only_as_a_last_resort_should_we_want_to_redo.
+only_as_a_last_resort_should_we_want_to_redo.
+input_start = 2021/01/18 14:39:34:890
+input_end = 2021/01/18 14:40:40:863
+Time_Span = 0:01:05.9721829
+
+
+
+what_is_the_purpose_of_this?
+what_is_the_purpose_of_this?
+input_start = 2021/01/18 14:41:16:221
+input_end = 2021/01/18 14:41:43:901
+Time_Span = 0:00:27.6797731
+
+
+
+do_we_have_new_york_sorted_out?
+do_we_have_new_york_sorted_out?
+input_start = 2021/01/18 14:41:45:129
+input_end = 2021/01/18 14:42:46:667
+Time_Span = 0:01:01.5373812
+
+
+
+what_is_the_stock_price_doing?
+what_is_the_stock_price_doing?
+input_start = 2021/01/18 14:42:48:178
+input_end = 2021/01/18 14:43:46:683
+Time_Span = 0:00:58.5049437
+
+
+
+------------
+
+
+input_chara = 387
+
+input_backspace = 89
+
+input_totalstart = 2021/01/18 14:35:05:185
+
+input_totalend = 2021/01/18 14:43:46:760
+
+input_totaltime = 00:15:45.5024380
+

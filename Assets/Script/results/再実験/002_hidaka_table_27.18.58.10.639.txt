@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+yes_i_am_coming_twice.
+we_are_on_a_plane_coming_back.
+ben_could_tell_him_about_pompano.
+can_you_please_review_and_get_back_to_tim?
+she_is_taking_over_global_finance_legal.
+yes_i_will_be_back_tonight.
+i_have_already_approved_and_forwarded.
+nothing_but_good_news_everyday.
+neal,_can_you_help_with_this?
+are_you_on_the_diet_with_me?
+------------
+
+
+test_text : input_text
+
+yes_i_am_coming_twice.
+yes_i_am_coming_twice.
+yes_i_am_coming_twice?[bs].
+input_start = 2021/01/27 18:58:10:639
+input_end = 2021/01/27 18:58:32:780
+Time_Span = 0:00:22.1406223
+
+
+
+we_are_on_a_plane_coming_back.
+we_are_on_a_plane_coming_back.
+wes[bs]_are_p[bs]on_a_plav[bs]m[bs]pne[bs][bs][bs]m[bs]ne_coming_back.
+input_start = 2021/01/27 18:58:38:545
+input_end = 2021/01/27 18:59:16:833
+Time_Span = 0:00:38.2878267
+
+
+
+ben_could_tell_him_about_pompano.
+ben_could_tell_him_about_pompano.
+ben_s[bs]could_twe[bs][bs]ell_him_av[bs]bout_pok[bs]ma[bs]pano.
+input_start = 2021/01/27 18:59:17:947
+input_end = 2021/01/27 18:59:57:457
+Time_Span = 0:00:39.5102615
+
+
+
+can_you_please_review_and_get_back_to_tim?
+can_you_please_review_and_get_back_to_tim?
+v[bs]can_u[bs]you_please_ref[bs]vfd[bs][bs]iew_am[bs]nd_get_back_to_fi[bs][bs]tim?
+input_start = 2021/01/27 18:59:58:369
+input_end = 2021/01/27 19:00:55:608
+Time_Span = 0:00:57.2384315
+
+
+
+she_is_taking_over_global_finance_legal.
+she_is_taking_over_global_finance_legal.
+shn_[bs][bs]e_is_takin_[bs]g_over_global_finja[bs][bs]ance_ll[bs]ega;[bs]l.
+input_start = 2021/01/27 19:00:56:502
+input_end = 2021/01/27 19:01:49:562
+Time_Span = 0:00:53.0591893
+
+
+
+yes_i_will_be_back_tonight.
+yes_i_will_be_back_tonight.
+yews[bs][bs]s_i_will_g[bs]bew[bs]__[bs]back_tong[bs]ighgt[bs][bs]t.
+input_start = 2021/01/27 19:01:50:298
+input_end = 2021/01/27 19:02:22:32
+Time_Span = 0:00:31.7334847
+
+
+
+i_have_already_approved_and_forwarded.
+i_have_already_approved_and_forwarded.
+i,[bs]_hacv[bs][bs][bs]ave_al;e[bs][bs]rea[bs]adu[bs]y_approved_and_fow[bs]w[bs]rwarded.
+input_start = 2021/01/27 19:02:22:893
+input_end = 2021/01/27 19:03:17:879
+Time_Span = 0:00:54.9857797
+
+
+
+nothing_but_good_news_everyday.
+nothing_but_good_news_everyday.
+notj[bs]hin_[bs]g_but_good_news_f[bs]everyday;[bs].
+input_start = 2021/01/27 19:03:18:740
+input_end = 2021/01/27 19:03:59:593
+Time_Span = 0:00:40.8533169
+
+
+
+neal,_can_you_help_with_this?
+neal,_can_you_help_with_this?
+nema[bs][bs]al,_can_you_help_with_this?
+input_start = 2021/01/27 19:04:00:316
+input_end = 2021/01/27 19:04:42:378
+Time_Span = 0:00:42.0610494
+
+
+
+are_you_on_the_diet_with_me?
+are_you_on_the_diet_with_me?
+are_you_on_the_diet_wih[bs]th_me?
+input_start = 2021/01/27 19:04:43:480
+input_end = 2021/01/27 19:05:12:177
+Time_Span = 0:00:28.6971674
+
+
+
+------------
+
+
+input_chara = 406
+
+input_backspace = 76
+
+input_totalstart = 2021/01/27 18:58:10:639
+
+input_totalend = 2021/01/27 19:05:12:182
+
+input_totaltime = 00:06:43.5671294
+

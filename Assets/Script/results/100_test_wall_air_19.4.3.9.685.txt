@@ -1,0 +1,41 @@
+-----------------------------------------------------------------------------------------
+
+test_text_1: 
+
+there_is_an_article_about_the_legal_department.
+------------
+
+
+test_text : input_text
+
+there_is_an_article_about_the_legal_department.
+there_is_an_article_about_the_legal_department.
+there_is_an_artiv[bs]cle_about_thr[bs]e_legal_departmr[bs]r[bs]ent.
+input_start = 2022/01/19 4:03:09:685
+input_end = 2022/01/19 4:04:21:948
+Time_Span = 0:01:12.2635109
+
+
+
+------------
+
+
+input_chara = 52
+
+input_backspace = 4
+
+input_totalstart = 2022/01/19 4:03:09:685
+
+input_totalend = 2022/01/19 4:04:21:952
+
+input_totaltime = 00:01:12.2635109
+
+
+hmpw_right_hand = 10.94314
+
+hmpw_right_finger = 13.7917
+
+hmpw_left_hand = 6.686799
+
+hmpw_left_finger = 10.22917
+

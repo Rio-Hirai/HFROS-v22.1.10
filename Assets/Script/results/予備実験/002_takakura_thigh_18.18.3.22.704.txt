@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+do_you_and_george_have_a_thing_going?
+do_you_know_anything?
+i_think_we_should_consider_this_request.
+thanks_again_for_your_help.
+has_your_4th_quarter_changed?
+this_is_very_sensitive.
+what_a_nice_note.
+did_you_not_read_my_first_email?
+yes_i_like_perfume.
+let_me_know_when_you_get_this.
+------------
+
+
+test_text : input_text
+
+do_you_and_george_have_a_thing_going?
+do_you_and_george_have_a_thing_going?
+input_start = 2021/01/18 18:03:22:704
+input_end = 2021/01/18 18:05:03:339
+Time_Span = 0:01:40.6354446
+
+
+
+do_you_know_anything?
+do_you_know_anything?
+input_start = 2021/01/18 18:05:25:293
+input_end = 2021/01/18 18:06:01:813
+Time_Span = 0:00:36.519671
+
+
+
+i_think_we_should_consider_this_request.
+i_think_we_should_consider_this_request.
+input_start = 2021/01/18 18:06:02:768
+input_end = 2021/01/18 18:07:06:579
+Time_Span = 0:01:03.8113451
+
+
+
+thanks_again_for_your_help.
+thanks_again_for_your_help.
+input_start = 2021/01/18 18:07:07:724
+input_end = 2021/01/18 18:07:51:190
+Time_Span = 0:00:43.4659049
+
+
+
+has_your_4th_quarter_changed?
+has_your_4th_quarter_changed?
+input_start = 2021/01/18 18:07:52:447
+input_end = 2021/01/18 18:08:34:140
+Time_Span = 0:00:41.6921037
+
+
+
+this_is_very_sensitive.
+this_is_very_sensitive.
+input_start = 2021/01/18 18:08:34:935
+input_end = 2021/01/18 18:09:12:793
+Time_Span = 0:00:37.8574871
+
+
+
+what_a_nice_note.
+what_a_nice_note.
+input_start = 2021/01/18 18:09:13:701
+input_end = 2021/01/18 18:09:39:40
+Time_Span = 0:00:25.33896
+
+
+
+did_you_not_read_my_first_email?
+did_you_not_read_my_first_email?
+input_start = 2021/01/18 18:09:39:938
+input_end = 2021/01/18 18:10:50:572
+Time_Span = 0:01:10.6346086
+
+
+
+yes_i_like_perfume.
+yes_i_like_perfume.
+input_start = 2021/01/18 18:10:52:319
+input_end = 2021/01/18 18:11:25:44
+Time_Span = 0:00:32.7253724
+
+
+
+let_me_know_when_you_get_this.
+let_me_know_when_you_get_this.
+input_start = 2021/01/18 18:11:25:955
+input_end = 2021/01/18 18:12:05:723
+Time_Span = 0:00:39.7682054
+
+
+
+------------
+
+
+input_chara = 381
+
+input_backspace = 96
+
+input_totalstart = 2021/01/18 18:03:22:704
+
+input_totalend = 2021/01/18 18:12:05:729
+
+input_totaltime = 00:08:12.4491028
+

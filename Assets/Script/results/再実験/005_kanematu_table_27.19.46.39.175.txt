@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+be_back_tomorrow_and_maybe_we_can_visit.
+yes_i_will_be_back_tonight.
+i_will_be_back_friday.
+so_the_language_does_have_value.
+moved_to_the_7th.
+hopefully_this_can_wait_until_monday.
+is_that_enough_for_this_week?
+the_troops_just_walked_in.
+both_of_us_are_still_here.
+lynn_and_steve_will_attend_for_me.
+------------
+
+
+test_text : input_text
+
+be_back_tomorrow_and_maybe_we_can_visit.
+be_back_tomorrow_and_maybe_we_can_visit.
+be_back_o[bs]tomorrow_and_maybe_we_can_visit.
+input_start = 2021/01/27 19:46:39:175
+input_end = 2021/01/27 19:47:17:869
+Time_Span = 0:00:38.6942672
+
+
+
+yes_i_will_be_back_tonight.
+yes_i_will_be_back_tonight.
+yes_i_will_be_back_t[bs]tonight.
+input_start = 2021/01/27 19:47:19:25
+input_end = 2021/01/27 19:47:46:163
+Time_Span = 0:00:27.1384099
+
+
+
+i_will_be_back_friday.
+i_will_be_back_friday.
+i_will_be_back_frie[bs]day.
+input_start = 2021/01/27 19:47:46:777
+input_end = 2021/01/27 19:48:09:274
+Time_Span = 0:00:22.4969964
+
+
+
+so_the_language_does_have_value.
+so_the_language_does_have_value.
+so_the_language_does_have_valur[bs][bs]e[bs]ue.
+input_start = 2021/01/27 19:48:09:861
+input_end = 2021/01/27 19:48:40:702
+Time_Span = 0:00:30.8401418
+
+
+
+moved_to_the_7th.
+moved_to_the_7th.
+moved_to_the_7th.
+input_start = 2021/01/27 19:48:41:398
+input_end = 2021/01/27 19:48:55:835
+Time_Span = 0:00:14.4377169
+
+
+
+hopefully_this_can_wait_until_monday.
+hopefully_this_can_wait_until_monday.
+hopefully_this_can_wait_until_monday.
+input_start = 2021/01/27 19:48:56:406
+input_end = 2021/01/27 19:49:30:644
+Time_Span = 0:00:34.2380905
+
+
+
+is_that_enough_for_this_week?
+is_that_enough_for_this_week?
+is_thayt[bs][bs]t_enough_for_this_wek[bs]ek?
+input_start = 2021/01/27 19:49:31:508
+input_end = 2021/01/27 19:49:58:241
+Time_Span = 0:00:26.7323725
+
+
+
+the_troops_just_walked_in.
+the_troops_just_walked_in.
+the_troops_just_walked_in.
+input_start = 2021/01/27 19:49:59:119
+input_end = 2021/01/27 19:50:25:587
+Time_Span = 0:00:26.4677815
+
+
+
+both_of_us_are_still_here.
+both_of_us_are_still_here.
+bi[bs]oth_of_us_are_d[bs]still_here.
+input_start = 2021/01/27 19:50:26:243
+input_end = 2021/01/27 19:50:52:291
+Time_Span = 0:00:26.0481596
+
+
+
+lynn_and_steve_will_attend_for_me.
+lynn_and_steve_will_attend_for_me.
+lynn_and_steve_will_attend_for_me.
+input_start = 2021/01/27 19:50:52:973
+input_end = 2021/01/27 19:51:25:40
+Time_Span = 0:00:32.0664587
+
+
+
+------------
+
+
+input_chara = 320
+
+input_backspace = 18
+
+input_totalstart = 2021/01/27 19:46:39:175
+
+input_totalend = 2021/01/27 19:51:25:46
+
+input_totaltime = 00:04:39.1603950
+

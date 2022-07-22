@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+great_job,_kevin.
+need_before_board_meeting.
+did_you_talk_to_ava_this_morning?
+do_you_want_to_go_to_the_cafeteria_for_lunch?
+thank_you_for_your_prompt_reply.
+the_only_change_would_be_the_date.
+he_played_goalie_almost_the_entire_game.
+barry,_hope_that_you_had_a_great_christmas.
+i_should_be_back_in_the_office_on_wednesday.
+might_include_proposals_with_respect_to_alaska.
+------------
+
+
+test_text : input_text
+
+great_job,_kevin.
+great_job,_kevin.
+great_h[bs]jo_b[bs][bs]b,_keb[bs]vin.
+input_start = 2021/01/27 19:16:07:335
+input_end = 2021/01/27 19:16:29:688
+Time_Span = 0:00:22.3528177
+
+
+
+need_before_board_meeting.
+need_before_board_meeting.
+m[bs]need_befe[bs]ore_board_meeting.
+input_start = 2021/01/27 19:16:32:446
+input_end = 2021/01/27 19:16:58:593
+Time_Span = 0:00:26.1470219
+
+
+
+did_you_talk_to_ava_this_morning?
+did_you_talk_to_ava_this_morning?
+;[bs]did_you_r[bs]tald[bs]k_o[bs]to_ab[bs]va_tho[bs]is_morning?
+input_start = 2021/01/27 19:16:59:526
+input_end = 2021/01/27 19:17:34:864
+Time_Span = 0:00:35.3378915
+
+
+
+do_you_want_to_go_to_the_cafeteria_for_lunch?
+do_you_want_to_go_to_the_cafeteria_for_lunch?
+do_u[bs]you_want_to_go_to_the_cafw[bs]eteria_g[bs]for_lunch?
+input_start = 2021/01/27 19:17:35:717
+input_end = 2021/01/27 19:18:18:375
+Time_Span = 0:00:42.6581409
+
+
+
+thank_you_for_your_prompt_reply.
+thank_you_for_your_prompt_reply.
+thank_you_for_6[bs]your_pe[bs]rompt_e[bs]reply.
+input_start = 2021/01/27 19:18:19:168
+input_end = 2021/01/27 19:18:53:101
+Time_Span = 0:00:33.9324316
+
+
+
+the_only_change_would_be_the_date.
+the_only_change_would_be_the_date.
+5[bs]the_only_change_would_be_thde[bs][bs]e_date.
+input_start = 2021/01/27 19:18:54:144
+input_end = 2021/01/27 19:19:27:587
+Time_Span = 0:00:33.4430706
+
+
+
+he_played_goalie_almost_the_entire_game.
+he_played_goalie_almost_the_entire_game.
+he_played_goalie_almost_thw[bs]e_entire_game.
+input_start = 2021/01/27 19:19:28:494
+input_end = 2021/01/27 19:20:07:91
+Time_Span = 0:00:38.5969805
+
+
+
+barry,_hope_that_you_had_a_great_christmas.
+barry,_hope_that_you_had_a_great_christmas.
+barry,_hope_thar0[bs][bs]t_ou0[bs][bs][bs]you_handp[bs][bs][bs]d_a_ge[bs]rea5[bs]t_christr[bs]mas.
+input_start = 2021/01/27 19:20:08:245
+input_end = 2021/01/27 19:21:14:124
+Time_Span = 0:01:05.878591
+
+
+
+i_should_be_back_in_the_office_on_wednesday.
+i_should_be_back_in_the_office_on_wednesday.
+i_should_be_back_in_thw[bs]e_office_omp[bs][bs]n_wednesdayd[bs].
+input_start = 2021/01/27 19:21:14:855
+input_end = 2021/01/27 19:22:21:840
+Time_Span = 0:01:06.9848905
+
+
+
+might_include_proposals_with_respect_to_alaska.
+might_include_proposals_with_respect_to_alaska.
+might_o0[bs][bs]inv0[bs][bs]cli0[bs]ud[bs][bs][bs]ude_proposals_with_e;[bs][bs]re_sp[bs][bs][bs]spw[bs]edc[bs]cte[bs][bs][bs][bs]ct_to_alaska.;[bs]
+input_start = 2021/01/27 19:22:23:302
+input_end = 2021/01/27 19:23:46:831
+Time_Span = 0:01:23.5282101
+
+
+
+------------
+
+
+input_chara = 449
+
+input_backspace = 60
+
+input_totalstart = 2021/01/27 19:16:07:335
+
+input_totalend = 2021/01/27 19:23:46:836
+
+input_totaltime = 00:07:28.8600463
+

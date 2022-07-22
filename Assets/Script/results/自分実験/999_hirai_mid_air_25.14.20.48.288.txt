@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+we_need_a_process_to_deal_with_this.
+i_am_leaving_the_lake.
+that_is_so_sad.
+------------
+
+
+test_text : input_text
+
+we_need_a_process_to_deal_with_this.
+we_need_a_process_to_deal_with_this.
+we_need_a_procee[bs]ssm[bs]_to_des[bs]al_with_this.
+input_start = 2021/01/25 14:20:48:288
+input_end = 2021/01/25 14:21:17:792
+Time_Span = 0:00:29.5048075
+
+
+
+i_am_leaving_the_lake.
+i_am_leaving_the_lake.
+i_am_lee[bs]ave__[bs][bs][bs]ing_the_lake.
+input_start = 2021/01/25 14:21:18:824
+input_end = 2021/01/25 14:21:37:928
+Time_Span = 0:00:19.1038758
+
+
+
+that_is_so_sad.
+that_is_so_sad.
+thi[bs][bs]hi[bs]atis[bs][bs][bs]t_is_so__d[bs][bs]sad,[bs].
+input_start = 2021/01/25 14:21:38:13
+input_end = 2021/01/25 14:21:59:719
+Time_Span = 0:00:21.7055068
+
+
+
+------------
+
+
+input_chara = 102
+
+input_backspace = 25
+
+input_totalstart = 2021/01/25 14:20:48:288
+
+input_totalend = 2021/01/25 14:21:59:723
+
+input_totaltime = 00:01:10.3141901
+

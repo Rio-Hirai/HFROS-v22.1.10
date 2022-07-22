@@ -1,0 +1,156 @@
+test_text_5: 
+
+Thanks, I will look at it tonight.
+We are working on this as we speak.
+Hopefully it cheered you up a bit.
+Interesting, are you around for a late lunch?
+How about 9 in my office on 3825?
+------------
+
+
+test_text : input_text
+
+Thanks, I will look at it tonight.
+
+
+
+We are working on this as we speak.
+
+
+
+Hopefully it cheered you up a bit.
+
+
+
+Interesting, are you around for a late lunch?
+
+
+
+How about 9 in my office on 3825?
+
+
+
+------------
+
+
+input_chara = 0
+
+input_backspace = 0
+
+test_text_5: 
+
+Thanks, I will look at it tonight.
+We are working on this as we speak.
+How about 9 in my office on 3825?
+Interesting, are you around for a late lunch?
+Hopefully it cheered you up a bit.
+------------
+
+
+test_text : input_text
+
+Thanks, I will look at it tonight.
+
+
+
+We are working on this as we speak.
+
+
+
+How about 9 in my office on 3825?
+
+
+
+Interesting, are you around for a late lunch?
+
+
+
+Hopefully it cheered you up a bit.
+
+
+
+------------
+
+
+input_chara = 0
+
+input_backspace = 0
+
+test_text_5: 
+
+Thanks, I will look at it tonight.
+We are working on this as we speak.
+Interesting, are you around for a late lunch?
+How about 9 in my office on 3825?
+Hopefully it cheered you up a bit.
+------------
+
+
+test_text : input_text
+
+Thanks, I will look at it tonight.
+
+
+
+We are working on this as we speak.
+
+
+
+Interesting, are you around for a late lunch?
+
+
+
+How about 9 in my office on 3825?
+
+
+
+Hopefully it cheered you up a bit.
+
+
+
+------------
+
+
+input_chara = 0
+
+input_backspace = 0
+
+test_text_5: 
+
+Thanks, I will look at it tonight.
+We are working on this as we speak.
+Interesting, are you around for a late lunch?
+How about 9 in my office on 3825?
+Hopefully it cheered you up a bit.
+------------
+
+
+test_text : input_text
+
+Thanks, I will look at it tonight.
+(Please input)ioqp
+
+
+We are working on this as we speak.
+948r
+
+
+Interesting, are you around for a late lunch?
+8u473hei
+
+
+How about 9 in my office on 3825?
+8upje73i
+
+
+Hopefully it cheered you up a bit.
+urhfn3
+
+
+------------
+
+
+input_chara = 35
+
+input_backspace = 0
+

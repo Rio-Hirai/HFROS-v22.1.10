@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+if_not_can_i_call_you?
+i_tried_that_to_no_avail.
+let_me_know_if_i_can_be_of_help.
+------------
+
+
+test_text : input_text
+
+if_not_can_i_call_you?
+if_not_can_i_call_you?
+if_not_can_i_call_you?
+input_start = 2021/01/27 14:51:29:438
+input_end = 2021/01/27 14:51:44:713
+Time_Span = 0:00:15.2746464
+
+
+
+i_tried_that_to_no_avail.
+i_tried_that_to_no_avail.
+i_tried_that_to_no_avail.
+input_start = 2021/01/27 14:51:45:592
+input_end = 2021/01/27 14:52:05:156
+Time_Span = 0:00:19.5645077
+
+
+
+let_me_know_if_i_can_be_of_help.
+let_me_know_if_i_can_be_of_help.
+le5[bs]t_me_knno[bs][bs]i[bs]ow_if_i_caan[bs][bs]n_be_of_help.
+input_start = 2021/01/27 14:52:05:975
+input_end = 2021/01/27 14:52:37:442
+Time_Span = 0:00:31.4670697
+
+
+
+------------
+
+
+input_chara = 88
+
+input_backspace = 6
+
+input_totalstart = 2021/01/27 14:51:29:438
+
+input_totalend = 2021/01/27 14:52:37:447
+
+input_totaltime = 00:01:06.3062238
+

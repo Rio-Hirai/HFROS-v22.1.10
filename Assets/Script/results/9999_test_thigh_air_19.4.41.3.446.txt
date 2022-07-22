@@ -1,0 +1,61 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+the_contract_is_a_bit_complicated.
+maybe_you_can_leave_early.
+probably_will_be_working.
+------------
+
+
+test_text : input_text
+
+the_contract_is_a_bit_complicated.
+the_contract_is_a_bit_complicated.
+thw[bs]e_com[bs]nte[bs]ract_is_a_bit_co,[bs][bs]om[bs]p[bs],[bs]mplicated.
+input_start = 2022/01/19 4:41:03:446
+input_end = 2022/01/19 4:41:58:486
+Time_Span = 0:00:55.0404063
+
+
+
+maybe_you_can_leave_early.
+maybe_you_can_leave_early.
+maybe_you_can_leave_eat[bs]rly.
+input_start = 2022/01/19 4:41:59:30
+input_end = 2022/01/19 4:42:27:628
+Time_Span = 0:00:28.5974313
+
+
+
+probably_will_be_working.
+probably_will_be_working.
+probably_will_be_worj[bs]l[bs]kio[bs]ng.
+input_start = 2022/01/19 4:42:29:6
+input_end = 2022/01/19 4:43:03:106
+Time_Span = 0:00:34.0998746
+
+
+
+------------
+
+
+input_chara = 100
+
+input_backspace = 12
+
+input_totalstart = 2022/01/19 4:41:03:446
+
+input_totalend = 2022/01/19 4:43:03:110
+
+input_totaltime = 00:01:57.7377122
+
+
+hmpw_right_hand = 9.825772
+
+hmpw_right_finger = 19.92834
+
+hmpw_left_hand = 7.848471
+
+hmpw_left_finger = 12.46672
+

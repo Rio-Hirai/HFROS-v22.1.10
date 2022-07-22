@@ -1,0 +1,256 @@
+-----------------------------------------------------------------------------------------
+
+test_text_12: 
+
+thanks,_i_will_look_at_it_tonight.
+how_about_9_in_my_office_on_3825?
+this_will_be_hard.
+are_you_going_to_join_us_for_lunch?
+hopefully_it_cheered_you_up_a_bit.
+sounds_good_to_me.
+have_a_good_evening.
+thanks,_i_think_we_have_taken_care_of_this.
+interesting,_are_you_around_for_a_late_lunch?
+we_are_working_on_this_as_we_speak.
+will_follow_up_today.
+yes_i_am_here_actually.
+------------
+
+
+test_text : input_text
+
+thanks,_i_will_look_at_it_tonight.
+09po._mn
+input_start = 2021/01/17 17:59:47:45
+
+input_end = 2021/01/17 17:59:47:45
+
+
+
+how_about_9_in_my_office_on_3825?
+ho
+input_start = 2021/01/17 18:00:32:492
+
+input_end = 2021/01/17 18:00:32:492
+
+
+
+this_will_be_hard.
+
+input_start = 2021/01/17 18:01:42:233
+
+input_end = 2021/01/17 18:01:42:233
+
+
+
+are_you_going_to_join_us_for_lunch?
+
+input_start = 2021/01/17 18:01:43:570
+
+input_end = 2021/01/17 18:01:43:570
+
+
+
+hopefully_it_cheered_you_up_a_bit.
+
+input_start = 2021/01/17 18:01:44:572
+
+input_end = 2021/01/17 18:01:44:572
+
+
+
+sounds_good_to_me.
+
+input_start = 2021/01/17 18:01:45:631
+
+input_end = 2021/01/17 18:01:45:631
+
+
+
+have_a_good_evening.
+
+input_start = 2021/01/17 18:01:46:744
+
+input_end = 2021/01/17 18:01:46:744
+
+
+
+thanks,_i_think_we_have_taken_care_of_this.
+
+input_start = 2021/01/17 18:01:47:886
+
+input_end = 2021/01/17 18:01:47:886
+
+
+
+interesting,_are_you_around_for_a_late_lunch?
+
+input_start = 2021/01/17 18:01:49:766
+
+input_end = 2021/01/17 18:01:49:766
+
+
+
+we_are_working_on_this_as_we_speak.
+
+input_start = 2021/01/17 18:01:51:381
+
+input_end = 2021/01/17 18:01:51:381
+
+
+
+will_follow_up_today.
+
+input_start = 2021/01/17 18:01:52:564
+
+input_end = 2021/01/17 18:01:52:564
+
+
+
+yes_i_am_here_actually.
+
+input_start = 2021/01/17 18:01:53:735
+
+input_end = 2021/01/17 18:01:53:735
+
+
+
+------------
+
+
+input_chara = 25
+
+input_backspace = 3
+
+input_totalstart = 2021/01/17 17:59:47:45
+
+input_totalend = 2021/01/17 18:01:54:320
+
+-----------------------------------------------------------------------------------------
+
+test_text_12: 
+
+thanks,_i_will_look_at_it_tonight.
+how_about_9_in_my_office_on_3825?
+this_will_be_hard.
+are_you_going_to_join_us_for_lunch?
+hopefully_it_cheered_you_up_a_bit.
+sounds_good_to_me.
+have_a_good_evening.
+thanks,_i_think_we_have_taken_care_of_this.
+interesting,_are_you_around_for_a_late_lunch?
+we_are_working_on_this_as_we_speak.
+will_follow_up_today.
+yes_i_am_here_actually.
+------------
+
+
+test_text : input_text
+
+thanks,_i_will_look_at_it_tonight.
+09po._mn
+input_start = 2021/01/17 17:59:47:45
+
+input_end = 2021/01/17 17:59:47:45
+
+
+
+how_about_9_in_my_office_on_3825?
+ho
+input_start = 2021/01/17 18:00:32:492
+
+input_end = 2021/01/17 18:00:32:492
+
+
+
+this_will_be_hard.
+
+input_start = 2021/01/17 18:01:42:233
+
+input_end = 2021/01/17 18:01:42:233
+
+
+
+are_you_going_to_join_us_for_lunch?
+
+input_start = 2021/01/17 18:01:43:570
+
+input_end = 2021/01/17 18:01:43:570
+
+
+
+hopefully_it_cheered_you_up_a_bit.
+
+input_start = 2021/01/17 18:01:44:572
+
+input_end = 2021/01/17 18:01:44:572
+
+
+
+sounds_good_to_me.
+
+input_start = 2021/01/17 18:01:45:631
+
+input_end = 2021/01/17 18:01:45:631
+
+
+
+have_a_good_evening.
+
+input_start = 2021/01/17 18:01:46:744
+
+input_end = 2021/01/17 18:01:46:744
+
+
+
+thanks,_i_think_we_have_taken_care_of_this.
+
+input_start = 2021/01/17 18:01:47:886
+
+input_end = 2021/01/17 18:01:47:886
+
+
+
+interesting,_are_you_around_for_a_late_lunch?
+
+input_start = 2021/01/17 18:01:49:766
+
+input_end = 2021/01/17 18:01:49:766
+
+
+
+we_are_working_on_this_as_we_speak.
+
+input_start = 2021/01/17 18:01:51:381
+
+input_end = 2021/01/17 18:01:51:381
+
+
+
+will_follow_up_today.
+
+input_start = 2021/01/17 18:01:52:564
+
+input_end = 2021/01/17 18:01:52:564
+
+
+
+yes_i_am_here_actually.
+
+input_start = 2021/01/17 18:01:53:735
+
+input_end = 2021/01/17 18:01:53:735
+
+
+
+------------
+
+
+input_chara = 25
+
+input_backspace = 3
+
+input_totalstart = 2021/01/17 17:59:47:45
+
+input_totalend = 2021/01/17 18:01:54:807
+

@@ -1,0 +1,224 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+has_anyone_else_heard_anything?
+please_send_me_an_email.
+it_is_not_surprising.
+i_changed_that_in_one_prior_draft.
+yes_i_like_perfume.
+yes_i_am_coming_twice.
+moved_to_the_7th.
+you_have_a_lot_of_holes_in_your_plan.
+we_are_having_fun.
+i_hope_to_have_before_the_end_of_the_day.
+------------
+
+
+test_text : input_text
+
+has_anyone_else_heard_anything?
+has_anyone_else_heard_anything?
+input_start = 2021/01/18 18:44:30:72
+input_end = 2021/01/18 18:45:46:402
+Time_Span = 0:01:16.329594
+
+
+
+please_send_me_an_email.
+please_send_me_an_email.
+input_start = 2021/01/18 18:45:48:295
+input_end = 2021/01/18 18:47:07:797
+Time_Span = 0:01:19.5015589
+
+
+
+it_is_not_surprising.
+it_is_not_surprising.
+input_start = 2021/01/18 18:47:08:941
+input_end = 2021/01/18 18:47:50:608
+Time_Span = 0:00:41.6668427
+
+
+
+i_changed_that_in_one_prior_draft.
+i_changed_that_in_one_prior_draft.
+input_start = 2021/01/18 18:47:51:634
+input_end = 2021/01/18 18:49:46:643
+Time_Span = 0:01:55.0091872
+
+
+
+yes_i_like_perfume.
+yes_i_like_perfume.
+input_start = 2021/01/18 18:49:48:425
+input_end = 2021/01/18 18:50:35:478
+Time_Span = 0:00:47.0526119
+
+
+
+yes_i_am_coming_twice.
+yes_i_am_coming_twice.
+input_start = 2021/01/18 18:50:37:378
+input_end = 2021/01/18 18:51:46:514
+Time_Span = 0:01:09.1357665
+
+
+
+moved_to_the_7th.
+moved_to_the_7th.
+input_start = 2021/01/18 18:51:48:715
+input_end = 2021/01/18 18:52:31:451
+Time_Span = 0:00:42.7360926
+
+
+
+you_have_a_lot_of_holes_in_your_plan.
+you_have_a_lot_of_holes_in_your_plan.
+input_start = 2021/01/18 18:52:32:631
+input_end = 2021/01/18 18:53:50:703
+Time_Span = 0:01:18.072195
+
+
+
+we_are_having_fun.
+we_are_having_fun.
+input_start = 2021/01/18 18:53:52:66
+input_end = 2021/01/18 18:54:55:185
+Time_Span = 0:01:03.1189879
+
+
+
+i_hope_to_have_before_the_end_of_the_day.
+i_hope_to_have_before_the_end_of_the_day.
+input_start = 2021/01/18 18:54:55:197
+input_end = 2021/01/18 18:56:31:574
+Time_Span = 0:01:36.3771347
+
+
+
+------------
+
+
+input_chara = 487
+
+input_backspace = 213
+
+input_totalstart = 2021/01/18 18:44:30:72
+
+input_totalend = 2021/01/18 18:56:31:579
+
+input_totaltime = 00:11:48.9999714
+
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+has_anyone_else_heard_anything?
+please_send_me_an_email.
+it_is_not_surprising.
+i_changed_that_in_one_prior_draft.
+yes_i_like_perfume.
+yes_i_am_coming_twice.
+moved_to_the_7th.
+you_have_a_lot_of_holes_in_your_plan.
+we_are_having_fun.
+i_hope_to_have_before_the_end_of_the_day.
+------------
+
+
+test_text : input_text
+
+has_anyone_else_heard_anything?
+has_anyone_else_heard_anything?
+input_start = 2021/01/18 18:44:30:72
+input_end = 2021/01/18 18:45:46:402
+Time_Span = 0:01:16.329594
+
+
+
+please_send_me_an_email.
+please_send_me_an_email.
+input_start = 2021/01/18 18:45:48:295
+input_end = 2021/01/18 18:47:07:797
+Time_Span = 0:01:19.5015589
+
+
+
+it_is_not_surprising.
+it_is_not_surprising.
+input_start = 2021/01/18 18:47:08:941
+input_end = 2021/01/18 18:47:50:608
+Time_Span = 0:00:41.6668427
+
+
+
+i_changed_that_in_one_prior_draft.
+i_changed_that_in_one_prior_draft.
+input_start = 2021/01/18 18:47:51:634
+input_end = 2021/01/18 18:49:46:643
+Time_Span = 0:01:55.0091872
+
+
+
+yes_i_like_perfume.
+yes_i_like_perfume.
+input_start = 2021/01/18 18:49:48:425
+input_end = 2021/01/18 18:50:35:478
+Time_Span = 0:00:47.0526119
+
+
+
+yes_i_am_coming_twice.
+yes_i_am_coming_twice.
+input_start = 2021/01/18 18:50:37:378
+input_end = 2021/01/18 18:51:46:514
+Time_Span = 0:01:09.1357665
+
+
+
+moved_to_the_7th.
+moved_to_the_7th.
+input_start = 2021/01/18 18:51:48:715
+input_end = 2021/01/18 18:52:31:451
+Time_Span = 0:00:42.7360926
+
+
+
+you_have_a_lot_of_holes_in_your_plan.
+you_have_a_lot_of_holes_in_your_plan.
+input_start = 2021/01/18 18:52:32:631
+input_end = 2021/01/18 18:53:50:703
+Time_Span = 0:01:18.072195
+
+
+
+we_are_having_fun.
+we_are_having_fun.
+input_start = 2021/01/18 18:53:52:66
+input_end = 2021/01/18 18:54:55:185
+Time_Span = 0:01:03.1189879
+
+
+
+i_hope_to_have_before_the_end_of_the_day.
+i_hope_to_have_before_the_end_of_the_day.
+input_start = 2021/01/18 18:54:55:197
+input_end = 2021/01/18 18:56:31:574
+Time_Span = 0:01:36.3771347
+
+
+
+------------
+
+
+input_chara = 487
+
+input_backspace = 213
+
+input_totalstart = 2021/01/18 18:44:30:72
+
+input_totalend = 2021/01/18 18:56:31:589
+
+input_totaltime = 00:23:37.9999428
+

@@ -1,0 +1,122 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+i_would_like_it_paid_through_i_buy_it.
+were_those_the_only_2_changes?
+can_you_call_me_at_home?
+i_doubt_that_it_is_forecasted.
+will_let_you_know_how_call_goes_in_morning.
+not_even_in_yet.
+but_i_believe_answer_will_be_yes.
+suggest_you_get_facts_before_judging_anyone.
+did_you_not_read_my_first_email?
+ava_please_put_on_my_calendar.
+------------
+
+
+test_text : input_text
+
+i_would_like_it_paid_through_i_buy_it.
+i_would_like_it_paid_through_i_buy_it.
+i_woulf[bs]d_like_it_paidf[bs]_tn[bs]ht[bs]rough_i_buy_it.
+input_start = 2021/01/28 15:33:53:169
+input_end = 2021/01/28 15:34:39:624
+Time_Span = 0:00:46.4547923
+
+
+
+were_those_the_only_2_changes?
+were_those_the_only_2_changes?
+e[bs]were_those_the_o_[bs]nly_2_v[bs]changes?
+input_start = 2021/01/28 15:34:44:33
+input_end = 2021/01/28 15:35:24:551
+Time_Span = 0:00:40.5180381
+
+
+
+can_you_call_me_at_home?
+can_you_call_me_at_home?
+can_you_ca;[bs]ll__[bs]me_at_ho,m[bs][bs]me?_[bs]
+input_start = 2021/01/28 15:35:26:541
+input_end = 2021/01/28 15:36:11:236
+Time_Span = 0:00:44.6948266
+
+
+
+i_doubt_that_it_is_forecasted.
+i_doubt_that_it_is_forecasted.
+i_doubt_that_it_is_g[bs]forr[bs]ecastr[bs]ed.
+input_start = 2021/01/28 15:36:13:324
+input_end = 2021/01/28 15:37:00:385
+Time_Span = 0:00:47.0611277
+
+
+
+will_let_you_know_how_call_goes_in_morning.
+will_let_you_know_how_call_goes_in_morning.
+will_lr[bs]et_you_know_how_v[bs]call_goes_i_[bs]n_morning.
+input_start = 2021/01/28 15:37:03:990
+input_end = 2021/01/28 15:37:56:944
+Time_Span = 0:00:52.9541526
+
+
+
+not_even_in_yet.
+not_even_in_yet.
+_n[bs][bs]not_even_in_hy[bs][bs]yet,[bs].
+input_start = 2021/01/28 15:37:57:778
+input_end = 2021/01/28 15:38:30:350
+Time_Span = 0:00:32.5716934
+
+
+
+but_i_believe_answer_will_be_yes.
+but_i_believe_answer_will_be_yes.
+vb[bs][bs]but_i_be;[bs]k[bs]lieve_anse[bs]wer_will_be_yr[bs]es.
+input_start = 2021/01/28 15:38:31:224
+input_end = 2021/01/28 15:39:22:140
+Time_Span = 0:00:50.9165571
+
+
+
+suggest_you_get_facts_before_judging_anyone.
+suggest_you_get_facts_before_judging_anyone.
+suggest_you_get_facts_before_judging_anyoi[bs]o[bs]ne.
+input_start = 2021/01/28 15:39:26:570
+input_end = 2021/01/28 15:40:23:41
+Time_Span = 0:00:56.4710864
+
+
+
+did_you_not_read_my_first_email?
+did_you_not_read_my_first_email?
+did__[bs]you_not_read_my_first_email?
+input_start = 2021/01/28 15:40:26:118
+input_end = 2021/01/28 15:41:07:556
+Time_Span = 0:00:41.4385453
+
+
+
+ava_please_put_on_my_calendar.
+ava_please_put_on_my_calendar.
+ava_please_put_on_my_ca;[bs]k[bs]lendar.
+input_start = 2021/01/28 15:41:08:419
+input_end = 2021/01/28 15:41:51:863
+Time_Span = 0:00:43.4445284
+
+
+
+------------
+
+
+input_chara = 377
+
+input_backspace = 35
+
+input_totalstart = 2021/01/28 15:33:53:169
+
+input_totalend = 2021/01/28 15:41:51:868
+
+input_totaltime = 00:07:36.5253479
+

@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+talk_to_you_later.
+also,_regarding_the_cash_flow_from_canada.
+should_i_bring_you_something_back?
+i_spoke_with_lara_robinson_this_morning.
+bound_to_be_some_media_flack_on_this.
+we_plan_on_reviewing_with_stan_on_monday.
+i_would_like_it_paid_through_i_buy_it.
+on_my_way_back.
+apologize_to_steve_dowd_for_me.
+i_tried_that_to_no_avail.
+------------
+
+
+test_text : input_text
+
+talk_to_you_later.
+talk_to_you_later.
+input_start = 2021/01/18 21:20:19:14
+input_end = 2021/01/18 21:20:59:368
+Time_Span = 0:00:40.3544579
+
+
+
+also,_regarding_the_cash_flow_from_canada.
+also,_regarding_the_cash_flow_from_canada.
+input_start = 2021/01/18 21:21:00:658
+input_end = 2021/01/18 21:22:01:983
+Time_Span = 0:01:01.3252776
+
+
+
+should_i_bring_you_something_back?
+should_i_bring_you_something_back?
+input_start = 2021/01/18 21:22:24:477
+input_end = 2021/01/18 21:23:51:840
+Time_Span = 0:01:27.3623486
+
+
+
+i_spoke_with_lara_robinson_this_morning.
+i_spoke_with_lara_robinson_this_morning.
+input_start = 2021/01/18 21:23:54:28
+input_end = 2021/01/18 21:25:26:227
+Time_Span = 0:01:32.1989139
+
+
+
+bound_to_be_some_media_flack_on_this.
+bound_to_be_some_media_flack_on_this.-20
+input_start = 2021/01/18 21:26:01:929
+input_end = 2021/01/18 21:27:22:416
+Time_Span = 0:01:20.4864715
+
+
+
+we_plan_on_reviewing_with_stan_on_monday.
+we_plan_on_reviewing_with_stan_on_monday.
+input_start = 2021/01/18 21:27:22:456
+input_end = 2021/01/18 21:28:21:967
+Time_Span = 0:00:59.510741
+
+
+
+i_would_like_it_paid_through_i_buy_it.
+i_would_like_it_paid_through_i_buy_it.
+input_start = 2021/01/18 21:28:26:322
+input_end = 2021/01/18 21:29:22:120
+Time_Span = 0:00:55.7980458
+
+
+
+on_my_way_back.
+on_my_way_back.
+input_start = 2021/01/18 21:29:23:325
+input_end = 2021/01/18 21:29:42:508
+Time_Span = 0:00:19.1827229
+
+
+
+apologize_to_steve_dowd_for_me.
+apologize_to_steve_dowd_for_me.
+input_start = 2021/01/18 21:29:43:712
+input_end = 2021/01/18 21:30:35:285
+Time_Span = 0:00:51.5736965
+
+
+
+i_tried_that_to_no_avail.
+i_tried_that_to_no_avail.
+input_start = 2021/01/18 21:30:39:69
+input_end = 2021/01/18 21:31:16:723
+Time_Span = 0:00:37.6543161
+
+
+
+------------
+
+
+input_chara = 517
+
+input_backspace = 186
+
+input_totalstart = 2021/01/18 21:20:19:14
+
+input_totalend = 2021/01/18 21:31:16:729
+
+input_totaltime = 00:09:45.4469918
+

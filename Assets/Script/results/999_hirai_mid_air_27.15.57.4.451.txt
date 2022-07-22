@@ -1,0 +1,52 @@
+-----------------------------------------------------------------------------------------
+
+test_text_3: 
+
+can_we_have_them_until_we_move?
+i_heard_it_was_at_5?
+can_you_do_the_gallup_contracts_as_well?
+------------
+
+
+test_text : input_text
+
+can_we_have_them_until_we_move?
+can_we_have_them_until_we_move?
+can_we_have_them_until_w_[bs]e_move?
+input_start = 2021/01/27 15:57:04:451
+input_end = 2021/01/27 15:57:33:691
+Time_Span = 0:00:29.2402281
+
+
+
+i_heard_it_was_at_5?
+i_heard_it_was_at_5?
+i_heard_it_a[bs]was_at_5?
+input_start = 2021/01/27 15:57:34:303
+input_end = 2021/01/27 15:57:59:504
+Time_Span = 0:00:25.2008752
+
+
+
+can_you_do_the_gallup_contracts_as_well?
+can_you_do_the_gallup_contracts_as_well?
+can_you_do_tt[bs]e[bs]he,[bs]_gallup_contract_[bs]s_as_well?
+input_start = 2021/01/27 15:58:00:76
+input_end = 2021/01/27 15:59:22:503
+Time_Span = 0:01:22.4269115
+
+
+
+------------
+
+
+input_chara = 100
+
+input_backspace = 6
+
+input_totalstart = 2021/01/27 15:57:04:451
+
+input_totalend = 2021/01/27 15:59:22:508
+
+input_totaltime = 00:02:16.8680148
+

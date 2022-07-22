@@ -1,0 +1,112 @@
+-----------------------------------------------------------------------------------------
+
+test_text_10: 
+
+where_do_i_go_for_lunch?
+i_want_to_thank_everyone_involved.
+we_think_it_may_be_payable_as_a_past_expense.
+thanks_for_your_concern.
+this_is_a_problem_for_timing_of_restart.
+once_you_do,_you_can_never_go_back.
+i_do_wish_i_knew.
+and_be_patient_as_there_is_no_timeline.
+he_would_love_anything_about_rocks.
+i_know_several_who_work_there.
+------------
+
+
+test_text : input_text
+
+where_do_i_go_for_lunch?
+where_do_i_go_for_lunch?
+input_start = 2021/01/18 19:52:15:572
+input_end = 2021/01/18 19:53:41:639
+Time_Span = 0:01:26.0674941
+
+
+
+i_want_to_thank_everyone_involved.
+i_want_to_thank_everyone_involved.
+input_start = 2021/01/18 19:53:42:689
+input_end = 2021/01/18 19:54:43:50
+Time_Span = 0:01:00.3601426
+
+
+
+we_think_it_may_be_payable_as_a_past_expense.
+we_think_it_may_be_payable_as_a_past_expense.
+input_start = 2021/01/18 19:54:44:372
+input_end = 2021/01/18 19:56:17:870
+Time_Span = 0:01:33.4978105
+
+
+
+thanks_for_your_concern.
+thanks_for_your_concern.
+input_start = 2021/01/18 19:56:19:414
+input_end = 2021/01/18 19:57:28:228
+Time_Span = 0:01:08.8141389
+
+
+
+this_is_a_problem_for_timing_of_restart.
+this_is_a_problem_for_timing_of_restart.
+input_start = 2021/01/18 19:57:32:149
+input_end = 2021/01/18 19:58:38:651
+Time_Span = 0:01:06.5017161
+
+
+
+once_you_do,_you_can_never_go_back.
+once_you_do,_you_can_never_go_back.
+input_start = 2021/01/18 19:58:38:719
+input_end = 2021/01/18 19:59:45:199
+Time_Span = 0:01:06.4801018
+
+
+
+i_do_wish_i_knew.
+i_do_wish_i_knew.
+input_start = 2021/01/18 19:59:49:885
+input_end = 2021/01/18 20:00:21:140
+Time_Span = 0:00:31.2547181
+
+
+
+and_be_patient_as_there_is_no_timeline.
+and_be_patient_as_there_is_no_timeline.
+input_start = 2021/01/18 20:00:23:433
+input_end = 2021/01/18 20:01:20:618
+Time_Span = 0:00:57.1854157
+
+
+
+he_would_love_anything_about_rocks.
+he_would_love_anything_about_rocks.
+input_start = 2021/01/18 20:01:25:465
+input_end = 2021/01/18 20:02:33:323
+Time_Span = 0:01:07.8582663
+
+
+
+i_know_several_who_work_there.
+i_know_several_who_work_these.
+input_start = 2021/01/18 20:02:34:293
+input_end = 2021/01/18 20:03:18:914
+Time_Span = 0:00:44.6210805
+
+
+
+------------
+
+
+input_chara = 473
+
+input_backspace = 140
+
+input_totalstart = 2021/01/18 19:52:15:572
+
+input_totalend = 2021/01/18 20:03:18:920
+
+input_totaltime = 00:10:42.6408846
+
