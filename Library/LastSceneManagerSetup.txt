@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/study.unity
+- path: Assets/Oculus/SampleFramework/Usage/Passthrough/Scenes/SelectivePassthrough.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
