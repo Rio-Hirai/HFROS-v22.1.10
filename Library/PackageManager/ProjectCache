@@ -20,7 +20,7 @@ m_EmbeddedPackageManifests:
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/riong/WORKSPACE_M.2/HFROS-v22.1.10/Packages
-m_EditorVersion: 2022.1.11f1 (09bebd6e9324)
+m_EditorVersion: 2022.1.13f1 (22856944e6d2)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.17.2
   testable: 0
