@@ -13,14 +13,14 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637941203772543180
-    m_Hash: 1984145686
+      ticks: 638012884340338277
+    m_Hash: 3101709610
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: C:/Users/riong/WORKSPACE_M.2/HFROS-v22.1.10/Packages
-m_EditorVersion: 2022.1.13f1 (22856944e6d2)
+m_EditorVersion: 2022.1.19f1 (2fd7b40534d1)
 m_ResolvedPackages:
 - packageId: com.unity.collab-proxy@1.17.2
   testable: 0
@@ -95,6 +95,7 @@ m_ResolvedPackages:
     - 1.17.0
     - 1.17.1
     - 1.17.2
+    - 1.17.6
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -106,8 +107,8 @@ m_ResolvedPackages:
     - 2.1.0-preview.5
     - 2.1.0-preview.6
     compatible:
-    - 1.17.1
     - 1.17.2
+    - 1.17.6
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -118,7 +119,7 @@ m_ResolvedPackages:
     - 2.1.0-preview.3
     - 2.1.0-preview.5
     - 2.1.0-preview.6
-    verified: 1.17.2
+    verified: 1.17.6
   dependencies:
   - name: com.unity.services.core
     version: 1.0.1
@@ -163,7 +164,7 @@ m_ResolvedPackages:
     revision: 14d129dcc778f8ea2fdf9d0240b47924e4f0dbb1
     path: 
   unityLifecycle:
-    version: 1.17.1
+    version: 1.17.2
     nextVersion: 
 - packageId: com.unity.feature.development@1.0.1
   testable: 0
@@ -304,9 +305,11 @@ m_ResolvedPackages:
     - 3.0.13
     - 3.0.14
     - 3.0.15
+    - 3.0.16
     compatible:
     - 3.0.15
-    verified: 3.0.15
+    - 3.0.16
+    verified: 3.0.16
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -530,7 +533,6 @@ m_ResolvedPackages:
     - 2.0.1-pre.12
     - 2.0.1-pre.18
     compatible:
-    - 1.1.31
     - 1.1.33
     - 2.0.1-exp.1
     - 2.0.1-pre.12
@@ -571,7 +573,7 @@ m_ResolvedPackages:
     revision: 34a4d423d64926635eb36d3bb86276179cc186e1
     path: 
   unityLifecycle:
-    version: 1.1.31
+    version: 1.1.33
     nextVersion: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
@@ -1125,7 +1127,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.xr
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.9
+    version: 2.1.10
   - name: com.unity.subsystemregistration
     version: 1.1.1
   keywords:
@@ -1224,6 +1226,7 @@ m_ResolvedPackages:
     - 1.11.2
     - 1.12.0
     - 1.12.1
+    - 1.13.0
     - 2.0.0-preview.1
     - 2.0.0-preview.2
     - 2.0.0-preview.4
@@ -1235,8 +1238,12 @@ m_ResolvedPackages:
     - 3.0.0
     - 3.0.1
     - 3.0.2
+    - 3.1.1
+    - 3.2.1
     compatible:
     - 3.0.2
+    - 3.1.1
+    - 3.2.1
     verified: 3.0.2
   dependencies:
   - name: com.unity.xr.management
@@ -1255,7 +1262,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.xr
     version: 1.0.0
   - name: com.unity.xr.legacyinputhelpers
-    version: 2.1.9
+    version: 2.1.10
   - name: com.unity.subsystemregistration
     version: 1.1.1
   keywords:
@@ -3026,12 +3033,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 
     nextVersion: 
-- packageId: com.unity.xr.legacyinputhelpers@2.1.9
+- packageId: com.unity.xr.legacyinputhelpers@2.1.10
   testable: 0
   isDirectDependency: 0
-  version: 2.1.9
+  version: 2.1.10
   source: 1
-  resolvedPath: C:\Users\riong\WORKSPACE_M.2\HFROS-v22.1.10\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.9
+  resolvedPath: C:\Users\riong\WORKSPACE_M.2\HFROS-v22.1.10\Library\PackageCache\com.unity.xr.legacyinputhelpers@2.1.10
   assetPath: Packages/com.unity.xr.legacyinputhelpers
   name: com.unity.xr.legacyinputhelpers
   displayName: XR Legacy Input Helpers
@@ -3075,9 +3082,10 @@ m_ResolvedPackages:
     - 2.1.7
     - 2.1.8
     - 2.1.9
+    - 2.1.10
     compatible:
-    - 2.1.9
-    verified: 2.1.9
+    - 2.1.10
+    verified: 2.1.10
   dependencies:
   - name: com.unity.modules.vr
     version: 1.0.0
@@ -3109,16 +3117,16 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637812095140000000
+  datePublishedTicks: 637958908030000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
-    revision: 8e4581a11c14b64d41aabb67f51b0d8a0c75f5c4
+    revision: 465ee12451634ea2b2986d54f6ae8be37316772a
     path: 
   unityLifecycle:
-    version: 2.1.9
+    version: 2.1.10
     nextVersion: 
 - packageId: com.unity.subsystemregistration@1.1.1
   testable: 0
@@ -3411,6 +3419,7 @@ m_ResolvedPackages:
     - 1.2.0-exp.5
     - 1.2.0-exp.6
     - 1.2.0-exp.7
+    - 1.2.0
     compatible:
     - 1.1.1
     - 1.2.0-exp.1
@@ -3420,6 +3429,7 @@ m_ResolvedPackages:
     - 1.2.0-exp.5
     - 1.2.0-exp.6
     - 1.2.0-exp.7
+    - 1.2.0
     verified: 1.1.1
   dependencies:
   - name: com.unity.test-framework
@@ -3500,9 +3510,11 @@ m_ResolvedPackages:
     - 1.4.0
     - 1.4.1
     - 1.4.2
+    - 1.4.3
     compatible:
     - 1.4.2
-    verified: 1.4.2
+    - 1.4.3
+    verified: 1.4.3
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
